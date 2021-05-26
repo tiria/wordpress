@@ -1,0 +1,179 @@
+/*********************************************/
+/* featured content slider                   */
+/*********************************************/
+
+	.slider-main-wrap {
+		position: relative;
+		clear: both;
+		width: 100%;
+		padding: 0;
+		overflow: hidden;
+		z-index: 0;
+	}
+
+	/* slider backgrounds */
+		.slider .slide-bg {
+			position: absolute;
+			display: none;
+			width: 100%;
+			height: 100%;
+			left: 0;
+			top: 0;
+			z-index: -1;
+		}
+
+	/* video slider */
+		.slider.video {text-align: center}
+		.video-slider {height: auto}
+			.no-js #video-slider.no-cover {display: none}
+			.no-js #video-slider.has-cover .video-container {display: none}
+			.video .slider iframe {
+				margin: 0 auto;
+				z-index: 0;
+			}
+			img.video-cover {
+				max-width: 100%;
+				cursor: pointer;
+			}
+
+	/* static image */
+		.static-slider {
+			position: relative;
+			text-align: center;
+		}
+			.static-slider img {
+				max-width: 100%;
+				vertical-align: top;
+			}
+			.static-slider.stretch-image img {width: 100%}
+
+	/* slide description */
+		.slider-caption-content {
+			position: relative;
+			height: 100%;
+			margin: 0 auto;
+			text-align: left;
+			overflow: hidden;
+		}
+		.slider-caption-content.aligntop {top: 0}
+		.slider-caption-content.alignbottom {bottom: 0}
+			.caption-inner {
+				display: table;
+				position: relative;
+				width: 100%;
+				height: 100%;
+				padding: 0 5%;
+				background: url(../img/transparent/black/50.png); /* can be changed in Slides custom post to black/white only */
+				color: #fff;
+			}
+				.caption-inner.bg-white {color: #000}
+				.caption-inner.bg-black {color: #fff}
+				.caption-inner.col-11 {
+					height: auto;
+					padding: 0;
+				}
+				.caption-inner.no-padding {padding: 0}
+				.caption-inner.aligntop,
+				.caption-inner.alignbottom,
+				.caption-inner.centered {
+					position: absolute;
+					left: 0;
+					top: 0;
+				}
+				.caption-inner.centered {
+					height: 100%;
+					text-align: center;
+				}
+				.caption-inner.alignbottom {
+					top: auto;
+					bottom: 0;
+				}
+			.caption-inner-centered {
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
+			}
+				.caption-inner.col-11 .caption-inner-centered {padding: 20px}
+				.caption-inner.no-padding .caption-inner-centered {padding: 0}
+
+			.slider-caption-content h1,
+			.slider-caption-content h2,
+			.slider-caption-content h3,
+			.slider-caption-content h4,
+			.slider-caption-content h5,
+			.slider-caption-content h6 {color: inherit}
+			.slider-caption-content img {position: relative !important}
+
+			.slider-caption-content .btn img {
+				display: inline !important;
+				vertical-align: middle !important;
+				margin: -4px 5px 0 -2px !important;
+			}
+			.slider-caption-content .btn.size-extra-large img {margin-left: -4px !important}
+
+		/* caption slider link corrections */
+			.wrap-caption,
+			.slider-caption-content > a {
+				position: absolute;
+				display: block;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+			}
+			}
+
+	/* custom slider */
+		.custom-slider > div * { /* all sliders in slider area (for best compatibility) */
+			-webkit-box-sizing: content-box;
+			   -moz-box-sizing: content-box;
+			        box-sizing: content-box;
+		}
+
+		/* theme shortcodes in slider area */
+			.custom-slider .countdown-timer *,
+			.custom-slider > div.gallery * {
+				-webkit-box-sizing: border-box;
+				   -moz-box-sizing: border-box;
+				        box-sizing: border-box;
+			}
+
+	/* posts slideshow */
+		.posts-slideshow{
+			position:relative;
+		}
+		.posts-slideshow-navigation{
+			position:absolute;
+			width:50px;
+			height:100%;
+			top:0;
+			background:url(../img/psnavleft.png) center center no-repeat;
+		}
+		.posts-slideshow-navigation.navigation-left{
+			left:0;
+		}
+		.posts-slideshow-navigation.navigation-right{
+			right:0;
+			background-image:url(../img/psnavright.png);
+		}
+		.posts-slideshow-mask {
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			height: 300px;
+			overflow: hidden;
+			margin: 0 50px;
+			position:relative;
+		}
+		.posts-slideshow-container {
+			position: absolute;
+			width: 1000%;
+			top:0;
+			left:0;
+		}
+		.posts-slideshow-row {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 10%;
+		}

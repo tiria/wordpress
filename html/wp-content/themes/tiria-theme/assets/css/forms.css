@@ -1,0 +1,257 @@
+/*********************************************/
+/* form styles                               */
+/*********************************************/
+
+	/* general forms */
+		form {}
+
+		/* labels */
+			label {
+				display: inline-block;
+				padding-bottom: 0.5em;
+			}
+			label[for] {cursor: pointer}
+
+		/* form input elements */
+			button,
+			input,
+			select,
+			textarea {
+				max-width: 100%;
+				vertical-align: middle;
+			}
+			button,
+			input[type="text"],
+			input[type="search"],
+			input[type="number"],
+			input[type="date"],
+			input[type="time"],
+			input[type="email"],
+			input[type="tel"],
+			input[type="url"],
+			input[type="password"],
+			select,
+			textarea {
+				background:#fff;
+			}
+				
+			input {
+				height: 34px;
+				line-height: 34px;
+			}
+
+		/* text input */
+			input[type="text"],
+			input[type="search"],
+			input[type="number"],
+			input[type="date"],
+			input[type="time"],
+			input[type="email"],
+			input[type="tel"],
+			input[type="url"],
+			input[type="password"] {
+				width: 100%;
+			}
+
+			textarea {
+				padding: 9px;
+				vertical-align: top;
+				word-wrap: break-word;
+				overflow-y: auto;
+				resize: vertical;
+			}
+
+		/* checkboxes and radio buttons */
+			input[type="checkbox"],
+			input[type="radio"] {
+				width: 14px;
+				height: 14px;
+				margin-right: 0.5em;
+			}
+
+		/* select */
+			select {
+				position: relative;
+				width: 100%;
+				height: auto;
+				padding: 8px 9px;
+				line-height: 20px;
+			}
+				select option {
+					background: #fff;
+					color: #000;
+				}
+				/* hack to target WebKit browsers only */
+				@media screen and ( -webkit-min-device-pixel-ratio: 0 ) {
+					select {
+						-webkit-appearance: none;
+						background-position: 98% 50%, 0 0; /* top images first, than bottom ones */
+						background-repeat: no-repeat, repeat; /* top images first, than bottom ones */
+					}
+					select,
+					.dark-icons select {
+						background-image: url(../img/icons/16x16/arrow-down.png); /* top images first, than bottom ones */
+					}
+					.light-icons select {
+						background-image: url(../img/icons/16x16/arrow-down-inverse.png); /* top images first, than bottom ones */
+					}
+				}
+
+		/* submit buttons */
+			input[type="button"],
+			input[type="submit"] { /* more in core.css */
+				padding: 0 15px;
+				line-height: normal;
+				cursor: pointer;
+			}
+				input[disabled] {
+					background-image: none;
+					opacity: 0.66;
+					filter: alpha(opacity=66); /* For IE8 and earlier */
+				}
+
+
+
+	/* search form */
+		.form-search {
+			position: relative;
+			display: block;
+			width: 200px;
+			height: 34px;
+			max-width: 100%;
+			margin: 0;
+			text-align: left;
+		}
+			.sidebar .form-search {width: 100%}
+
+			.form-search input[type="text"],
+			.widget .form-search input[type="text"] {
+				position: absolute;
+				right: 0;
+				top: 0;
+				width: 100%;
+				padding: 0 34px 0 8px;
+				margin-right: 0;
+			}
+
+			.form-search input[type="submit"] {
+				position: absolute;
+				width: 34px;
+				height: 34px;
+				right: 0;
+				top: 0;
+				text-indent: -999em;
+				background-color: transparent;
+				background-image: url(../img/buttons/black/btn-search.png);
+				background-repeat: no-repeat;
+				background-position: 0 1px;
+				border: none;
+				-webkit-border-radius: 0;
+				   -moz-border-radius: 0;
+				        border-radius: 0;
+				-webkit-box-shadow: none !important;
+				   -moz-box-shadow: none !important;
+				        box-shadow: none !important;
+			}
+				.dark-icons .form-search input[type="submit"] {background-image: url(../img/buttons/black/btn-search.png)}
+				.light-icons .form-search input[type="submit"] {background-image: url(../img/buttons/white/btn-search.png)}
+				.ie7 .form-search input[type="submit"] {
+					text-transform: capitalize; /* magically, this causes IE7 to accept text-indent */
+				}
+				.form-search input[type="submit"]:before {display: none}
+				.form-search input[type="submit"]:hover {
+					background-position: 0 -31px;
+					-webkit-box-shadow: none;
+					-moz-box-shadow: none;
+					box-shadow: none;
+					-webkit-box-shadow: none !important;
+					   -moz-box-shadow: none !important;
+					        box-shadow: none !important;
+				}
+				.form-search input[type="submit"]:active {
+					background-image: url(../img/buttons/black/btn-search.png) !important;
+					-webkit-box-shadow: none !important;
+					   -moz-box-shadow: none !important;
+					        box-shadow: none !important;
+				}
+					.dark-icons .form-search input[type="submit"]:active {background-image: url(../img/buttons/black/btn-search.png) !important}
+					.light-icons .form-search input[type="submit"]:active {background-image: url(../img/buttons/white/btn-search.png) !important}
+
+
+
+	/* comments form */
+		#respond {
+			position: relative;
+			padding: 20px 0;
+		}
+			#commentform p {
+				position: relative;
+				padding: 0 0 10px;
+				margin: 0;
+			}
+
+			#commentform .required,
+			.comment-notes,
+			#commentform .comment-form-comment label {display: none}
+
+			/* inputs */
+				.comment-form-url input,
+				.comment-form-email input,
+				.comment-form-author input {
+					width: 220px;
+					margin-right: 0.5em;
+				}
+
+			/* textarea */
+				#comment {
+					width: 480px;
+					height: 100px;
+					padding: 10px;
+					margin: 0;
+				}
+
+			/* additional info */
+				.allowed-tags {width: 400px}
+				.allowed-tags code {
+					display: block;
+					padding: 0.5em 0 0 0;
+				}
+
+			/* logged in user data */
+				.personal_data p {
+					float: left;
+					width: 33%;
+				}
+				.personal_data label {display: none}
+
+			/* comment form when replying */
+				.commentlist #respond {padding-left: 90px}
+				.commentlist .children #respond {padding-left: 60px}
+				.commentlist #respond .note {display: none}
+
+
+
+	/* widget form styles */
+		/* text input fields width */
+			.widget input[type="text"],
+			.widget input[type="email"],
+			.widget input[type="password"],
+			.widget textarea {width: 100%}
+
+		/* select width */
+			.widget select {width: 100%}
+
+
+
+	/* Contact Form 7 styles */
+		.wpcf7 {}
+			.wpcf7 form {margin-top: 0}
+			.wpcf7 p {margin-top: 0.5em}
+			.wpcf7-form-control-wrap br {display: none}
+			.wpcf7 span.wpcf7-list-item {
+				display: block;
+				padding-bottom: 0.5em;
+				margin: 0;
+			}
+
+

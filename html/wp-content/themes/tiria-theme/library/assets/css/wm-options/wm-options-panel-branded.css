@@ -1,0 +1,61 @@
+/*
+*****************************************************
+* TIRIA'S WORDPRESS THEME FRAMEWORK
+* Created by Tiria - www.tiria.fr
+* Based on Clifden by Webman - www.webmandesign.eu
+*
+* WebMan Options Panel branding styles
+*****************************************************
+*/
+
+	.wm-wrap {
+		background: #000;
+		background: url(../../img/bg-nav.png) repeat-y 0 0;
+		border: 0;
+	}
+
+	.wm-wrap ul.tabs.sub li a,
+	.wm-wrap.meta ul.tabs li a,
+	.wm-wrap ul.inside-tabs li a {
+		background: #ccc;
+	}
+
+	.wm-wrap h2,
+	.wm-wrap h3,
+	.wm-wrap h4 {
+		color: #000;
+	}
+
+	.wm-wrap a.logo {
+		background: #000;
+	}
+		.wm-wrap a.logo img {
+			padding: 35px 0;
+		}
+
+	.wm-wrap #nav ul {
+		border-top: 0;
+		border-bottom: 1px solid #404040;
+	}
+
+	.wm-wrap #nav li {
+		border-top: 0;
+		border-bottom: 0;
+		text-shadow: 0 1px #000;
+		background: url(../../img/bg-tab.png) repeat-x 0 -60px;
+	}
+		.wm-wrap #nav li:hover {background: #333 url(../../img/bg-tab.png) repeat-x 0 -60px}
+		.wm-wrap #nav li.active {
+			text-shadow: 0 1px #000;
+			background: #a1cc58 url(../../img/bg-tab.png) repeat-x 0 -60px;
+			background-position: 0 0;
+		}
+
+	.wm-wrap #nav li.active a {color: #fff}
+
+	.wm-wrap #wrap-footer p {
+		color: #333;
+	}
+		.wm-wrap #wrap-footer a {color: #555}
+
+/* End of file */

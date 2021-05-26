@@ -1,0 +1,360 @@
+/*********************************************/
+/* sidebar                                   */
+/*********************************************/
+
+	.sidebar {
+		position: relative;
+		padding: 30px 0;
+	}
+		.sidebar.sidebar-left {float: left}
+
+		/* sidebar separator */
+			.sidebar-separator {
+				position: absolute;
+				width: 14px;
+				height: 100%;
+				left: 0;
+				top: 0;
+				opacity: 0.15;
+				filter: alpha(opacity=15); /* For IE8 and earlier */
+			}
+			.sidebar-left .sidebar-separator {
+				left: auto;
+				right: 0;
+			}
+
+		/* sidebar widgets */
+			.sidebar .widget {
+				position: relative;
+				padding-top: 30px;
+				margin: 30px 0 0;
+			}
+				.sidebar .widget:before {
+					content: '';
+					position: absolute;
+					width: 30%;
+					height: 1px;
+					left: 0;
+					top: 0;
+				}
+				.sidebar .widget:first-child {
+					margin-top: 0;
+					padding-top: 0;
+					border-top: none;
+				}
+					.sidebar .widget:first-child:before {display: none}
+
+				.sidebar-right .widget {margin-left: 30px}
+				.sidebar-left .widget {margin-right: 30px}
+
+		/* sidebar buttons */
+			.sidebar li a.btn {width: auto}
+
+		/* widget lists */
+			.widget ul {margin-top: 0}
+			.widget ul li {
+				padding: 0;
+				margin: 0;
+				background: none;
+			}
+			.widget li ul {
+				padding-left: 15px;
+				margin: 0;
+			}
+			.widget li a,
+			.widget_nav_menu .inner {
+				display: block;
+				width: 100%;
+				padding: 0.5em 0;
+			}
+				.widget li:first-child > a {border-top: none !important}
+
+
+
+/*********************************************/
+/* WordPress widgets                         */
+/*********************************************/
+
+	/* archives, categories, links and recent comments widget */
+		.widget_archive ul,
+		.widget_categories ul,
+		.widget_links ul,
+		.widget_recent_comments ul {border: none}
+
+			.widget_archive li ul,
+			.widget_categories li ul,
+			.widget_links li ul,
+			.widget_recent_comments li ul {
+				padding-top: 0.5em;
+				margin-top: 0.5em;
+				margin-bottom: -0.5em;
+			}
+
+			.widget_archive ul li,
+			.widget_categories ul li,
+			.widget_links ul li,
+			.widget_recent_comments ul li {padding: 0.5em 0}
+				.widget_archive ul li:first-child,
+				.widget_categories ul li:first-child,
+				.widget_links ul li:first-child,
+				.widget_recent_comments ul li:first-child {border-top: none !important}
+				.footer .widget_archive ul li:first-child,
+				.footer .widget_categories ul li:first-child,
+				.footer .widget_links ul li:first-child,
+				.footer .widget_recent_comments ul li:first-child {padding-top: 0}
+
+			.widget_archive ul li a,
+			.widget_categories ul li a,
+			.widget_links ul li a,
+			.widget_recent_comments ul li a {
+				display: inline;
+				border: none !important;
+			}
+
+
+
+	/* calendar widget */
+		.widget_calendar {}
+			#wp-calendar {margin: 0}
+			#wp-calendar tr th,
+			#wp-calendar tr td {
+				width: auto;
+				height: 32px;
+				padding: 0;
+				text-align: center;
+			}
+			#wp-calendar caption {padding-top: 0}
+			#wp-calendar tbody a {
+				display: block;
+				width: 100%;
+				height: 100%;
+				line-height: 32px;
+			}
+			#wp-calendar tfoot a {color: inherit}
+
+
+
+	/* tag cloud widget */
+		.widget_tag_cloud a {
+			position: relative;
+			display: inline-block;
+			padding: 1px 8px;
+			margin: 2px 1px;
+			white-space: nowrap;
+			font-size: 1em !important;
+			-webkit-border-radius: 20px;
+			   -moz-border-radius: 20px;
+			        border-radius: 20px;
+		}
+			.widget_tag_cloud .tagcloud a,
+			.dark-icons .widget_tag_cloud .tagcloud a {
+				background: url(../img/transparent/black/50.png);
+				background: rgba(0,0,0, .50);
+				color: #ddd;
+			}
+			.light-icons .widget_tag_cloud .tagcloud a {
+				background: url(../img/transparent/white/50.png);
+				background: rgba(255,255,255, .50);
+				color: #222;
+			}
+
+			.widget_tag_cloud .tagcloud a:hover,
+			.dark-icons .widget_tag_cloud .tagcloud a:hover {color: #fff}
+			.light-icons .widget_tag_cloud .tagcloud a:hover {color: #000}
+
+			.widget_tag_cloud a,
+			.widget_tag_cloud a:hover {text-decoration: none}
+
+
+
+	/* text widget and WebMan content module widget */
+		.textwidget ul > li,
+		.wm-content-module ul > li {
+			padding: 0 0 0 18px;
+			margin-top: 0.5em;
+			background-repeat: no-repeat;
+			background-position: 0 0.2em;
+			background-image: url(../img/icons/16x16/bullet.png);
+		}
+			.dark-icons .textwidget ul > li,
+			.dark-icons .wm-content-module ul > li {background-image: url(../img/icons/16x16/bullet.png)}
+			.light-icons .textwidget ul > li,
+			.light-icons .wm-content-module ul > li {background-image: url(../img/icons/16x16/bullet-inverse.png)}
+
+			.textwidget li ul,
+			.wm-content-module li ul {
+				margin-top: 0.5em;
+				margin-bottom: 0.5em;
+				margin-left: -0.25em;
+			}
+			.widget_text .textwidget li ul,
+			.widget.wm-content-module li ul {border-top: none}
+
+
+
+/*********************************************/
+/* WebMan widgets                            */
+/*********************************************/
+
+	/* content module and page widget */
+		.widget .module-content {padding-top: 0}
+
+
+
+	/* contact widget */
+		.wm-contact-info .address-container > div {
+			position: relative;
+			padding: 0 0 5px 24px;
+			background-repeat: no-repeat;
+			background-position: 0 2px;
+		}
+		.wm-contact-info .widget-heading + .address-wrap {margin-top: 15px}
+
+		.wm-contact-info .hours {overflow: hidden}
+			.wm-contact-info .hours strong {float: left}
+			.wm-contact-info .hours span {float: right}
+
+		.wm-contact-info .contact-info {position: relative}
+		.wm-contact-info .contact-info i {
+			position: absolute;
+			left: 0;
+			top: 0;
+			font-size: 16px;
+		}
+
+
+
+	/* page widget */
+		.wm-page-content .image-container {padding: 0 0 10px}
+
+		.wm-page-content h2 {margin: 0 0 1em}
+		.wm-page-content h2 + .page-content {margin-top: 10px}
+
+		.sidebar .page-content {
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+			.no-btn .page-content {padding-bottom: 0}
+
+		.page-content + .btn {margin-top: 20px}
+
+
+
+	/* posts list */
+		.wm-post-list ul {
+			margin-bottom: -15px;
+			border: 0;
+		}
+		.wm-post-list ul li {
+			clear: both;
+			padding: 15px 0;
+			margin: 0;
+			overflow: hidden;
+		}
+			.wm-post-list li:first-child {
+				padding-top: 0;
+				border-top: none !important;
+			}
+			.sidebar .wm-post-list li:first-child {padding-top: 15px}
+
+		.wm-post-list li a {
+			display: inline;
+			padding: 0;
+			border: 0;
+		}
+		.wm-post-list li h3 {
+			padding: 0 0 0.25em;
+			margin: 0;
+		}
+		.wm-post-list .date {
+			position: relative;
+			display: inline-block;
+			padding: 0 0 0.25em;
+		}
+
+		.wm-post-list .image-container {
+			float: left;
+			width: 50px;
+			height: 50px;
+			margin: 0 10px 0 0;
+			z-index: 1;
+		}
+			.wm-post-list .image-container .icon-format {
+				width: 50px;
+				height: 50px;
+				padding: 13px; /* 24x24 icon + 13+13 padding = 50px width and height */
+				background: #f3f3f3;
+			}
+
+
+
+	/* projects */
+		.wm-projects-list .portfolio-content {
+			padding-bottom: 1px;
+			overflow: hidden;
+		}
+			.page-template-tpl-sitemap-php .content .wm-projects-list .portfolio-content {margin-top: 1.5em}
+
+		.wm-projects-list .portfolio-content article {
+			float: left;
+			width: 60px;
+			height: 60px;
+			padding: 4px;
+			margin: 0 -1px -1px 0;
+		}
+
+
+
+	/* statuses */
+		.wm-status .status-post + .status-post {
+			padding-top: 1em;
+			margin-top: 1em;
+		}
+		.wrap-status-shortcode[data-time] .status-post + .status-post {
+			padding: 0;
+			margin: 0;
+			border: none !important;
+		}
+
+
+
+	/* twitter widget */
+		.wm-twitter .user-info {
+			position: relative;
+			min-height: 63px;
+			padding: 0 0 15px 58px;
+			margin: 0;
+		}
+			.widget-heading + .user-info {margin-top: 15px}
+			.wm-twitter .user-info h3 {margin: 0 0 0.25em}
+			.wm-twitter .user-info img {
+				position: absolute;
+				width: 48px;
+				height: 48px;
+				left: 0;
+				top: 0;
+			}
+
+		.wm-twitter ul {border: none}
+			.sidebar .wm-twitter .widget-heading + ul,
+			.wm-twitter .user-info + ul {margin-top: 15px}
+
+			.wm-twitter ul li {
+				padding: 0 0 0 24px;
+				margin-top: 15px;
+			}
+			.wm-twitter li:first-child {margin-top: 0}
+
+			.wm-twitter ul li a {
+				display: inline;
+				padding: 0;
+				border: none !important;
+			}
+
+			.wm-twitter .tweet-time {
+				margin-top: 0.5em;
+				opacity: 0.5;
+				filter: alpha(opacity=50); /* For IE8 and earlier */
+			}
+
+

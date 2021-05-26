@@ -1,0 +1,280 @@
+/*********************************************/
+/* borders                                   */
+/*********************************************/
+
+	/* general static border - color doesn't change throughout the website */
+
+		/* blog list date */
+			.date-special .date {
+				border: 1px solid #eee;
+			}
+
+		/* forms */
+			button,
+			input,
+			select,
+			textarea {
+				border: 1px solid #bbb;
+			}
+				.dark-icons button,
+				.dark-icons input,
+				.dark-icons select,
+				.dark-icons textarea {
+					border-color: #bbb;
+				}
+				.light-icons button,
+				.light-icons input,
+				.light-icons select,
+				.light-icons textarea {
+					border-color: #444;
+				}
+
+		/* call to action */
+			.no-js .call-to-action-title small {
+				border-left: 1px solid #ddd;
+			}
+
+		/* tables */
+			td,
+			th,
+			.dark-icons td,
+			.dark-icons th {
+				border: 1px solid #eee;
+			}
+			.light-icons td,
+			.light-icons th {
+				border: 1px solid #444;
+			}
+
+		/* filter */
+			.wrap-projects-shortcode .wrap-filter li {
+				border-left: 1px solid #ddd; /* this is being set to link color */
+			}
+
+		/* RESPONSIVE RULES FOR BORDERS */
+			/* 767 px max */
+			@media only screen and (max-width: 767px) {
+
+				.footer .widget,
+				.footer.dark-icons .widget {
+					border-top: 1px dotted #ddd;
+				}
+				.footer.light-icons .widget {
+					border-top: 1px dotted #333;
+				}
+
+			}
+
+
+
+	/* slider only */
+
+		/* contact map */
+			.map-section {
+				border-top: 1px solid #eee;
+				border-bottom: 1px solid #eee;
+			}
+
+
+
+	/* content only */
+
+		/* article meta info */
+			.meta-bottom,
+			#content .main .sharedaddy,
+			#comments,
+			.project-sharing {
+				border-top: 1px dotted #ddd;
+				border-bottom: 1px dotted #ddd;
+			}
+			#content .main .sharedaddy {border-bottom: 0}
+
+		/* articles list */
+			.list-articles article {
+				border-bottom: 1px dotted #ddd;
+			}
+
+		/* attributes */
+			.attributes ul {
+				border-top: 1px solid #ddd;
+			}
+			.attributes ul li {
+				border-bottom: 1px solid #ddd;
+			}
+
+		/* author info */
+			.bio .author-social-links {
+				border-left: 1px solid #ddd;
+			}
+
+		/* comments */
+			.comment-heading {
+				border-bottom: 1px solid #ddd;
+			}
+			.comment-reply-link,
+			.comment-edit-link {
+				border-left: 1px dotted #ddd;
+			}
+
+		/* image captions */
+			.wp-caption figure {
+				border: 1px solid #ddd;
+			}
+
+		/* related projects */
+			.related-projects {
+				border-top: 1px solid #ddd;
+			}
+
+		/* sidebar */
+			.sidebar .widget:before {
+				border-top: 1px solid #ddd;
+			}
+
+
+
+	/* can be anywhere on website */
+
+		/* border bottom class */
+			.bb1,
+			.dark-icons .bb1 {border-bottom: 1px solid #ddd}
+			.light-icons .bb1 {border-bottom: 1px solid #333}
+
+		/* accordion and toggle */
+			.accordion-wrapper > ul {
+				border-bottom: 1px solid #ddd;
+			}
+			.accordion-heading,
+			.toggle-heading {
+				border-top: 1px solid #ddd;
+				border-right: 1px solid #ddd;
+				border-left: 1px solid #ddd;
+			}
+				.toggle-heading {border: 1px solid #ddd}
+			.accordion-content,
+			.toggle-content {
+				border-top: 1px solid #ddd;
+				border-right: 1px solid #ddd;
+				border-left: 1px solid #ddd;
+			}
+				.toggle-content {
+					border-bottom: 1px solid #ddd;
+				}
+
+		/* divider */
+			.divider,
+			.dark-icons .divider {
+				border-bottom: 1px solid #ddd;
+			}
+			.light-icons .divider {
+				border-bottom: 1px solid #333;
+			}
+
+		/* image frame */
+			.frame {
+				border: 1px solid #ddd;
+			}
+
+		/* quotes */
+			blockquote.left-border {
+				border-left: 1px solid #ddd;
+			}
+
+		/* staff */
+			.wrap-staff-shortcode .staff-excerpt ul {
+				border-top: 1px solid #ddd;
+			}
+
+		/* tabs */
+			.tabs-wrapper ul.tabs li {
+				border-top: 1px solid #ddd;
+				border-right: 1px solid #ddd;
+				border-left: 1px solid #ddd;
+			}
+			.tabs-wrapper .tabs + ul > li {
+				border-top: 1px solid #ddd;
+			}
+				.vertical ul.tabs li {
+					border: none;
+				}
+
+		/* tour tabs nav */
+			.tour-nav {
+				border-bottom: 1px solid #ddd;
+			}
+
+		/* widgets general */
+			.widget li ul,
+			.dark-icons .widget li ul {
+				border-top: 1px dotted #ddd;
+				border-bottom: none !important;
+			}
+			.widget li > a,
+			.widget_nav_menu .inner,
+			.dark-icons .widget li > a,
+			.dark-icons .widget_nav_menu .inner {
+				border-top: 1px dotted #ddd;
+			}
+			.light-icons .widget li ul {
+				border-top: 1px dotted #333;
+			}
+			.light-icons .widget li > a,
+			.light-icons .widget_nav_menu .inner {
+				border-top: 1px dotted #333;
+			}
+
+		/* widgets: archives, categories, links and recent comments */
+			.widget_archive ul li,
+			.widget_categories ul li,
+			.widget_links ul li,
+			.widget_recent_comments ul li,
+			.dark-icons .widget_archive ul li,
+			.dark-icons .widget_categories ul li,
+			.dark-icons .widget_links ul li,
+			.dark-icons .widget_recent_comments ul li {
+				border-top: 1px dotted #ddd;
+			}
+			.light-icons .widget_archive ul li,
+			.light-icons .widget_categories ul li,
+			.light-icons .widget_links ul li,
+			.light-icons .widget_recent_comments ul li {
+				border-top: 1px dotted #333;
+			}
+
+		/* widget statuses */
+			.wm-status .status-post + .status-post,
+			.dark-icons .wm-status .status-post + .status-post {
+				border-top: 1px dotted #ddd;
+			}
+			.light-icons .wm-status .status-post + .status-post {
+				border-top: 1px dotted #333;
+			}
+
+		/* widget twitter */
+			.wm-twitter .user-info,
+			.dark-icons .wm-twitter .user-info {
+				border-bottom: 1px solid #ddd;
+			}
+			.light-icons .wm-twitter .user-info {
+				border-bottom: 1px solid #333;
+			}
+
+		/* widget WebMan posts */
+			.wm-post-list ul li,
+			.dark-icons .wm-post-list ul li {
+				border-top: 1px solid #ddd;
+			}
+			.light-icons .wm-post-list ul li {
+				border-top: 1px solid #333;
+			}
+
+		/* widget WebMan projects */
+			.wm-projects-list article,
+			.dark-icons .wm-projects-list article {
+				border: 1px solid #ddd;
+			}
+			.light-icons .wm-projects-list article {
+				border: 1px solid #333;
+			}
+
+

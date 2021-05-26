@@ -1,0 +1,665 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: library/core.php:1713
+msgid " (page %s)"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid " (part %s)"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1194
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+#: library/core.php:1713
+msgid "%s archive"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "%s feed"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1244
+msgid "%s logo"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "%s on Facebook"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "%s on Google+"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "%s on Twitter"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "%s tag archive"
+msgstr ""
+
+#. Text in function
+#: library/sliders/s-flex.php:1
+#: library/sliders/s-nivo.php:1
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Text in function
+#: comments.php:60
+msgid "&larr; Older comments"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "<em>%s</em> tag archive"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Daily Archives: </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Monthly Archives: </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Posts Tagged as </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Posts by </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Posts in </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Search results for </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "<span>Yearly Archives: </span>%s"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "All <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Archive for %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Back to homepage"
+msgstr ""
+
+#. Text in function
+#: footer.php:53
+#: library/core.php:1
+msgid "Back to top"
+msgstr ""
+
+#. Text in function
+#: footer.php:53
+#: library/core.php:1
+msgid "Back to top of page"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-sitemap.php:77
+msgid "Blog categories"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "By %s"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Cancel comment"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: comments.php:20
+msgid "Comments (%s)"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Comments are closed. You can not add new comments."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Comments: %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Currently viewing %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1244
+msgid "Custom"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Day %1$d, %2$s archive"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Days"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1165
+#: library/core.php:1182
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Enter password to view the content:"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-attachment.php:36
+msgid "Full size of %s pixels"
+msgstr ""
+
+#. Text in function
+#: header.php:183
+#: header.php:138
+msgid "Go to main navigation"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Hours"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "I have lost my password"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "In %s"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-sitemap.php:45
+msgid "Latest blog posts"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-sitemap.php:45
+msgid "Latest projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Leave a reply for %s"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-attachment.php:36
+msgid "Link to full-size image"
+msgstr ""
+
+#. Text in echo
+#: inc/formats/format-link.php:35
+#: inc/loop/loop-search.php:12
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Log in"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Log in."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Log out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Log out &raquo;"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Log out from your account"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Logged in as %s"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Minutes"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-sitemap.php:89
+msgid "Monthly archives"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:61
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: library/sliders/s-flex.php:1
+#: library/sliders/s-nivo.php:1
+msgid "Next &raquo;"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Next item: %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "No item found"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-twitter.php:157
+msgid "No tweets."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Number of items found: %s"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Oops"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Part %"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Password protected"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Password will be resent to your e-mail address."
+msgstr ""
+
+#. Text in echo
+#: library/core.php:1163
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1244
+msgid "Pingbacks list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Please check the audio URL"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Please check the video URL"
+msgstr ""
+
+#. Text in function
+#: inc/formats/format-status.php:9
+msgid "Please place the status into the post content area"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-project.php:1
+#: library/core.php:1244
+msgid "Please set \"Audio URL\" option"
+msgstr ""
+
+#. Text in function
+#: inc/formats/format-audio.php:53
+msgid "Please set \"MP3 file URL address\" option"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-project.php:1
+msgid "Please set \"Project main image\" option"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-project.php:1
+msgid "Please set \"Video URL\" option"
+msgstr ""
+
+#. Text in function
+#: inc/formats/format-link.php:38
+msgid "Please set the URL address of the link"
+msgstr ""
+
+#. Text in function
+#: inc/formats/format-video.php:49
+msgid "Please set the video URL address"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-project.php:1
+msgid "Please upload project images and set \"Choose slider images\" option"
+msgstr ""
+
+#. Text in function
+#: tpl-redirect.php:27
+msgid "Please, set the URL first."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1244
+msgid "Please, set the map location"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Post comment"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Posts by <em>%s</em>"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Previous item: %s"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Project URL"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-attachment.php:28
+msgid "Published on %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Read more &raquo;"
+msgstr ""
+
+#. Text in function
+#: single-wm_projects.php:80
+msgid "Related projects"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1182
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Return to %s"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Return to homepage"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Search for \"%s\""
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Search results for <em>\"%s\"</em>"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Search term"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Seconds"
+msgstr ""
+
+#. Text in function
+#: nav.php:8
+msgid "Skip to content"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+#: library/core.php:1713
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Tag archive for \"%s\""
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Tags: %s"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "The page you are looking for was moved, deleted or does not exist."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "This is featured post"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Visit author's website"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+#: library/core.php:1713
+msgid "Web page was not found"
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes.php:1
+msgid "Weeks"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Year %d archive"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "You do not have sufficient rights to display this page."
+msgstr ""
+
+#. Text in function
+#: library/options/a-comments-form.php:1
+msgid "You have to be logged in to leave a comment."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1205
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "day %1$d, %2$s archive"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "posts by %s"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "year %d archive"
+msgstr ""

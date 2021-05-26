@@ -1,0 +1,3230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "\"Quick Access\" widget text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "\"Quick Access\" widget title"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"faq\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"logo\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"module\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"price\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"project\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"slide\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "\"staff\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "%s template"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "- select preset file -"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "...or display full posts?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "<abbr title=\"Frequently Asked Questions\">FAQ</abbr>"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:1019
+msgid "A new file will be created inside %s folder."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Above footer area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "Adding a custom widget areas"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Admin"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Admin custom footer text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Admin panel logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Administrators"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "After installing WordPress, remove <code>wp-admin/install.php</code> file"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Allows controlling the animation by dragging slides on touch screens"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Alternative text color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Although this post type is being redirected to homepage, you might want to change its slug in case the permalink collides with some plugins"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Animate search form in breadcrumbs area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Animation effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "As page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "As post"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "As you can see, the theme slightly changes positions of default WordPress admin menu items. With some plugins this might cause potential problems. Enable default menu order if the menu item created by the plugin is not displayed. If the problem with menu item of plugin still occurs even after enabling default WordPress menu order, contact WebMan support for assistance."
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Authors (and above)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Back In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Back In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Back Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Background image attachment"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Background image position"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Background image repeat"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Backmost layer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Backmost layer background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Basic <abbr title=\"Search Engine Optimization\">SEO</abbr> settings include global website keywords and description displayed in the HTML head section of the website. You can also set whether search engines should index archive lists or not. To improve the SEO it is recommended to set the permalink structure (in <strong>Settings / Permalinks</strong>) to \"Post name\"."
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Basic WordPress security"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Basic colors, which can be set below, are used on elements like buttons, boxes or markers"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Basic font size"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Basic website font"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Basic website font stack"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+#: library/options/a-slider.php:1
+#: library/options/a-layout.php:1
+#: library/options/a-seo.php:1
+#: library/options/a-branding.php:1
+#: library/options/a-general.php:1
+msgid "Basics"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Blog entry meta information"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Blog list image aspect ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Blue color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Border color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Bottom / credits area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Bottom breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Bounce In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Bounce In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Bounce Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Box columns count"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Box rows count"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Branding"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-layout.php:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Breadcrumbs navigation settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Breadcrumbs position"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Breadcrums"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Button text color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "By default the theme applies 14 days cache header on its main CSS stylesheet. You can disable it here."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "By default whole staff member information is displayed in staff list (Staff shortcode). This option will, however, enable to display only short excerpt in the Staff shortcode and the whole information on a dedicated staff member page."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Can I restrict access to any page?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Center horizontally, bottom"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Center horizontally, top"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Changes automatic rotation direction (left to right)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Changes website header layout. If navigation right is selected, the right header text area will not be displayed."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Choose Roundabout slider easing effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose how this post type should be treated"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Choose slider animation effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose the aspect ratio of post thumbnail images displayed on Blog pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose the aspect ratio of projects images displayed in portfolio list and post thumbnails in posts list shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose the aspect ratio of staff portraits"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose the default aspect ratio of gallery images"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Choose the default website layout"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Choose the post meta information to display. By default all the information below are displayed."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Choose what image size should be displayed when projects or blog featured image is zoomed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Circ In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Circ In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Circ Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Client area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Client area makes it possible to restrict a visitor access to certain pages. The restriction can be set to registered users individually or to certain registered user group, such as \"Subscribers\" or \"Contributors\" &rarr; <a href=\"%s\" target=\"_blank\">manage users</a>. Restricted pages will be also removed from all menus, including Submenu widget, Custom Menu widget and Pages widget and also from search results when visitor access denied."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Client area supports these page templates only: <strong>default</strong> page template, <strong>Blog</strong> page template, <strong>Map</strong> page template, <strong>Portfolio</strong> page template and <strong>Widgetized</strong> page template."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Clients area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Clients area is built upon WordPress native functionality, so it is as secure as your WordPress installation is. However, it does not provide restriction on attachment files, so if the visitor by any chance knows the exact URL of specific attachment file (even if it was attached to restricted page), it can be easily accessed. As a workaround you can use password protected ZIP files for this reason, for example."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Colors"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Colors and layout"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Comments introduction text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Compress the main CSS stylesheet file (speeds up website loading)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Content Modules"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Content modules"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Contributors (and above)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Conveyor Belt (Left)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Conveyor Belt (Right)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Copyright text at the bottom of the website. You can use (C) to display &copy; sign, (R) for &reg;, (TM) for &trade; or YEAR for dynamic (always current) year"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1019
+msgid "Create a file"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "Create additional widget areas"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Credits (copyright) text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Cubic In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Cubic In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Cubic Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Custom \"Quick Access\" dashboard widget"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Custom admin logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Custom background image"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Custom design"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Custom feed links"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Custom font stylesheet link (HTML)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Custom logo image URL address"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Custom posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Custom scripts at the end of the website HTML code just before closing BODY tag. Can be used for tracking code placement. Do not forget to include <code>&lt;script&gt;</code> HTML tags."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Custom slider option in page slider selection will let you insert any slider effect (if you use 3rd party slider plugins) into main slider area using shortcode.<br />By default this option is used to display <strong>Revolution Slider</strong> which is included with the theme as a plugin (you will have to install it first)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Customize the \"Related projects\" title if the section is enabled"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Dark icons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Default WordPress menu order"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Default meta description"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Default meta keywords"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Design"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Diagonal Ring (Left)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Diagonal Ring (Right)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Incoming Links\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Other WordPress News\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Plugins\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Quick Access\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"QuickPress\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Recent Comments\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Recent Drafts\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"Right Now\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable \"WordPress Blog\""
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable Links"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Disable Windows Live Writer support"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable WordPress Comments"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable WordPress Media"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Disable WordPress Post"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Disable WordPress feed links"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Disable WordPress version"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable audio posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable audio projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable author biography altogether"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable author name"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disable breadcrumbs on Error 404 page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disable breadcrumbs on archives"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable categories"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable comments count"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Disable control buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Disable direction buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable featured image in a single post view"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable gallery posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable image projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable image slider projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable link posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Disable on projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable post format icon"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable publish date"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable quote posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disable related projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disable search form"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable sidebar on archive posts list"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable status posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable tags"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable theme CSS caching"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Disable theme SEO functionality"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable theme contextual help"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable theme update notifier"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable theme's lightbox"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable unnecessary page templates"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable unnecessary post formats"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disable video posts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disable video projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Disable widgets above footer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Disables Above Footer widgets area on Error 404 page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disables PrettyPhoto lightbox image zooming effect for the whole website"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disables breadcrumbs navigation on Error 404 page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Disables breadcrumbs navigation on all archive pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disables page comments and pingbacks only (even if global comments are enabled)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disables post comments and pingbacks only (even if global comments are enabled)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disables project comments and pingbacks only (even if global comments are enabled)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Disables sharing buttons on project pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disables this post format"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Disables this post format. However, keep in mind that Quote post format is used to populate the Testimonials shortcode."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disallow page comments"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disallow post comments"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Disallow project comments"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Disallow search engines to index all archive pages (like category, tag, author, date, search archive)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Displays full posts on blog pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Displays prev/next buttons on mouse hover only"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Do not index archives"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Do not repeat"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Do not track logged in users"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Do not use \"admin\" as user name and set strong passwords"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Do not use prev/next buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Do not use slideshow control buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Dragging transition speed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Easing effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Easy your project editing with preset project attribute names (you will just need to add a value on project edit screen). <br />You will still be able to remove or add new attributes per project basis."
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Editors (and above)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Elastic In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Elastic In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Elastic Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Eliminate potential security risk by removing Windows Live Writer support (recommended setting)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Empty spaces will be applied on both sides of the separator, so no need to type them in"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Enable GZIP compression on main stylesheet file only"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Enable basic GZIP compression"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Enable client area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Enable control buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Enable dragging"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Enable on pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Enable revisions"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Enables client area capabilities"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Enables the sharing icons on all pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Enables this sharing button"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Enter font names hierarchically separated with commas. Provide also the most basic fallback (\"sans-serif\" or \"serif\")."
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Error 404 image"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Error 404 page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Error 404 page title"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Excerpt length"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Expo In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Expo In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Expo Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "Export"
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "Export / import"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Facebook sharing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Fading"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Fading effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Favicon (16x16, .ico format) for Internet Explorer browsers"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Favicon (16x16, .png format) for other browsers"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Favicon will be displayed as bookmark icon or on browser tab or in browser address line"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Feed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Figure 8"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Fixed position"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Flex"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Flex Slider customization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Flex slider is <strong>simple, resource easy</strong>, yet very flexible slideshow. <strong>Does not display videos. Does not stretch images forcefully</strong> when displayed throughout the full website width. <strong>Adapts to different image heights</strong> automatically."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Folding"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Font families"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Footer credits"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "For Projects custom post type you can choose which project type will be supported by the theme."
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "For better SEO, you should use a specialized plugin (such as Yoast WordPress SEO plugin). If you do so, it is strongly recommended to disable theme SEO functionality below."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "For several custom posts you can enable revisions. These will allow you to restore previous content of the specific custom post, however, keep in mind that revisions take space in your database which is not desirable most of the time."
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Form background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Form settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Full size image"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "GZIP compression will speed up your website load time, so it is recommended to turn it on (except when you use a plugin to apply it).<br />Before enabling GZIP compression, please make sure your webhost (web server) supports this compression algorithm and it is enabled (you may get error note if the compression is not supported on your server)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Gallery image aspect ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "General blue color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "General gray color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "General green color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "General orange color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "General red color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "General slider settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Globaly disables related projects displayed at the bottom of project pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Goodbye Cruel World"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Google+ sharing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Gray color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Green color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-layout.php:1
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Header height"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Heading font"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Headings font"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Here you can override the default skin icons color for this section (also affects border and form elements color)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Here you can set your custom design. You can mainly set background color, image or texture here, alongside with the text, links or border colors of different website sections. Some sections allows you to set additional layout options (can be found on \"Colors and layout\" tab for these). Please, also make sure to set proper basic icons color according to your background color settings."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Hide direction buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides author information below all posts (otherwise the information is displayed, but only if author entered Biographical Info in his/her user profile). You can hide this information also on per post basis (see corresponding post settings)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides featured image when displaying single post. This can be disabled also per post basis."
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post author name"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post categories links"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post comments count link"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post format icon"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post publish date and time"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Hides post tags list"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Hides search form in breadcrumbs bar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Hides this page template from template dropdown list"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Horizontal number of boxes for \"Rain\" and \"Boxes\" animations"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "How about posts or other content?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "How about security?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Huge text and main subtitle"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Icons color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "If rich Staff posts used, you might need to change their permalink base for localization purposes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "If you are using a SEO plugin, you can disables SEO functions integrated into the theme here"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "If you, however, wish to resize the previously uploaded images to new sizes set below, you can use a plugin for this. Recommended plugins are <a href=\"http://wordpress.org/extend/plugins/regenerate-thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> or <a href=\"http://wordpress.org/extend/plugins/ajax-thumbnail-rebuild/\" target=\"_blank\">AJAX Thumbnail Rebuild</a>."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "If your web host applies GZIP compression by default, you can disable the main GZIP compression in \"General\" theme options. However, as main CSS stylesheet is being inserted as PHP file (and automatic GZIP compression is usually not applied on such files, you can enable it here.<br />You do not need to enable this GZIP compression if the global one (in \"General\" theme options) is enabled for the theme."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Image sizes used in different website sections"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Images"
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "Import"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "In addition to predefined widget areas you can create custom ones directly from this Admin Panel, without any coding knowledge or editing theme files. To create a new widget area use the generator below."
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "In case blog is not required for your website (note, however, that testimonials are being populated from Quote posts)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "In this section you can enable/disable several different custom post types or set their privilegues and permalink slugs."
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Include portfolio projects in your website RSS feed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Include projects in RSS feed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Introduction text at the top of comments form"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "It is recommended to set a website color skin first to be used as a base for your additional design changes. When color skin is changed, it will automatically reset several different options, such as font embeding, font stacks or link color. So, be sure to keep a backup of previous settings state (use export/import feature of this admin panel)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Join the discussion, leave a reply!"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Keep backups of the database and WordPress installation"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Keep your WordPress installation up to date"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Label color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Landscape 16 to 9 (widescreen)"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Landscape 16 to 9 ratio (widescreen)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Landscape 2 to 1"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Landscape 2 to 1 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Landscape 3 to 1"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Landscape 3 to 1 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Landscape 3 to 2"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Landscape 3 to 2 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Landscape 4 to 3"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Landscape 4 to 3 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Large image (can be set in Settings > Media)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Lazy Susan"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Left, bottom"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Left, center vertically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Left, top"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Light icons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Link background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Link color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Link text color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Links below login form settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Login error messages will be replaced with generic one.<br />The actual login error text will not say what went wrong during the login process."
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Login logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Login page background"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Login screen"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Login screen customization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Logo container height"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Logo padding"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Logo type"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Logo, favicon"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Logos"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Logos (of clients, partners)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Logos, Content Modules, FAQ, Prices and Slides (and, if rich staff pages are disabled, also Staff) custom posts are being redirected to homepage when visited directly. There is no need to display them individually."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Main heading / title"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Main website layout"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Main wrap background (only for boxed layout)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Make valid HTML code"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Many clients require custom branded admin area for their websites. You can do exactly that in this section: set custom logo (or disable it), remove WordPress logo from admin bar, customize admin footer text, disable/enable WordPress admin menu items and dashboard widgets and completely debrand this theme admin panel."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Maximum number of slides"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Maximum width of 120px. The logo will be displayed at the top of WordPress admin menu."
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Message text color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Messages background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Messages settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Minimize CSS"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Mobile"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Move on scrolling"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Narrow sidebar (1/4)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Navigation"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Navigation bottom"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Navigation position"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Navigation right"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Navigation top"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Nivo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Nivo Slider customization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Nivo slider offers a <strong>lot of animation effects and flexibility</strong> but <strong>does not display videos</strong>. Stretches images to fit either content width or full website width (depends on slider settings on specific page). <strong>Using transparent or partially transparent images is not recommended. Adapts to different image heights</strong> automatically."
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "No breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "No easing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "No logo will be displayed in theme admin panel"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Normal sidebar (1/3)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Number of slices for \"Slice\" animations"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "On page/post/project edit screen make sure the \"Discussion\" metabox is enabled in \"Screen Options\" (in upper right corner of the screen). Then just uncheck the checkboxes in that metabox."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "On page/posts/projects list table in WordPress admin select all the affected pages/posts/projects and choose \"Edit\" from \"Bulk action\" dropdown above the table, and press [Apply] button. Then just disable the comments option. This will disable the comments for already created pages/posts/projects in a batch."
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:1
+msgid "Options Export/Import"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Orange color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Other CSS settings "
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Others"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Page excerpt area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Page templates"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Page text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "Page title"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Pattern"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Patterns are prioritized over background image. For transparent patterns you can also set the background color. Background image attachment setting will affect patterns too. Upload new patterns into <code>assets/img/patterns</code> folder of this theme."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Pause on action"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Pause on hover"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Pause on mouse hover"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Pause the slideshow when interacting with control elements"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Pause the slideshow while hovering over slider"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Pinterest sharing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Place your name or your company name in meta tag in HTML head"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Placeholder text displayed in search field"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Please decide on and set the image sizes up for different website sections right after the theme installation. If you change the image sizes later on, the settings will apply only on newly uploaded images - so the images you upload after you change the settings below. All previous images will keep their original sizes."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Please note that these settings will affect pages/posts/projects you create from now on. If there are comments already active for the existing pages/posts/projects, you will need to disable them manually. This is default WordPress behaviour."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Please note, that CSS styles are being cached (the theme sets this to 14 days interval). If your changes are not being applied, clean the browser cache first and reload the website. Or you can put WordPress into debug mode when the cache interval decreases to 30 seconds."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Please read the information below before enabling and using the Client area."
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Portfolio page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Portrait 1 to 2"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Portrait 1 to 2 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Portrait 2 to 3"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Portrait 2 to 3 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Portrait 3 to 4"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Portrait 3 to 4 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Portrait 9 to 16"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Portrait 9 to 16 ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Post formats"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Preset project attribute names"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "Press [+] button and enter the name for new widget area. If the widget area of the same name already exists, it will not be created again. To remove a custom widget area press [X] button preceding its name in the list. Note that renaming previously created widget area changes its ID and all widgets assigned to it will be lost! Do not forget to save the changes."
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Press [+] button to add new custom feed link. Enter the type into the first field and full URL into the second one. Use predefined types such as \"application/rss+xml\" for RSS or \"application/atom+xml\" for Atom feed. Links will be placed into HTML head of the website."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Prices"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Prices (price tables)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Primary font stack"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Project \"category\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Project categories permalink base - you might need to change this for localization purposes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Project page"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Projects (portfolio)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Projects and Posts shortcodes image aspect ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Projects posts permalink base - you might need to change this for localization purposes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quad In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quad In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quad Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quart In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quart In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quart Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Quick Access"
+msgstr ""
+
+#. Text in function
+#: library/options/a-quickstart.php:1
+msgid "Quickstart"
+msgstr ""
+
+#. Text in function
+#: library/options/a-quickstart.php:1
+msgid "Quickstart guide"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quint In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quint In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Quint Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Rain"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Rain grow"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Rain grow reverse"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Rain reverse"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Random boxes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Red color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Related projects section title"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Remove (W) logo from admin bar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Remove custom slider from selection"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Remove from slider selection"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Remove logo from admin panel"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Removes Comments management from WordPress admin menu"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Removes Links management from WordPress admin menu"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Removes Media library from WordPress admin menu"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Removes WordPress automatic feed links from website HTML head"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Removes WordPress logo and menu from admin bar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes audio project type from dropdown in Project settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes image project type from dropdown in Project settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes image slider project type from dropdown in Project settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes recommended, but invalid (according to W3C validator) meta tags from HTML head (whole Dublin core and X-UA-Compatible will be removed)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Removes sidebar from archive posts list pages (such as category page)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Removes the above scripts when user is logged in with certain minimum user role, thus preventing the tracking of logged-in users."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes theme help texts from WordPress contextual help"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Removes this slider from slider selection in Page settings metabox"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Removes video project type from dropdown in Project settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Repeat"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Repeat horizontally"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Repeat vertically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Replace login errors"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Replaces \"Dashboard\" WordPress admin menu item with your custom logo set below"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Responsive 1160px (1280px website box)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Responsive 930px (1020px website box)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Revisions will allow you to restore previous state of the custom post. However, keep in mind that they take space in database."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Rich staff members profiles"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Right header area text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Right header/right navigation area padding"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Right, bottom"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Right, center vertically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Right, top"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Roller Coaster"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Roundabout"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Roundabout Slider customization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Roundabout slider displays slides in <strong>3D carousel. Does not display slide caption but displays videos.</strong>"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "SEO & Tracking"
+msgstr ""
+
+#. Text in echo
+#: library/wm-options-panel.php:429
+msgid "Save"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Scripts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Search form placeholder text"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Secondary font stack"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Security"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Security settings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Select a main projects list page used as base for single project pages"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Select previously set font stack for entire website"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Select previously set font stack for main subtitle and huge text element"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Select previously set font stack for website headings"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Select whether and where the breadcrumbs navigation should be displayed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Set background image position"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Set background image repeating"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Set background pattern"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Set the <code>$table_prefix</code> variable in <code>wp-config.php</code> file (do not use the default \"wp_\" value) - this should be done before installing WordPress or you would have to change these in your database too"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "Set the Authentication Unique Keys and Salts in <code>wp-config.php</code> file"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-branding.php:1
+msgid "Set the background image attachment"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Set the basic font size of the website (in pixels)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Set the header height (leave zero to use the default theme settings)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Set the height of login logo container in pixels. The logo will be centered inside."
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Set up custom feed links"
+msgstr ""
+
+#. Text in function
+#: library/options/a-blog.php:1
+msgid "Sets the default blog list excerpt length in words"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Sets the default text alignment for main heading area"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Sets the logo displayed above admin panel main navigation (maximum width of 160px)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sets the lowest opacity of slides in the background in % against frontmost slide"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sets the maximum number of slides (note that more slides in slider means longer time to load the page)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sets the maximum website content width and responsiveness of the design"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sets the sidebar width (ratio against the website content width set above)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sets the smallest size of slides in the background in % against frontmost slide"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Sets the top logo padding size (\"-1\" sets the default padding)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sets the top padding size for textarea in website header (\"-1\" sets the default theme value) or for navigation (when displayed right from logo)"
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:447
+msgid "Settings were updated successfully."
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Sharing & feed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Shrinks search input field when not in focus"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sidebar width"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sine In"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sine In Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sine Out"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Skin"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Skin tweaking"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice down"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice down (right to left)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice up"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice up (right to left)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice up and down"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slice up and down (right to left)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slices count"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slide display time"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slide in"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Slide in from right"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sliders"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Slides (for slideshows)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Sliding effect"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Social share buttons on posts and projects"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Social sharing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Sorry this function is available only for WordPress version 3.4 and up."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Speed of transition effect between slides (in miliseconds)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Speed of transitioning between slides (in miliseconds) when dragging"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+#: library/options/a-general.php:1
+#: library/core.php:1713
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Staff \"department\" permalink"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Staff departments permalink base - you might need to change this for localization purposes"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Staff image aspect ratio"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Static 1160px (1280px website box)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Static 930px (1020px website box)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sticks the top bar to the top of the browser window even when scrolling"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sticky breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Sticky top bar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Stops animation on mouse hover"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Stops the automatic rotation on mouse hover"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Stylesheet"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Submit button color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Subnavigation background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Subnavigation text color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Subscribers (and above) - all logged in users"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Switch direction"
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:447
+msgid "THIS THEME IS NOT COMPATIBLE WITH YOUR WORDPRESS VERSION. PLEASE UPGRADE YOUR WORDPRESS INSTALLATION."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Tear Drop"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Terciary font elements"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Terciary font stack"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Text (you can use inline HTML tags) will be inserted into Paragraph HTML tag of WordPress admin footer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text alignment"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Text in area right from logo in website header. You can use (C) to display &copy; sign, (R) for &reg;, (TM) for &trade;, YEAR for current year or SEARCH to display a search form."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text on blue color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text on gray color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text on green color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text on orange color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Text on red color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "The Juggler"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "The above option allows you to disable breadcrumbs navigation altogether. However, it is recommended to keep the breadcrumbs displayed as it improves <attr title=\"Search Engine Optimization\">SEO</attr>. Alternatively you can choose to disable breadcrumbs in specific website sections only (see the settings below) or on certain posts and pages (see the post/page settings)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "The backmost slide opacity"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "The backmost slide size"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "The main link color. Will be used also on various other elements, like default button color for example."
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "The theme generates meta description automatically or you can set it per page/post basis. However you should set the default SEO description here. Most of search engines work with 160 character strings."
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "The theme generates meta keywords automatically (from categories and tags) or you can set them per page/post basis."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "The theme is using update notifier script that checks for new theme update by connecting to WebMan server. If you notice slow response of WordPress admin, please try to disable update notifier as it is possible that your server can not connect and obtain correct theme version which causes the slowdown."
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Theme admin panel branding"
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "Theme settings export / import"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Theme skins"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "This color will be used for headings for example"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "This text will be displayed in \"Quick Access\" dashboard widget. You can use user group specific shortcodes to display text only for specific group, such as:"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Time of slide being displayed (in miliseconds)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "To disable comments manually for each already created page/post/project you have 2 options:"
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "To export the current settings copy and keep (save to external file) the settings string from the textarea below or click the \"Create a file\" button to save the settings in a new theme options file inside a <code>%s/option-presets/</code> folder."
+msgstr ""
+
+#. Text in function
+#: library/options/a-export.php:1
+msgid "To import previously saved settings, insert the settings string into textarea below or choose one of preset files (if exist) from the dropdown and save changes. Note that by importing new settings you will loose all current ones. Always keep the backup of current settings."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+#: library/options/a-404.php:1
+#: library/options/a-branding.php:1
+msgid "To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Top and bottom breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Top bar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Top breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Topmost layer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Touch icon 114x114"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Touch icon 144x144"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Touch icon 54x54"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Touch icon will be displayed on smartphones, tablets or in Speed Dial of Opera browser"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Track everyone"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Tracking"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Tracking codes or custom <abbr title=\"JavaScript\">JS</abbr> scripts"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Transition speed"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Twitter sharing"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Type in custom CSS styles. These styles will be added to the end of the main CSS stylesheet file."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Use <code>&lt;link&gt;</code> HTML tags to embed custom fonts (can be obtained from <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>, for example)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Use custom admin logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Use image logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Use slideshow control buttons"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Use website title from WordPress Settings"
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:422
+msgid "Using %1$s theme, version %2$s"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Vertical number of boxes for \"Rain\" and \"Boxes\" animations"
+msgstr ""
+
+#. Text in function
+#: library/options/a-slider.php:1
+msgid "Water Wheel"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Website Search Engine Optimization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Website author meta tag"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Website background"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Website content"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Website header"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "Website logo, favicon and touch icon"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Website main theme skin"
+msgstr ""
+
+#. Text in function
+#: library/options/a-seo.php:1
+msgid "Website meta title separator"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "What is Client area and how can I use it?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "When setting permalinks, please use URL address allowed characters only."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "When you enable Client area below, a new option will be added to the bottom of <strong>\"General\" tab</strong> in <strong>\"Page settings\"</strong> metabox on page edit screen."
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Why my changes are not being applied?"
+msgstr ""
+
+#. Text in function
+#: library/options/a-layout.php:1
+msgid "Wide sidebar (5/12)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "Widget areas"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "WordPress admin area customization"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "WordPress admin dashboard widgets"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "WordPress admin footer"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "WordPress admin logo"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "WordPress admin menu"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "WordPress security tips"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "WordPress version will be removed from HTML head (recommended setting)"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "You can also try some security plugins (like <a href=\"http://wordpress.org/extend/plugins/limit-login-attempts/\" target=\"_blank\">Limit Login Attempts</a> for example)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "You can change the title of the widget here"
+msgstr ""
+
+#. Text in function
+#: library/options/a-security.php:1
+msgid "You can improve your WordPress installation security by taking these steps:"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "You can restrict access just for page templates mentioned previously. All the other content will be accessible."
+msgstr ""
+
+#. Text in function
+#: library/options/a-404.php:1
+msgid "You can use HTML tags"
+msgstr ""
+
+#. Text in function
+#: library/options/a-branding.php:1
+msgid "You can use image or text logo."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "You can use this functionality to provide a special access to your clients specific files or information. Client will only see the pages (and menu items) after logging in (you can even use Login shortcode to place the form on any page or into text widget)."
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Zoomed image size"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "skin description"
+msgstr ""

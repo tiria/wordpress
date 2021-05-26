@@ -1,0 +1,42 @@
+/*
+*****************************************************
+* TIRIA'S WORDPRESS THEME FRAMEWORK
+* Created by Tiria - www.tiria.fr
+* Based on Clifden by Webman - www.webmandesign.eu
+*
+* Admin CSS styles for WordPress 3.8+
+*****************************************************
+*/
+
+
+
+/**
+ * WordPress 3.8+ dashboard menu icons
+ */
+
+	#adminmenu .menu-icon-wm_logos div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_modules div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_projects div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_staff div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_faq div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_slides div.wp-menu-image img,
+	#adminmenu .menu-icon-wm_price div.wp-menu-image img {display: none}
+
+	#adminmenu .menu-icon-wm_logos div.wp-menu-image:before,
+	#dash-right-now li.wm_logos-count a:before {content: '\f177'}
+	#adminmenu .menu-icon-wm_modules div.wp-menu-image:before,
+	#dash-right-now li.wm_modules-count a:before {content: '\f123'}
+	#adminmenu .menu-icon-wm_projects div.wp-menu-image:before,
+	#dash-right-now li.wm_projects-count a:before {content: '\f180'}
+	#adminmenu .menu-icon-wm_staff div.wp-menu-image:before,
+	#dash-right-now li.wm_staff-count a:before {content: '\f307'}
+	#adminmenu .menu-icon-wm_price div.wp-menu-image:before,
+	#dash-right-now li.wm_price-count a:before {content: '\f323'}
+	#adminmenu .menu-icon-wm_faq div.wp-menu-image:before,
+	#dash-right-now li.wm_faq-count a:before {content: '\f223'}
+	#adminmenu .menu-icon-wm_slides div.wp-menu-image:before,
+	#dash-right-now li.wm_slides-count a:before {content: '\f233'}
+
+
+
+/* END OF FILE */

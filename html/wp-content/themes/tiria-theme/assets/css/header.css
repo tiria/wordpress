@@ -1,0 +1,453 @@
+/*********************************************/
+/* top bar                                   */
+/*********************************************/
+
+	.top-bar {
+		position: relative;
+		width: 100%;
+		line-height: 40px;
+		background: #ddd;
+		z-index: 100;
+	}
+		.top-bar.fixed,
+		.fixed-header .top-bar {
+			position: fixed;
+			left: 0;
+			top: 0;
+		}
+			.admin-bar .top-bar.fixed,
+			.admin-bar.fixed-header .top-bar {top: 28px}
+
+		.top-bar .widget {
+			float: right;
+			text-align: right;
+		}
+		.top-bar .count-2 .widget:first-child {
+			float: left;
+			text-align: left;
+		}
+
+		/* when boxed, move widgets to the edges */
+			@media only screen and (min-width: 1280px) {
+				.boxed.r1160 .top-bar .widget,
+				.boxed.s1160 .top-bar .widget {
+					margin-right: -60px;
+					margin-left: -60px;
+				}
+				.boxed.r930 .top-bar .widget,
+				.boxed.s930 .top-bar .widget {
+					margin-right: -45px;
+					margin-left: -45px;
+				}
+			}
+			@media only screen and (min-width: 1020px) and (max-width: 1279px) {
+				.boxed .top-bar .widget {
+					margin-right: -45px;
+					margin-left: -45px;
+				}
+			}
+			@media only screen and (max-width: 1019px) {
+				.top-bar {
+					position: relative !important;
+				}
+			}
+			@media only screen and (min-width: 768px) and (max-width: 1019px) {
+				.boxed .top-bar .widget {
+					margin-right: -30px;
+					margin-left: -30px;
+				}
+			}
+
+		/* top bar search form */
+			.top-bar .form-search {
+				float: right;
+				margin: 3px 0;
+			}
+				.top-bar .count-2 .widget:first-child .form-search {float: none}
+
+		/* top bar list */
+			.top-bar .widget ul {border: none}
+			.top-bar .widget li {
+				position: relative;
+				display: inline-block;
+				padding: 0;
+				margin: 0 0 0 15px;
+				background: none;
+			}
+				.top-bar .count-2 .widget:first-child li {margin: 0 15px 0 0}
+				.top-bar .widget li a,
+				.top-bar .menu > li > .inner {
+					display: inline;
+					padding: 0;
+				}
+					.top-bar .widget li > a,
+					.top-bar .widget li > .inner,
+					.top-bar.light-icons .widget li > a,
+					.top-bar.dark-icons .widget li > a{
+						border: none;
+					}
+				.top-bar .widget li ol {display: none}
+				.top-bar .widget li ul {padding: 0}
+				.top-bar .widget li li {
+					display: block;
+					margin: 0 !important;
+					text-align: left
+				}
+					.top-bar .count-2 li li ul {
+						left: auto;
+						right: 100%;
+					}
+					.top-bar .count-2 .widget:first-child li li ul {
+						left: 100%;
+						right: auto;
+					}
+					.top-bar .widget li li a {
+						display: block;
+						padding: 0 20px;
+					}
+				/* NOTE: other submenu styles below */
+
+	/* WPML plugin additional styles */
+		.top-bar #lang_sel,
+		.top-bar .icl_lang_sel_widget {
+			display: inline-block;
+			height: 40px;
+		}
+			.top-bar #lang_sel a {
+				padding: 0;
+				color: inherit;
+			}
+				.top-bar #lang_sel li li a {color: #666}
+			.top-bar #lang_sel a.lang_sel_sel {
+				line-height: 40px;
+				background: transparent;
+				color: auto;
+				border: 0;
+			}
+			.top-bar #lang_sel ul li ul {
+				display: none;
+				visibility: visible;
+				top: 100%;
+				text-align: left;
+			}
+				.top-bar #lang_sel ul li:hover ul,
+				.top-bar #lang_sel ul a:hover ul {display: block !important}
+				.top-bar #lang_sel li {
+					width: auto;
+					border: 0;
+				}
+					.top-bar #lang_sel ul ul a {
+						padding: 0 10px;
+						line-height: 30px;
+					}
+					.top-bar #lang_sel img.iclflag {vertical-align: baseline}
+
+
+
+/*********************************************/
+/* header                                    */
+/*********************************************/
+
+	.header {
+		position: relative;
+		z-index: 99;
+	}
+		.header > .wrap-inner {height: 130px}
+
+	@media only screen and (min-width: 768px) {
+		/* fixed header */
+			.fixed-header .header {
+				position: fixed;
+				left: 0;
+				top: 0;
+			}
+			.admin-bar.fixed-header .header {top: 28px}
+			.top-bar-enabled.fixed-header .header {top: 30px}
+			.top-bar-enabled.fixed-header.admin-bar .header {top: 58px}
+
+		/* slider beneath header - absolute header */
+			.absolute-header.no-fixed-header .header {
+				position: absolute;
+				width: 100%;
+				background-color: transparent;
+			}
+			.absolute-header.no-fixed-header .header + .map-section {
+				padding-top: 0;
+				border-top: none;
+			}
+	}
+
+
+
+/*********************************************/
+/* logo                                      */
+/*********************************************/
+
+	.logo,
+	h1.logo {
+		position: relative;
+		float: left;
+		padding: 40px 0 0;
+		margin: 0;
+		white-space: nowrap;
+	}
+		.logo a,
+		.logo a:hover {text-decoration: none}
+		.logo img,
+		.logo .text-logo,
+		.logo .description {
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.logo .text-logo {margin-right: 10px}
+		.logo .description {
+			padding: 10px;
+			margin-left: 10px;
+			color: #333;
+			opacity: 0.5;
+			filter: alpha(opacity=50); /* For IE8 and earlier */
+		}
+
+		/* in navigation-right-from-logo layout the logo description goes below the logo image */
+			.nav-right .logo .description {
+				display: block;
+				padding: 10px 0 0;
+				margin-left: 0;
+				border: none;
+			}
+
+
+
+/*********************************************/
+/* header text                               */
+/*********************************************/
+
+	.header-right {
+		position: relative;
+		float: right;
+		padding-top: 40px;
+		text-align: right;
+	}
+		.header-right .box {text-align: left}
+		.header-right .form-search {float: right}
+		.header-right * + .form-search {margin-top: 0.5em}
+
+
+
+/*********************************************/
+/* navigation                                */
+/*********************************************/
+
+	/* NOTE: .inner class is applied on a link tag (A) or SPAN tag (when no url applied for menu item) */
+
+	.navigation-wrap {
+		position: relative;
+		color: #444;
+		z-index: 99;
+	}
+
+	#nav-mobile {display: none} /* generated by JS */
+
+	.nav-main {
+		position: relative;
+		display: block;
+		clear: both;
+		padding: 0;
+		z-index: 99;
+	}
+		.nav-main ul {
+			padding: 0;
+			margin: 0;
+		}
+		.nav-main li {
+			position: relative;
+			float: left;
+			display: inline-block;
+			padding: 0;
+			margin: 0;
+			white-space: nowrap;
+			list-style: none;
+		}
+		.header .nav-main li {background: none}
+			.nav-main > ul > li {margin-right: 30px}
+
+			.nav-main li.right,
+			.nav-main li.alignright {
+				float: right;
+				margin: 0;
+			}
+
+			.nav-main a,
+			.nav-main .inner {
+				display: block;
+				padding: 5px 0;
+				text-decoration: none;
+				color: inherit;
+			}
+				.nav-main li.first > a,
+				.nav-main li.first > .inner {padding-left: 0}
+				.nav-main li[class*="navicon-"] > a,
+				.nav-main li[class*="navicon-"] > .inner {padding-left: 23px}
+
+			/* main nav text (first row) */
+				.nav-main a span,
+				.nav-main .inner span {text-transform: uppercase}
+
+			/* nav description text (second row) */
+				.nav-main a small,
+				.nav-main .inner small {
+					display: block;
+					padding: 0;
+					margin-top: -5px;
+					text-transform: lowercase;
+				}
+					.nav-main .sub-menu small {margin-top: 0}
+					.nav-main a.normal small,
+					.nav-main .inner.normal small {}
+
+			/* buttons in navigation */
+				.nav-main a.btn {
+					padding: 8px 15px !important;
+					margin: 13px 0 -15px;
+				}
+
+				/* button with icon and description */
+					.nav-main li[class*="navicon-"] > a.btn {padding-left: 38px !important}
+
+				/* button description text */
+					.nav-main a.btn small {margin-top: 0}
+
+			/* icon in navigation */
+				.ico-nav {
+					position: absolute;
+					float: left;
+					margin: 0 0 0 -23px;
+				}
+				.nav-main .btn .ico-nav {
+					position: relative;
+					float: none;
+					margin: 0 7px 0 -23px;
+				}
+
+
+
+	/* submenu styling */
+		.nav-main li ul,
+		.top-bar li ul {
+			position: absolute;
+			display: none;
+			min-width: 100%;
+			left: 0;
+			top: 100%;
+			padding: 0;
+			margin: 0;
+			white-space: nowrap;
+			background-color: #eee;
+			-webkit-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			   -moz-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			        box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			z-index: 99;
+		}
+		.nav-main .menu > li.subright ul {
+			left: auto;
+			right: 0;
+		}
+			.nav-main li li,
+			.top-bar li li {
+				float: none;
+				display: block;
+				margin: 0;
+				text-transform: none;
+				border: none;
+			}
+
+			/* submenu item border */
+				.header .nav-main li li,
+				.top-bar .widget li li {
+					background-repeat: repeat-x;
+					background-position: 0 0;
+				}
+					.header .nav-main li li,
+					.top-bar .widget li li,
+					.header .dark-icons .nav-main li li,
+					.top-bar.dark-icons .widget li li {background-image: url(../img/transparent/black/5.png)}
+					.header .light-icons .nav-main li li,
+					.top-bar.light-icons .widget li li {background-image: url(../img/transparent/white/5.png)}
+
+			.nav-main li li a,
+			.nav-main li li .inner,
+			.top-bar li li a {
+				min-width: 140px;
+				padding: 10px 20px;
+				color: inherit;
+			}
+
+			/* icon in submenu */
+				.nav-main li li[class*="navicon-"] > a,
+				.nav-main li li[class*="navicon-"] > .inner {padding-left: 38px}
+
+			/* submenu text */
+				.nav-main li li a span,
+				.nav-main li li .inner span {text-transform: none}
+				span.inner {cursor: default}
+
+			/* display subnav with CSS when JS disabled */
+				.no-js .nav-main li:hover > ul,
+				.no-js .top-bar li:hover > ul {display: block}
+
+			/* sub-submenu styling */
+				.nav-main li li ul,
+				.top-bar li li ul {
+					display: none;
+					left: 100%;
+					top: 0;
+				}
+				.nav-main .menu > li.subright li ul {
+					left: auto;
+					right: 100%;
+				}
+
+					/* display sub-subnav with CSS when JS disabled */
+						.no-js .nav-main li li:hover > ul,
+						.no-js .top-bar li li:hover > ul {display: block}
+
+		/* active submenu item */
+			.nav-main li li a:hover,
+			.nav-main li li.current-menu-ancestor > a,
+			.nav-main li li.current-menu-item > a,
+			.top-bar .widget li li a:hover,
+			.top-bar .widget li li.current-menu-ancestor > a,
+			.top-bar .widget li li.current-menu-item > a,
+			.dark-icons .nav-main li li a:hover,
+			.dark-icons .nav-main li li.current-menu-ancestor > a,
+			.dark-icons .nav-main li li.current-menu-item > a,
+			.top-bar.dark-icons .widget li li a:hover,
+			.top-bar.dark-icons .widget li li.current-menu-ancestor > a,
+			.top-bar.dark-icons .widget li li.current-menu-item > a {background-image: url(../img/transparent/black/5.png)}
+			.light-icons .nav-main li li a:hover,
+			.light-icons .nav-main li li.current-menu-ancestor > a,
+			.light-icons .nav-main li li.current-menu-item > a,
+			.top-bar.light-icons .widget li li a:hover,
+			.top-bar.light-icons .widget li li.current-menu-ancestor > a,
+			.top-bar.light-icons .widget li li.current-menu-item > a {background-image: url(../img/transparent/white/5.png)}
+
+
+
+	/* navigation positions */
+		.nav-right .navigation-wrap {
+			float: right;
+			top: 0;
+			background: transparent;
+		}
+
+			.nav-right .nav-main > ul > li {margin: 0 0 0 20px}
+			.nav-right .nav-main > ul > li:first-child {margin: 0}
+
+			.nav-right .nav-main li li ul {
+				left: auto;
+				right: 100%;
+			}
+
+		.nav-bottom .navigation-wrap {clear: both}
+
+

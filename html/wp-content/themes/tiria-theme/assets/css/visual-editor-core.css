@@ -1,0 +1,192 @@
+/*
+*****************************************************
+* TIRIA'S WORDPRESS THEME FRAMEWORK
+* Created by Tiria - www.tiria.fr
+* Based on Clifden by WebMan - www.webmandesign.eu
+*
+* WordPress visual editor stylesheet
+*****************************************************
+*/
+
+	body {
+		min-width: 480px !important;
+		max-width: 900px;
+		padding: 10px;
+		font-size: 13px;
+		background: none;
+	}
+
+
+
+	/* text selection colors */
+		body ::-moz-selection {background: #ccc}
+		body ::selection {background: #ccc}
+
+
+
+	/* columns */
+		.column {
+			padding: 15px 10px 10px 10px;
+			border: 1px dashed #ccc;
+		}
+			.column:before {
+				position: absolute;
+				right: 0;
+				top: 0;
+				padding: 0 5px;
+				line-height: 14px;
+				font-size: 10px;
+				background: #ddd;
+			}
+			.column.col-11:before {content: '100%'}
+			.column.col-12:before {content: '1/2'}
+				.column.col-12.last:before {content: '1/2 last'}
+			.column.col-13:before {content: '1/3'}
+				.column.col-13.last:before {content: '1/3 last'}
+			.column.col-23:before {content: '2/3'}
+				.column.col-23.last:before {content: '2/3 last'}
+			.column.col-14:before {content: '1/4'}
+				.column.col-14.last:before {content: '1/4 last'}
+			.column.col-34:before {content: '3/4'}
+				.column.col-34.last:before {content: '3/4 last'}
+			.column.col-15:before {content: '1/5'}
+				.column.col-15.last:before {content: '1/5 last'}
+			.column.col-25:before {content: '2/5'}
+				.column.col-25.last:before {content: '2/5 last'}
+			.column.col-35:before {content: '3/5'}
+				.column.col-35.last:before {content: '3/5 last'}
+			.column.col-45:before {content: '4/5'}
+				.column.col-45.last:before {content: '4/5 last'}
+			.column.col-16:before {content: '1/6'}
+				.column.col-16.last:before {content: '1/6 last'}
+			.column.col-56:before {content: '5/6'}
+				.column.col-56.last:before {content: '5/6 last'}
+
+		.column img {max-width: 100% !important}
+
+
+
+	/* lists */
+		ol ol {list-style: upper-alpha}
+		ol ol ol {list-style: lower-roman}
+		ol ol ol ol {list-style: lower-alpha}
+
+		ul,
+		ol {
+			margin-top: 1em;
+			padding-left: 0;
+			margin-left: 0;
+			list-style: none;
+		}
+		ol {
+			margin-left: 1.5em;
+			list-style: decimal;
+		}
+
+		ul > li {
+			padding: 0 0 0 18px;
+			margin-top: 0.5em;
+			background-repeat: no-repeat;
+			background-position: 0 0.2em;
+			background-image: url(../img/icons/16x16/bullet.png);
+		}
+
+		ul.no-bullets li {
+			padding: 0;
+			background: transparent !important;
+		}
+		ul.list-inline li {display: inline}
+
+		li:first-child {margin-top: 0}
+
+		li ul,
+		li ol {
+			margin-top: 0.5em;
+			margin-bottom: 0.5em;
+		}
+
+
+
+	/* shortcodes / styles overrides in visual editor */
+
+		/* accordion */
+			div.accordion-wrapper,
+			div.toggle-wrapper,
+			div.tabs-wrapper {
+				position: relative;
+				padding: 10px;
+				border: 1px dashed #ccc;
+			}
+			div.toggle-wrapper {padding-top: 20px}
+
+				div.accordion-wrapper:before,
+				div.toggle-wrapper:before,
+				div.tabs-wrapper:before {
+					position: absolute;
+					right: 0;
+					top: 0;
+					padding: 0 5px;
+					line-height: 14px;
+					font-size: 10px;
+					background: #ddd;
+				}
+
+				div.accordion-wrapper:before {content: 'Accordion'}
+					div.accordion-wrapper.auto:before {content: 'Auto accordion'}
+
+				div.toggle-wrapper:before {content: 'Toggle'}
+				div.tabs-wrapper:before {content: 'Tabs'}
+					div.tabs-wrapper.fullwidth:before {content: 'Fullwidth tabs'}
+					div.tabs-wrapper.vertical:before {content: 'Vertical tabs'}
+					div.tabs-wrapper.tour:before {content: 'Vertical tour tabs'}
+
+			div.accordion-wrapper ul,
+			div.tabs-wrapper ul {
+				margin: 0;
+				border: none;
+			}
+			div.accordion-wrapper li,
+			div.tabs-wrapper li {
+				padding: 10px 0 !important;
+				background: none !important;
+				border-top: 1px dotted #ddd;
+			}
+				div.accordion-wrapper li:first-child,
+				div.tabs-wrapper li:first-child {border: none}
+
+			.accordion-heading,
+			.toggle-heading,
+			.tab-heading {
+				height: auto;
+				line-height: 1em;
+				padding: 5px 10px;
+				margin: 0 0 0.5em;
+				background: #eee;
+				border: none;
+			}
+				.accordion-heading:before,
+				.toggle-heading:before {display: none}
+
+
+
+		/* divider */
+			.divider {border-bottom: 1px solid #ddd}
+			.divider.type-dots {border-bottom-style: dotted}
+			.divider.type-dashes {border-bottom-style: dashed}
+
+
+
+		/* framed image */
+			img.frame {border: 1px solid #ccc}
+
+
+
+		/* tabs */
+			h2.tab-heading {background: #ccc}
+
+
+
+		/* quotes */
+			blockquote.left-border {border-left: 1px solid #ddd}
+
+

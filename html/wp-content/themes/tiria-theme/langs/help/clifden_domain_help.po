@@ -1,0 +1,1509 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "\"Sections\" page template section"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Access shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Admin Panel"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Advanced Menus"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Also it is possible to display the actual image gallery in slider area without any slider effect, just as a gallery. Please check the \"Gallery\" tab of \"Page settings\" metabox for this."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Applies custom CSS class on the table for custom stylings."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "As the theme supports the true <abbr title=\"What You See Is What You Get\">WYSIWYG</abbr> content editing, you can use the <code>Styles</code> button to create content elements on the fly. However, due to limitations, it is not possible to replicate all shortcodes with styles, nor can be applied style edited easily afterwards (you have to switch to HTML editor and edit the actual HTML code). If you need to remove all styles from specific element, select the element and click the \"Remove formatting\" button right from <code>Styles</code> button. For instructions on how to apply specific styles, hover over the question icon (<i class=\"icon-question-sign\"></i>) right from a certain style name in styles dropdown and/or on the styles group heading."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Besides these predefined menu locations there will be new ones created for each landing page. This will allow you to completly disable menu on specific landing pages (simply by not assigning any menu to the location) or to use different menu on such pages."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Big text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Blue button:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Boxes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Button link URL address."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Button text."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "By default the thumbnail image is displayed (set to {1})."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "By default the widget area will be displayed horizontally and will take maximum of 5 widgets. However, you can change that and set vertical styling of the widget area here."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Call to action"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Can I style widget titles?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Can I use shortcodes in widgets?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Choose which elements should be checked for the last update."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Columns headings. This setting is required as it sets the number of columns to which the data will be separated. Separate each column heading (title) with separator character ({;} is used by default). If you do not need the table headings to be displayed, just type in separators required times, such as {;;;} will separate data in the table into 4 (yes, 4 as there would be normally a column title after the last separator character, so basically keep in mind to insert the \"columns count minus one\" number of separators) columns but without any column heading."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Content Module Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Content Module settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Content Modules can be used as a content injection to various website areas. You can display it in page or post content or in any widget area (custom widget included). Content Modules can be styled as icon boxes, so they are perfect for your services presentation (for example). You can even conveniently group them using tags and then have a module generated randomly just by choosing the Content Module tag group."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Content modules"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Content modules can be used to inject a content into a page or post or to be displayed as an icon module (which can be usefull for services presentation, for example)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Copy the icon class"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Countdown timer"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates a Font Awesome icon"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates a dropcap"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates call to action box"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates columns"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates interactive accordion"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates interactive tabs"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates interactive toggles"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Creates table"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Default value"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Default value of predefined parameter values set"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display a specific content module"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display a specific pricing table"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display clients/partners logos"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display frequently asked questions"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display list of subpages"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display specific social icon"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display status posts"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Display testimonials"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays blog posts. You can insert a description between an opening and closing shortcode tag and set an \"align\" parameter to display it on left or right."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays content just for specific user group"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays countdown timer"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays countdown timer counting down until specific time."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays current project attributes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays date and time when the posts or projects were last updated"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays list of frequently asked questions. You can insert a description between an opening and closing shortcode tag and set an \"align\" parameter to display it on left or right."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays list of projects. You can insert a description between an opening and closing shortcode tag and set an \"align\" parameter to display it on left or right."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays list of subpages."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays login form"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays logos. You can insert a description between an opening and closing shortcode tag and set an \"align\" parameter to display it on left or right."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays posts"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays projects"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays pullquotes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays quote posts in a list or animated sequence one by one. If featured image of the post set, it will be used as quoted person photo (please upload square images only)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays specific widget area"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays staff info"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Displays status posts in a list or animated sequence one by one."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Divider"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Dropcaps"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Duration in seconds to display one slide."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Duration to display one status in seconds. This will make the statuses to be displayed in animation one by one. If not set, statuses will be displayed in simple list."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Duration to display one testimonial in seconds. This will make the testimonials to be displayed in animation one by one. If not set, testimonials will be displayed in simple list."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Encloses the text into {&lt;pre&gt;&lt;/pre&gt;}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Encloses the text into {&lt;small&gt;&lt;/small&gt;}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Encloses the text into {&lt;span class=\"size-big\"&gt;&lt;/span&gt;}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Encloses the text into {&lt;span class=\"size-huge\"&gt;&lt;/span&gt;}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Encloses the text into {&lt;span class=\"uppercase\"&gt;&lt;/span&gt;}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Enlarges text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Example:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Excerpt"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Excerpts are only displayed when rich staff profiles are enabled. Excerpt will be displayed in staff members list as a basic information about the person. You can surely leave it blank, though. When visitors of your website clicks the staff profile image (featured image), they will be taken to staff member profile page (no excerpt will be displayed here)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Footer navigation"
+msgstr ""
+
+#. Text in function
+#: library/help/help.php:1
+msgid "For further assistance please check the online <a href=\"%1s\" target=\"_blank\">%2s User Manual</a>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "For other slider types set the appropriate options. You can display a \"Slides\" custom posts in slider, which gives you more control and flexibility over slides, or display images from post/page gallery in slider. When displaying images from gallery, you can set the image caption and description text. Both will be displayed as slide caption. Besides you can set also image custom URL link and slide caption layout - all can be set when editing the image. Images from gallery will be displayd in gallery order."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Gray button:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Green button:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "How to align a menu item to the right?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "How to insert an icon into menu item?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "How to make the menu item a button?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "How to set up a slider"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "How to use prices?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Huge text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Icon class"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Icon image class name. Please use shortcode generator for all possible icons."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Icons (Font Awesome)"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If description set, this will set its alignment."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If set, a heading (HTML heading 3) will be applied on the attributes list."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If slides group is not set, you can insert set of image URL addresses separated with commas. If you want to display post/page gallery in slider, just type in \"gallery\"."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If you need to style any of the table columns as headings, set its position number here (starting with 1)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If you require more control over your table you can use sub-shortcodes for table row ([trow][/trow] or [trow_alt][/trow_alt] for alternatively styled table row), table cell ([tcell][/tcell]) and table heading cell ([tcell_heading][/tcell_heading]). All wrapped in [table][/table] parent shortcode without any parameter."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If you select \"Video\" slider, a single video will be displayed in the slider area and featured image will be set as video cover image. For \"Static featured image\" make sure the featured image is set up. You can set to stretch the image to fit website box width, otherwise the actual image in full size will be displayed."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If you use set of image URL addresses for \"images\" parameter, you can set custom links for each image in the set. Just make sure the number of links is the same as number of images. Separate links with commas. Use empty space for no link on specific image, such as {URL, ,URL}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "If you want to display a filter, set this value. Otherwise leave blank."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "In \"Page Settings\" metabox click the \"Slider\" tab. Choose a slider type from \"Enable slider\" dropdown option."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Insert numbers separated with commas. For default \"exclude\" gallery parameter you would need to insert the actual image IDs. This makes the process simpler. You just insert a numerical position of the image in gallery to remove. For example {1,3,5} will remove first, third and fifth image from gallery."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts \"yes\" or \"no\" icon"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts SoundCloud or self-hosted audio"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts YouTube, Vimeo, Screenr or self-hosted video"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts a button"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts a divider"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts a message box"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts image slideshow"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Inserts post/page image gallery"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Instead of placing a list of pages into sitemap page, this offers a greater control over links. Most of the time you would display a main navigation menu here. Please note that menu title will be used as section title on sitemap page."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Last update"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Leave empty to redirect to homepage after successful login or set {1} to stay on the current page."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Lists (unordered)"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Login Form"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Logos"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Main navigation"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Makes text smaller"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Many options in this admin panel are predefined with default values. To reset the default value click the reset button (rounded arrows) right from the option (where applicable)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Markers (highlights)"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Marks, highlights the text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Media shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "No closing tag required, please close the shortcode with slash before the closing square bracket."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Normally, the icon will be set automatically from the URL parameter. However, you can force a specific icon here."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Number of quote posts to display."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Number of status posts to display."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "One of these values (leave blank for default):"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Only predefined icons of Font Awesome can be displayed with this shortcode. For the icons list see below or use Shortcode Generator."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Opacity of the shadow image when divider type set to display shadow."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional box title."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional call to action box subtitle."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional call to action box title."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional custom CSS class applied on the column."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional custom hexadecimal color code without \"#\"."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional link relation. This sets up the \"rel\" HTML attribute."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Optional section CSS class for styling purposes. You can use \"alt\" class to apply alternative styling."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Orange button:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Otherwise, if rich staff profiles are disabled, the whole content will be displayed in staff members list and clicking the person profile image will just open image larger."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Page Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Page excerpt"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Page settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Place the accordion item content between [accordion_item] and [/accordion_item] shortcodes and wrap them all in [accordion] and [/accordion] shortcode. You can create as many accordion items as needed, just remember to enclose them in [accordion_item] shortcode."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Place the content between opening and closing shortcode tag."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Place the tab content between [tab] and [/tab] shortcodes and wrap them all in [tabs] and [/tabs] shortcode. You can create as many tab items as needed, just remember to enclose them in [tab] shortcode."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Place the toggle content between [toggle] and [/toggle] shortcode. The content will be displayed after clicking the toggle title."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Place unordered list in between opening and closing shortcode tag."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please add one of the following CSS classes to the menu item:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please go through the available Content Module options in \"Content Module settings\" metabox and set required ones to fit your needs. If \"Icon box\" option is checked, you can upload a custom icon as a featured image."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please go through the available price options in \"Price settings\" metabox and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please go through the available project options in \"Project settings\" metabox and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please go through the available slide options in \"Slide settings\" metabox and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please go through the available staff information options in \"Staff info\" metabox and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please navigate to <strong>Appearance > Options Export/Import</strong> to make backups of your theme settings or to load previously saved theme settings."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please select a page template first. The \"Page Settings\" will be displayed according to page template selected. Go through the available options for specific page template and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please select a post format first. The \"Post Settings\" will be displayed according to post format selected. Go through the available options and set required ones to fit your needs."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Please use the below classes to insert a specific icon."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Post excerpt will be displayed in post list. If no excerpt set, a portion of post content will take its place. Post excerpt will also be displayed at the top of the post content on single post page. Please note that you will probably have to enable post excerpt field in \"Screen Options\" first."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Post settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Price Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Price settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Prices are being displayed in a table. Each price post is displayed as a column in price table. Please, make sure you set the price table (in \"Price tables\" metabox) for each price post. A price post can be displayed in several different price tables. One price table can display up to 6 prices (columns). Make sure all the price package/column features are displayed as an unordered list (they will be centered automatically in price table)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Pricing tables"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Project attributes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Project settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Projects"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Projects Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Pullquotes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Raw preformated text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Raw, preformated text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Red button:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Required accordion section (item) title. Clicking the title reveals the accordion section."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Required tab title. Clicking the title reveals the tabbed content."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Required toggle title. Clicking the title toggles the content."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "SEO settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Separator character used to separate \"cols\" and \"data\" datas. Semicolon ({;}) is used by default."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set \"last\" when the column is the last one in row of columns."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set the depth level of pages hierarchy to display."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set the icon size in font-size CSS rule compatble values."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set the time in predefined format: Y = year, M = month, D = day, H = hour, m = minute. Example for noon on December 31st, 2013: {2013-12-31 12:00}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} display frame around gallery images."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display a filter above projects list."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display also page parents. Otherwise only children and siblings will be displayed."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display box with transparent background - only border will be visible."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display images without margins."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display link to the top of page."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to display status post publish date and time."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to hide Content Module featured image."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to hide Content Module title."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to hide the border."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to keep image proportions and display a gallery in masonry style."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to make accordion automatically animated or leave empty to use normal accordion. You can also set the automatic animation speed in miliseconds here if you enter a number greater than {1000}."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to open button link in new browser window or tab."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Set {1} to style the box as hero box."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets optional text which will be displayed when mouse hovers over the icon."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the height of bottom padding of the divider (in \"unit\" setting)."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the icon color. If {colored} set, \"Yes\" icon will be green, \"No\" icon will be red."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the layout - either normal or centered one."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the layout."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the length of the excerpt in words."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the number of items displayed."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sets the time format. By default it uses WordPress settings (set it in <strong>Settings > General > Date Format</strong>). You can, however, set any <a href=\"http://php.net/manual/en/function.date.php\" target=\"_blank\">PHP valid value</a> here."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Should the testimonials shortcode display posts with status of \"private\" (these are normally displayed to post author only and are hidden for other website visitors)?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Should the toggle be open by default?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sitemap links"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Size of images in slider"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slide Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slide settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slider usually displays full size images but this depends on slider type chosen (you can get more information about slider types in theme admin panel). If \"Fit website width\" option set, the slider will try to stretch the image to fit the website box width (while keeping the slide caption text in main website content area). The theme allows for 2 main content widths: 1160 and 930 pixels. Please make sure to upload image of this width for slider if you want to match the main website content width."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slider usually displays full size images but this depends on slider type chosen (you can get more information about slider types in theme admin panel). The theme allows for 2 main content widths: 1160 and 930 pixels. Please make sure to upload image of this width for the slide if you want to match the main website content width. Slide background will be stretched full website box width."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slides group slug (preferred) or ID. If set, slides from specific slides group will be displayed. You can find the Slides group slug in <strong>Slides > Slide groups</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Slug (preferred) or ID of blog category where the quote posts are chosen from. You can find the category slug in <strong>Posts > Categories</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Small text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Social icons"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Some widget areas, when displayed horizontally, can take maximum of 5 widgets. If there is more widgets in the area then the amount it can take in horizontal layout, the area will not be displayed. This information can be found in widget area description when you open the widget area. Widgets in these areas will be aligned to columns automatically. You can insert any widget area into page or post content with <code>[widgets area=\"ID\"]</code> shortcode. Note also that widget area will not be displayed when it contains no widgets."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Sometimes you will need to add a new line above or below certain elements in content and sometimes this can be quite tricky to do, as you would have to switch to HTML editor to do so. The theme comes with 2 handy buttons to do this while not leaving the visual editor. Just place the cursor on the element before or after which you need the line to be inserted and click the appropriate button. You can find these 2 buttons left from <code>[S]</code> (\"Shortcode Generator\") button."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Special shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Splits the \"Sections\" page template"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Staff Settings"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Staff info"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Staff profile and Excerpt field"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Statuses"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Stick table right"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Styles unordered lists"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Subpages"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Table"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Text and layout shortcodes"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The \"New line\" buttons"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The <code>Styles</code> button"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The <code>[S]</code> (\"Shortcodes Generator\") button"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The actual link URL of the icon. When \"icon\" parameter left empty, this will be used to determine the icon."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The actual table data. Again, separate with separator character ({;} by default). This text can be as long as you wish as it will be separated into columns by the above setting."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The available shortcodes are: [administrator]TEXT[/administrator], [author]TEXT[/author], [contributor]TEXT[/contributor], [editor]TEXT[/editor], [subscriber]TEXT[/subscriber]."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the Content Module to be displayed. You can find the Content Module slug in <strong>Content Modules > Content Modules</strong> in \"Shortcode\" column of the table."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the FAQ category to be displayed. You can find the FAQ category slug in <strong>FAQ > FAQ categories</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the blog category to be displayed. You can find the blog category slug in <strong>Posts > Categories</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the department to be displayed. You can find the department slug in <strong>Staff > Departments</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the logo category to be displayed. You can find the logo category slug in <strong>Logos > Categories</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the projects category to be displayed. You can find the projects category slug in <strong>Projects > Project categories</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the table to be displayed. You can find the price table slug in <strong>Prices > Price tables</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The slug (preferred) or ID of the tag (the group of Content Modules) where the Content Module will be randomly chosen from. You can find the tag slug in <strong>Content Modules > Tags</strong>."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The theme allows to use bold (strong) and italic (emphasized) text stylings in widget titles. Just use <code>[s]TEXT[/s]</code> shortcode for strong text and <code>[e]TEXT[/e]</code> for emphasized text."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The theme allows you to create as many menus as you want. However these menus can be placed only into predefined locations. The 3 main predefined menu locations are:"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The theme allows you to put icons and description text into main menu items, style them as buttons or align them right. This is all possible by using CSS classes. First, please make sure the \"CSS Classes\" and \"Description\" meta fields are enabled for menu items. You can check this in \"Screen Options\" tab after closing this contextual help."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The theme allows you to set additional content area on certain pages. To find out, whether the specific page template supports displaying of page excerpt content, click the \"layout structure\" link in page settings description. The link will open popup window with an image of design elements layout for the page template."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "The theme displays project excerpt as basic project info next to project media (please check the \"General and layout\" tab of \"Project settings\" metabox for more info about project layout) and in projects list. By default project attributes will be displayed on top of project excerpt on single project page, but you can change this by inserting a <code>[project_attributes title=\"Project info\" /]</code> shortcode anywhere in the project content or excerpt area."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Theme Menu Locations"
+msgstr ""
+
+#. Text in function
+#: library/help/help.php:1
+msgid "Theme online user manual"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "There are no parameters for this shortcode."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This is basically the native WordPress gallery shortcode enhanced with some cool features. For default gallery parameters check the <a href=\"http://codex.wordpress.org/Gallery_Shortcode\" target=\"_blank\">WordPress codex</a>. Parameters below are just theme enhancements. The theme also improves gallery HTML markup and CSS styling."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This is main navigation area in the header of the website. The menu can be nested and hierarchically organised. Subtle animation is applied when revealing submenu items, but the menu will work even with JavaScript disabled."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This is navigation area displayed in the website footer in credits area. Just first hierarchical level of the menu will be displayed."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This is really usefull when editing long menus. Please keep the contextual help open."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This is to quickly distinguish the special widgets and widget areas. Custom theme widgets are colored dark as oposed to native or other WordPress widgets. Custom widget areas (the ones created in theme admin panel) are blue to separate them from predefined widget areas."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "This will display simple data table. Perfectly suitable to display data from CSV files."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Toggles"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Transforms letters of text to uppercase"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Uppercase letters"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Use on project page only."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Use this shortcode on \"Sections\" page template only. It will split the page into sections."
+msgstr ""
+
+#. Text in function
+#: library/help/help.php:1
+msgid "User Manual"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "User groups"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Visual Editor"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Welcome to beautiful WebMan Admin Panel. It is as easy to use as it gets and offers several different intuitive options fields and input types which help to set the right option values."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "What is Content Module?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "When you install the theme, you will be presented with Quickstart Guide. Please read through the steps in this guide and set what is required for your website. The guide is branded by WebMan, but as soon as you hit the \"Save changes\" button for the first time, the admin panel will be debranded. You can basically set the branding to your needs - even for WordPress administration."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Whether to display posts related to the current one upon its category and tag settings."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Why the widget area is not displayed on website?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Why there are different colors of widgets and widget areas?"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Widget areas"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Widgets and widget areas"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "With Shortcode Generator it is very easy to insert any shortcode into post/page content. Simply select the right shortcode from the dropdown, set its options if required and click the \"Insert into editor\" button (or copy it and insert manually). The shortcode will be included on current cursor position. Note that Shortcode Generator is not compatible with Internet Explorer browsers."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Yes / No icon"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "Yes, you can use shortcodes in Text widget. However, the theme offers much convenient way of inserting a formated content in widget areas just by using the <strong>%s Content Module</strong> widget. You can create a new Content Module custom post and edit it using visual editor and then include this specific post into widget area using the widget. You can find shortcode reference in other tabs of this contextual help."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "You can align a certain menu item to the right just by adding an <code>alignright</code> class to it."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "You can also use simple format shortcodes in menu items (such as <code>[marker color=\"red\"][/marker]</code>). For SEO purposes it is also recommended to set \"Title Attribute\" field."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "You can set a specific SEO meta description and keywords and/or disable indexing of this post/page in \"SEO settings\" metabox."
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "color code"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "number"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "numbers"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "predefined"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "slug or ID"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "text"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "time value (YYYY-MM-DD HH:mm format)"
+msgstr ""
+
+#. Text in function
+#: library/help/a-help.php:1
+msgid "yes (1) / no (0)"
+msgstr ""

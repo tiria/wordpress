@@ -1,0 +1,176 @@
+/*********************************************/
+/* typography                                */
+/*********************************************/
+
+	html {-webkit-font-smoothing: antialiased}
+
+	/* font families */
+		pre,
+		code {
+			font-family: 'Lucida Console', Monaco, 'Courier New', monospace;
+		}
+		/* other font families are being set in color skins and the default ones are located in style.php file */
+
+
+
+	/* font sizes */
+		body {font-size: 12px}
+
+		.btn.size-small,
+		.comment-reply-link, .comment-heading,
+		.countdown-timer.size-medium .dash_title {font-size: 11px}
+
+		.btn, .btn.size-medium, input[type="submit"],
+		.countdown-timer.size-large .dash_title {font-size: 12px}
+
+		.btn.size-large, .btn.size-extra-large {font-size: 13px}
+
+		.countdown-timer .dash_title {font-size: 16px}
+
+		.large blockquote .quote-source {font-size: .6em}
+
+		.nav-main small,
+		.attributes .attribute-heading,
+		.meta-article {font-size: .85em}
+
+		.logo .description,
+		table,
+		pre,
+		small,
+		.top-bar,
+		.quote-source,
+		#comments .reply, #comments .btn-edit, .children .comment-reply-link,
+		.wp-caption-text,
+		.size-small,
+		.breadcrumbs,
+		.price-column.legend .price-spec li,
+		.project-excerpt.text-element, .project-category.text-element,
+		.wm-post-list .excerpt, .wm-post-list .date, .post-excerpt.text-element, .text-element.post-date,
+		.wrap-staff-shortcode .staff-position,
+		.tweet-time,
+		.map .infoBox {font-size: .9em}
+
+		h1.logo.img-only,
+		.wm-post-list li h3,
+		h4, h5, h6, .box > h1, .box > h2,
+		.accordion-heading, .toggle-heading,
+		.nav-main,
+		#comments li li,
+		input, select, textarea,
+		.countdown-timer.size-small {font-size: 1em}
+
+		.post-title.text-element,
+		.project-title.text-element,
+		.staff-title,
+		blockquote {font-size: 1.15em}
+
+		big,
+		h3, .main-heading h2, .call-to-action-title h2,
+		.article-excerpt,
+		.wrap-posts-shortcode .post-title,
+		.header-right,
+		.pagination,
+		.status,
+		.call-to-action.has-title,
+		.format-quote blockquote {font-size: 1.2em}
+
+		h2,
+		.large .status,
+		.large blockquote {font-size: 1.4em}
+
+		h2.post-title,
+		.hero, .call-to-action,
+		.dropcap.round, .dropcap.square, .dropcap.leaf {font-size: 1.6em}
+
+		h1, .main-heading .h1-style {font-size: 2em}
+
+		.size-big {font-size: 2.5em}
+
+		.dropcap,
+		.price-heading p.cost,
+		.countdown-timer.size-medium {font-size: 2.8em}
+
+		.size-huge {font-size: 3.5em}
+
+		.countdown-timer.size-large {font-size: 4.5em}
+
+		.page-404 h1,
+		.numbering,
+		.countdown-timer {font-size: 6em}
+
+
+
+	/* font weights (100 - 900, 400 is the same as normal, and 700 is the same as bold) */
+		.page-404 h1,
+		.status,
+		.size-big, .size-huge,
+		.numbering,
+		.countdown-timer .dash .digit {font-weight: 300}
+
+		.logo,
+		.main-heading h1 + h2, .main-heading .h1-style + h2,
+		.sitemap-item h5,
+		.nav-main li li,
+		#wp-calendar tfoot a,
+		.call-to-action-title small,
+		.wrap-projects-shortcode .wrap-filter .count {font-weight: 400}
+
+		strong,
+		h4, .wm-post-list li h3, .call-to-action-title h2,
+		.nav-main > ul > li > .inner span,
+		th, tfoot td,
+		#comments .awaiting,
+		.contact-name,
+		.btn, input[type="submit"],
+		.price-column .cost,
+		ul.tabs,
+		.quote-source,
+		.pagination a, .pagination span,
+		.staff-card .name,
+		.wrap-projects-shortcode .wrap-filter {font-weight: 700}
+
+
+
+	/* font styles */
+		.large blockquote, .quote-source,
+		#comments .author,
+		.project-info .project-title {font-style: normal}
+
+		blockquote,
+		.nav-main small,
+		.price-heading p.note, .price-column.legend,
+		.project-info {font-style: italic}
+
+
+
+	/* line heights */
+		input[type="date"],
+		input[type="email"],
+		input[type="text"] {line-height: 1} /* Safari placeholder text fix */
+
+		body,
+		.main-heading h1 + h2, .main-heading .h1-style + h2,
+		.slider-caption-content h2, .wm-post-list li h3,
+		.tagcloud,
+		.sidebar .wm-contact-info,
+		.article-excerpt {line-height: 1.5em}
+
+		.map .infoBox {line-height: 1.4em}
+
+		h1, .main-heading .h1-style, h2, h3, h4, h5, h6,
+		table,
+		.size-big,
+		.allowed-tags,
+		.wp-caption .wp-caption-text,
+		.wrap-projects-shortcode .project-info,
+		.status,
+		.call-to-action,
+		.hero {line-height: 1.25em}
+
+		.size-huge {line-height: 1.05em}
+
+		.logo,
+		.nav-main a.btn,
+		.numbering {line-height: 1em}
+
+

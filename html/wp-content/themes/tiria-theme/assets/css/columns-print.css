@@ -1,0 +1,81 @@
+/*********************************************/
+/* columns                                   */
+/*********************************************/
+
+/* columns wrapper - used in widget wrappers */
+.columns {
+	position: relative;
+	overflow: hidden;
+}
+
+
+
+/* single column (and widget in widget wrappers) basic styles */
+.column,
+.columns > .widget {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 0 3%;
+}
+	.column.last + * {clear: both}
+
+
+
+/* column widths */
+/* 1/1 */
+.columns.count-1 > div,
+.columns.count-1 > .widget,
+.columns.count-1 > .column {width: 93%}
+
+/* 1/2 */
+.columns.count-2 > div,
+.columns.count-2 > .widget,
+.columns.count-2 > .column,
+.col-12 {width: 44%}
+
+/* 1/3, 2/3 */
+.columns.count-3 > div,
+.columns.count-3 > .widget,
+.columns.count-3 > .column,
+.col-13 {width: 27%}
+.col-23 {width: 60%}
+
+/* 1/4, 3/4 */
+.columns.count-4 > div,
+.columns.count-4 > .widget,
+.columns.count-4 > .column,
+.col-14 {width: 19%}
+.col-34 {width: 69%}
+
+/* 1/5, 2/5, 3/5, 4/5 */
+.columns.count-5 > div,
+.columns.count-5 > .widget,
+.columns.count-5 > .column,
+.col-15 {width: 14%}
+.col-25 {width: 34%}
+.col-35 {width: 54%}
+.col-45 {width: 74%}
+
+/* 1/6, 5/6 */
+.columns.count-6 > div,
+.columns.count-6 > .widget,
+.columns.count-6 > .column,
+.col-16 {width: 10%}
+.col-56 {width: 74%}
+
+
+
+/* gallery columns */
+.gallery-columns {overflow: hidden}
+.gallery-columns a {display: block}
+.gallery-columns img {width: 100%}
+.gallery-columns .column {margin-top: 3%}
+.gallery-columns .column.first-row {margin-top: 0}
+.single-wm_portfolio .gallery-columns {padding-bottom: 3%}
+.single-wm_portfolio .gallery-columns .column {
+	margin-top: 3%;
+	margin-bottom: 0;
+}
+
+

@@ -1,0 +1,88 @@
+/*
+* Based on Skeleton V1.1 by Dave Gamache
+* www.getskeleton.com
+*/
+
+
+/* Table of Contents
+==================================================
+	#Base 990 Grid
+	#Layout corrections
+*/
+
+
+
+/* #Base 990 Grid
+================================================== */
+
+	body {min-width: 1020px} /* for less than and including Internet Explorer 8 */
+
+	.boxed .wrap {
+		width: 1020px;
+	}
+	.wrap-inner {
+		width: 1020px;
+		margin: 0 auto;
+		padding: 0 15px;
+	}
+		.lie8 .wrap-inner {  /* for less than and including Internet Explorer 8 */
+			position: relative;
+			left: 50%;
+			margin: 0 -510px;
+		}
+		.boxed .slider-main-wrap .wrap-inner {
+			width: 100%;
+			padding: 0;
+		}
+		.slider-caption-content {
+			width: 930px;
+		}
+	.pane {
+		position: relative;
+		float: left;
+		display: block;
+		margin-left: 30px;
+	}
+		.boxed .slider-main-wrap .twelve.pane {margin-left: 45px}
+		.sidebar.sidebar-right .widget {margin-left: 30px}
+		.sidebar.sidebar-left .widget {margin-right: 30px}
+	.pane.no-margin {
+		margin: 0;
+	}
+	.pane.margin-right {
+		margin-right: 30px;
+	}
+	.row {
+		margin-bottom: 20px;
+	}
+
+	/* Base Grid (gutter 30px, pane 50px) */
+		.wrap-inner .one.pane    { width: 50px;  }
+		.wrap-inner .two.pane    { width: 130px; }
+		.wrap-inner .three.pane  { width: 210px; }
+		.wrap-inner .four.pane   { width: 290px; }
+		.wrap-inner .five.pane   { width: 370px; }
+		.wrap-inner .six.pane    { width: 450px; }
+		.wrap-inner .seven.pane  { width: 530px; }
+		.wrap-inner .eight.pane  { width: 610px; }
+		.wrap-inner .nine.pane   { width: 690px; }
+		.wrap-inner .ten.pane    { width: 770px; }
+		.wrap-inner .eleven.pane { width: 850px; }
+		.wrap-inner .twelve.pane { width: 930px; }
+
+
+
+/* Layout corrections */
+	.wrap-projects-shortcode article.col-15 {
+		font-size: 0.85em;
+	}
+	.nine .wrap-projects-shortcode article.col-14 .project-info,
+	.nine .wrap-projects-shortcode article.col-14 .project-title,
+	.eight .wrap-projects-shortcode article.col-14 .project-info,
+	.eight .wrap-projects-shortcode article.col-14 .project-title,
+	.seven .wrap-projects-shortcode article.col-14 .project-info,
+	.seven .wrap-projects-shortcode article.col-14 .project-title {
+		display: none !important;
+	}
+
+

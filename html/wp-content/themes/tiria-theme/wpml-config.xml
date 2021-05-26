@@ -1,0 +1,32 @@
+<wpml-config>
+	<admin-texts>
+		<key name="wm-clifden">
+			<key name="wm-general-comments-introduction" />
+			<key name="wm-general-search-placeholder" />
+
+			<key name="wm-general-permalink-module" />
+			<key name="wm-general-permalink-faq" />
+			<key name="wm-general-permalink-logos" />
+			<key name="wm-general-permalink-price" />
+			<key name="wm-general-permalink-project" />
+			<key name="wm-general-permalink-project-category" />
+			<key name="wm-general-permalink-slide" />
+			<key name="wm-general-permalink-staff" />
+			<key name="wm-general-permalink-staff-department" />
+
+			<key name="wm-branding-credits" />
+			<key name="wm-branding-admin-footer" />
+			<key name="wm-branding-dash-quickaccess-title" />
+			<key name="wm-branding-dash-quickaccess-text" />
+
+			<key name="wm-layout-related-projects-title" />
+			<key name="wm-layout-header-right" />
+
+			<key name="wm-seo-keywords" />
+			<key name="wm-seo-description" />
+
+			<key name="wm-p404-title" />
+			<key name="wm-p404-text" />
+		</key>
+	</admin-texts>
+</wpml-config>

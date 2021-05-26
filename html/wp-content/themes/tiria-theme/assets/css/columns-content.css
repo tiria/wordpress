@@ -1,0 +1,96 @@
+/*********************************************/
+/* content columns                           */
+/*********************************************/
+
+	/* columns wrapper - used in widget wrappers */
+		.columns {
+			position: relative;
+			overflow: hidden;
+		}
+
+	/* single column (and widget in widget wrappers) basic styles */
+		.column,
+		.columns > .widget {
+			position: relative;
+			float: left;
+			padding: 0;
+			margin: 0 4% 0 0;
+		}
+			.columns > .widget,
+			.columns > .column {margin: 0 0 0 4%}
+				.columns > .widget:first-child,
+				.columns > .column:first-child,
+				.column.no-margin {margin: 0}
+				.column.last {margin-right: 0 !important}
+				.column.last + * {clear: both}
+
+	/* column widths */
+	/* full width = 990, normal content width = 720 */
+	/* 1/1 */
+		.columns.count-1 > div,
+		.columns.count-1 > .widget,
+		.columns.count-1 > .column {width: 100%}
+		.col-11 {width: 100%}
+
+	/* 1/2 */
+		.columns.count-2 > div,
+		.columns.count-2 > .widget,
+		.columns.count-2 > .column,
+		.col-12 {width: 48%}
+		.col-12.no-margin {width: 50%}
+
+	/* 1/3, 2/3 */
+		.columns.count-3 > div,
+		.columns.count-3 > .widget,
+		.columns.count-3 > .column,
+		.col-13 {width: 30.6%}
+		.col-23 {width: 65.2%}
+		.col-13.no-margin {width: 33.33%}
+		.col-23.no-margin {width: 66.66%}
+
+	/* 1/4, 3/4 */
+		.columns.count-4 > div,
+		.columns.count-4 > .widget,
+		.columns.count-4 > .column,
+		.col-14 {width: 22%}
+		.col-34 {width: 74%}
+		.col-14.no-margin {width: 25%}
+		.col-34.no-margin {width: 75%}
+
+	/* 1/5, 2/5, 3/5, 4/5 */
+		.columns.count-5 > div,
+		.columns.count-5 > .widget,
+		.columns.count-5 > .column,
+		.col-15 {width: 16.8%}
+		.col-25 {width: 37.6%}
+		.col-35 {width: 58.4%}
+		.col-45 {width: 79.2%}
+		.col-15.no-margin {width: 20%}
+		.col-25.no-margin {width: 40%}
+		.col-35.no-margin {width: 60%}
+		.col-45.no-margin {width: 80%}
+
+	/* 1/6, 5/6 */
+		.columns.count-6 > div,
+		.columns.count-6 > .widget,
+		.columns.count-6 > .column,
+		.col-16 {width: 13.3%}
+		.col-56 {width: 82.5%}
+		.col-16.no-margin {width: 16.66%}
+		.col-56.no-margin {width: 83.30%}
+
+
+
+	/* gallery columns */
+		.gallery-columns {overflow: hidden}
+		.gallery-columns .column {margin-top: 30px}
+		.gallery-columns .column.first-row {margin-top: 0}
+		.gallery-columns .column.no-margin a {
+			padding: 0;
+			margin: 0 1px 1px 0;
+			border: none;
+		}
+		.slider .gallery-columns .column.no-margin a {margin: 0}
+		.gallery-columns .column.no-margin {margin-top: 0}
+
+

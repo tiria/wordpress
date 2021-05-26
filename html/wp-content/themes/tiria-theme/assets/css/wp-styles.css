@@ -1,0 +1,99 @@
+/*
+*****************************************************
+* TIRIA'S WORDPRESS THEME FRAMEWORK
+* Created by Tiria - www.tiria.fr
+* Based on Clifden by WebMan - www.webmandesign.eu
+*
+* Basic WordPress styles and classes
+*****************************************************
+*/
+
+	/* alignment */
+		.alignleft,
+		img.alignleft {
+			float: left;
+			margin-right: 30px;
+			margin-bottom: 15px
+		}
+		.alignright,
+		img.alignright {
+			float: right;
+			margin-left: 30px;
+			margin-bottom: 15px
+		}
+		.aligncenter,
+		img.aligncenter {
+			clear: both;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.alignnone,
+		img.alignnone {margin: 0}
+
+
+
+	/* image captions */
+		.wp-caption {
+			position: relative;
+			max-width: 100%;
+			text-align: center;
+		}
+			.wp-caption figure {
+				position: relative;
+				display: inline-block;
+				padding: 20px 20px 4px;
+				margin: 0 auto;
+				text-align: center;
+				background: transparent;
+				overflow: hidden;
+			}
+			.wp-caption img,
+			.wp-caption img[width] {
+				max-width: 100%;
+				padding: 0;
+				margin: 0;
+			}
+			.wp-caption .alignleft,
+			.wp-caption .alignright,
+			.wp-caption .aligncenter {
+				float: none !important;
+				margin: 0 !important;
+			}
+			.wp-caption .wp-caption-text {
+				padding: 10px 0 5px;
+				overflow: hidden;
+			}
+
+
+
+	/* smilies */
+		img.wp-smiley {
+			display: inline !important;
+			width: auto;
+			max-height: 1em;
+			margin: 0 .15em !important;
+		}
+
+
+
+	/* sticky posts */
+		.sticky {}
+
+
+
+	/**
+	 * Make WordPress embeds responsive
+	 */
+
+		embed,
+		iframe,
+		object,
+		video {max-width: 100%}
+
+		.twitter-tweet-rendered {
+			max-width: 100% !important;
+			margin: 1.62em 0 !important;
+		}
+
+

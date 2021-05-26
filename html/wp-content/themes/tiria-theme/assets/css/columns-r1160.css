@@ -1,0 +1,227 @@
+/*
+* Based on Skeleton V1.1 by Dave Gamache
+* www.getskeleton.com
+*/
+
+
+/* Table of Contents
+==================================================
+	#Base 1240 Grid
+	#Tablet (Landscape)
+	#Tablet (Portrait)
+	#Mobile (Landscape and Portrait)
+*/
+
+
+
+/* #Base 1240 Grid
+================================================== */
+
+	.boxed .wrap {
+		width: 1280px;
+	}
+	.wrap-inner {
+		width: 1280px;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+		.boxed .slider-main-wrap .wrap-inner {
+			padding: 0;
+		}
+		.slider-caption-content {
+			width: 1160px;
+		}
+	.pane {
+		position: relative;
+		float: left;
+		display: block;
+		margin-left: 40px;
+	}
+		.boxed .slider-main-wrap .twelve.pane {margin-left: 60px}
+		.sidebar.sidebar-right .widget {margin-left: 40px}
+		.sidebar.sidebar-left .widget {margin-right: 40px}
+	.pane.no-margin {
+		margin: 0;
+	}
+	.pane.margin-right {
+		margin-right: 40px;
+	}
+	.row {
+		margin-bottom: 20px;
+	}
+
+	/* Base Grid (gutter 40px, pane 60px) */
+		.wrap-inner .one.pane    { width: 60px;  }
+		.wrap-inner .two.pane    { width: 160px; }
+		.wrap-inner .three.pane  { width: 260px; }
+		.wrap-inner .four.pane   { width: 360px; }
+		.wrap-inner .five.pane   { width: 460px; }
+		.wrap-inner .six.pane    { width: 560px; }
+		.wrap-inner .seven.pane  { width: 660px; }
+		.wrap-inner .eight.pane  { width: 760px; }
+		.wrap-inner .nine.pane   { width: 860px; }
+		.wrap-inner .ten.pane    { width: 960px; }
+		.wrap-inner .eleven.pane { width: 1060px; }
+		.wrap-inner .twelve.pane { width: 1160px; }
+
+	/* elementor */
+	.elementor-section.elementor-section-boxed > .elementor-container{
+		width:1160px !important;
+	}
+
+/* #Tablet (Landscape)
+================================================== */
+
+	/* Note: Design for a width of 1280px (gutter 30px, pane 50px) */
+
+	@media only screen and (min-width: 1020px) and (max-width: 1279px) {
+		.boxed .wrap {
+			width: 1020px;
+		}
+		.wrap-inner {
+			width: 1020px;
+			padding: 0 15px;
+		}
+			.boxed .slider-main-wrap .wrap-inner {
+				width: 100%;
+				padding: 0;
+			}
+			.slider-caption-content {
+				width: 930px;
+			}
+		.pane {
+			margin-left: 30px;
+		}
+			.boxed .slider-main-wrap .twelve.pane {margin-left: 45px}
+			.sidebar.sidebar-right .widget {margin-left: 30px}
+			.sidebar.sidebar-left .widget {margin-right: 30px}
+		.pane.margin-right {
+			margin-right: 30px;
+		}
+
+		.wrap-inner .one.pane    { width: 50px;  }
+		.wrap-inner .two.pane    { width: 130px; }
+		.wrap-inner .three.pane  { width: 210px; }
+		.wrap-inner .four.pane   { width: 290px; }
+		.wrap-inner .five.pane   { width: 370px; }
+		.wrap-inner .six.pane    { width: 450px; }
+		.wrap-inner .seven.pane  { width: 530px; }
+		.wrap-inner .eight.pane  { width: 610px; }
+		.wrap-inner .nine.pane   { width: 690px; }
+		.wrap-inner .ten.pane    { width: 770px; }
+		.wrap-inner .eleven.pane { width: 850px; }
+		.wrap-inner .twelve.pane { width: 930px; }
+
+		/* elementor */
+		.elementor-section.elementor-section-boxed > .elementor-container{
+			width:930px !important;
+		}
+	
+	}
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+	/* Note: Design for a width of 768px (gutter 20px, pane 42px) */
+
+	@media only screen and (min-width: 768px) and (max-width: 1019px) {
+		.boxed .wrap {
+			width: 760px;
+		}
+		.wrap-inner {
+			width: 760px;
+			padding: 0 10px;
+		}
+			.slider-caption-content {
+				width: 700px;
+			}
+		.pane {
+			margin-left: 20px;
+		}
+			.boxed .slider-main-wrap .twelve.pane {margin-left: 30px}
+			.sidebar.sidebar-right .widget {margin-left: 20px}
+			.sidebar.sidebar-left .widget {margin-right: 20px}
+		.pane.margin-right {
+			margin-right: 20px;
+		}
+
+		.wrap-inner .one.pane    { width: 40px; }
+		.wrap-inner .two.pane    { width: 100px; }
+		.wrap-inner .three.pane  { width: 160px; }
+		.wrap-inner .four.pane   { width: 220px; }
+		.wrap-inner .five.pane   { width: 280px; }
+		.wrap-inner .six.pane    { width: 340px; }
+		.wrap-inner .seven.pane  { width: 400px; }
+		.wrap-inner .eight.pane  { width: 460px; }
+		.wrap-inner .nine.pane   { width: 520px; }
+		.wrap-inner .ten.pane    { width: 580px; }
+		.wrap-inner .eleven.pane { width: 640px; }
+		.wrap-inner .twelve.pane { width: 700px; }
+	
+		/* elementor */
+		.elementor-section.elementor-section-boxed > .elementor-container{
+			width:700px !important;
+		}
+	
+	}
+
+
+
+/*  #Mobile (Landscape and Portrait)
+================================================== */
+
+	/* Note: Design for a width of 320px */
+
+	@media only screen and (max-width: 767px) {
+		.boxed .wrap {
+			width: 90%;
+		}
+		.wrap-inner {
+			width: 100%;
+			padding: 0;
+		}
+		.pane {
+			margin-left: 4%;
+		}
+			.boxed .slider-main-wrap .twelve.pane {margin-left: 4%}
+			.sidebar.sidebar-right .widget,
+			.sidebar.sidebar-left .widget {
+				margin-left: 20px;
+				margin-right: 20px;
+			}
+		.pane.margin-right {
+			margin-right: 4%;
+		}
+
+		.wrap-inner .one.pane,
+		.wrap-inner .one.pane,
+		.wrap-inner .two.pane,
+		.wrap-inner .three.pane,
+		.wrap-inner .four.pane,
+		.wrap-inner .five.pane,
+		.wrap-inner .six.pane,
+		.wrap-inner .seven.pane,
+		.wrap-inner .eight.pane,
+		.wrap-inner .nine.pane,
+		.wrap-inner .ten.pane,
+		.wrap-inner .eleven.pane,
+		.wrap-inner .twelve.pane { width: 92%; }
+		.wrap-inner .columns > div,
+		.wrap-inner .columns > .widget,
+		.wrap-inner .column {
+			width: 100%;
+			margin-left: 0;
+			margin-right: 0;
+		}
+
+		.column + .column,
+		.columns > .widget + .widget {margin-top: 20px}
+
+		/* elementor */
+		.elementor-section.elementor-section-boxed > .elementor-container{
+			width:100% !important;
+		}
+	}
+
+

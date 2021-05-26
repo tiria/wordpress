@@ -1,0 +1,82 @@
+/*
+* Based on Skeleton V1.1 by Dave Gamache
+* www.getskeleton.com
+*/
+
+
+/* Table of Contents
+==================================================
+	#Base 1240 Grid
+	#Layout corrections
+*/
+
+
+
+/* #Base 1240 Grid
+================================================== */
+
+	body {min-width: 1280px} /* for less than and including Internet Explorer 8 */
+
+	.boxed .wrap {
+		width: 1280px;
+	}
+	.wrap-inner {
+		width: 1280px;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+		.lie8 .wrap-inner {  /* for less than and including Internet Explorer 8 */
+			position: relative;
+			left: 50%;
+			margin: 0 -640px;
+		}
+		.boxed .slider-main-wrap .wrap-inner {
+			width: 100%;
+			padding: 0;
+		}
+		.slider-caption-content {
+			width: 1160px;
+		}
+	.pane {
+		position: relative;
+		float: left;
+		display: block;
+		margin-left: 40px;
+	}
+		.boxed .slider-main-wrap .twelve.pane {margin-left: 60px}
+		.sidebar.sidebar-right .widget {margin-left: 40px}
+		.sidebar.sidebar-left .widget {margin-right: 40px}
+	.pane.no-margin {
+		margin: 0;
+	}
+	.pane.margin-right {
+		margin-right: 40px;
+	}
+	.row {
+		margin-bottom: 20px;
+	}
+
+	/* Base Grid (gutter 40px, pane 60px) */
+		.wrap-inner .one.pane    { width: 60px;  }
+		.wrap-inner .two.pane    { width: 160px; }
+		.wrap-inner .three.pane  { width: 260px; }
+		.wrap-inner .four.pane   { width: 360px; }
+		.wrap-inner .five.pane   { width: 460px; }
+		.wrap-inner .six.pane    { width: 560px; }
+		.wrap-inner .seven.pane  { width: 660px; }
+		.wrap-inner .eight.pane  { width: 760px; }
+		.wrap-inner .nine.pane   { width: 860px; }
+		.wrap-inner .ten.pane    { width: 960px; }
+		.wrap-inner .eleven.pane { width: 1060px; }
+		.wrap-inner .twelve.pane { width: 1160px; }
+
+
+
+/* Layout corrections */
+	.nine .wrap-projects-shortcode article.col-15,
+	.eight .wrap-projects-shortcode article.col-15,
+	.seven .wrap-projects-shortcode article.col-15 {
+		font-size: 0.85em;
+	}
+
+

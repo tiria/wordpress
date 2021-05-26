@@ -1,0 +1,725 @@
+/**
+*****************************************************
+* WEBMAN'S WORDPRESS THEME FRAMEWORK
+* Created by WebMan - www.webmandesign.eu
+*
+* Admin CSS styles
+*
+* @since    1.0
+* @version  3.0
+*****************************************************
+*/
+
+/*********************************************/
+/* general classes                           */
+/*********************************************/
+
+	.text-center {text-align: center !important}
+	.wp-pointer.wmfeature01 .wp-pointer-arrow {
+		left: auto;
+		right: 10px;
+	}
+	.wp-pointer[class*="wmfeature02"] { width: 640px !important; }
+
+
+
+/*********************************************/
+/* custom admin logo and dashboard           */
+/*********************************************/
+
+	#adminmenu li#wm-admin-logo {
+		background-color: #777;
+		background-image: -ms-linear-gradient(bottom,#6D6D6D,gray);
+		background-image: -moz-linear-gradient(bottom,#6D6D6D,gray);
+		background-image: -o-linear-gradient(bottom,#6D6D6D,gray);
+		background-image: -webkit-gradient(linear,left bottom,left top,from(#6D6D6D),to(gray));
+		background-image: -webkit-linear-gradient(bottom,#6D6D6D,gray);
+		background-image: linear-gradient(bottom,#6D6D6D,gray);
+		border-bottom: 1px solid #666 !important;
+	}
+		#wm-admin-logo.wp-menu-open {border-bottom: 1px solid #ddd !important}
+		#wm-admin-logo .wp-menu-image,
+		#wm-admin-logo .wp-menu-arrow {display: none !important}
+
+		#wm-admin-logo > a,
+		#wm-admin-logo > a.menu-top {
+			min-width: auto !important;
+			padding: 15px 10px !important;
+			text-align: center;
+			background: transparent !important;
+			border: 0 !important;
+			-webkit-box-sizing: border-box;
+			   -moz-box-sizing: border-box;
+			        box-sizing: border-box;
+		}
+			#adminmenu li#wm-admin-logo:hover > a.menu-top {background: transparent !important}
+		#wm-admin-logo > a img {max-width: 100%}
+
+	/* dashboard empty widgets container styles */
+		#dashboard-widgets .postbox-container .empty-container {border: 0}
+
+	/* dashboard widget text */
+		#wm-quick-access hr,
+		.help-tab-content hr,
+		.update-notifier hr {
+			margin: 10px 0 20px;
+			border: 0;
+			border-top: 1px solid #ddd;
+		}
+		#wm-quick-access .text {overflow: hidden}
+
+		#wm-quick-access .text h2,
+		#wm-quick-access .text h3,
+		#wm-quick-access .text h4,
+		#wm-quick-access .text h5,
+		#wm-quick-access .text h6 {
+			padding: 1em 0 0;
+			text-transform: uppercase;
+			font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+			font-size: 20px;
+		}
+		#wm-quick-access .text h4,
+		#wm-quick-access .text h5,
+		#wm-quick-access .text h6 {font-size: 16px}
+		#wm-quick-access .text h3 {
+			padding: 1em 0 0;
+			text-shadow: 0;
+			font-size: 18px;
+			background: none;
+			border: 0;
+			-webkit-box-shadow: none;
+			   -moz-box-shadow: none;
+			        box-shadow: none;
+			cursor: default;
+		}
+		#wm-quick-access .text h2:first-child,
+		#wm-quick-access .text h3:first-child,
+		#wm-quick-access .text h4:first-child,
+		#wm-quick-access .text h5:first-child,
+		#wm-quick-access .text h6:first-child {padding: 0}
+
+		#wm-quick-access img {vertical-align: middle}
+
+		#wm-quick-access .text ul {
+			margin-left: 2em;
+			list-style: disc;
+		}
+
+	/* dashboard widget links */
+		#wm-quick-access .links {overflow: hidden}
+		#wm-quick-access .links a {
+			display: block;
+			float: left;
+			width: 70px;
+			height: 70px;
+			margin: 3px;
+			line-height: 70px;
+			text-align: center;
+			text-transform: uppercase;
+			font-size: 10px;
+			background: #999;
+			color: #fff;
+			-webkit-border-radius: 3px;
+			   -moz-border-radius: 3px;
+			        border-radius: 3px;
+			-webkit-box-shadow: inset 0 3px 10px 0 rgba(0,0,0, .25);
+			   -moz-box-shadow: inset 0 3px 10px 0 rgba(0,0,0, .25);
+			        box-shadow: inset 0 3px 10px 0 rgba(0,0,0, .25);
+		}
+			#wm-quick-access .links span,
+			#wm-quick-access .links a:hover img {display: none}
+			#wm-quick-access .links a:hover {
+				background: #464646;
+				-webkit-box-shadow: none;
+				   -moz-box-shadow: none;
+				        box-shadow: none;
+			}
+			#wm-quick-access .links a:hover span {display: inline}
+
+	/* remove unnecessary buttons from visual editor in admin panel */
+		.wm-options-panel .option [id$="_styleselect"],
+		.wm-options-panel .option [id$="_anchor"],
+		.wm-options-panel .option [id$="_wp_more"],
+		.wm-options-panel .option [id$="_wp_page"],
+		.wm-options-panel .option [id$="_fullscreen"] {display: none}
+
+
+
+/*********************************************/
+/* contextual help                           */
+/*********************************************/
+
+	#contextual-help-link-wrap {
+		height: 28px;
+		padding: 0 10px;
+		background: #464646;
+	}
+	#contextual-help-link-wrap #contextual-help-link {
+		height: 28px;
+		line-height: 28px;
+		text-shadow: none;
+		background-position: right 8px;
+		color: #ccc;
+	}
+	#contextual-help-link-wrap #contextual-help-link.screen-meta-active {background-position: right -28px}
+
+	.contextual-help-tab {
+		padding: 9px 9px 9px 56px;
+		margin: 0 0 10px;
+		background: #f6f6f6;
+		border: 1px solid #ccc;
+	}
+	.contextual-help-tab-title {
+		padding: 14px 9px 14px 46px;
+		margin: 0 0 0 -46px;
+		font-size: 1.25em;
+		text-transform: uppercase;
+		text-shadow: 1px 1px #fff;
+		background: transparent url(../img/icons/ico-help.png) no-repeat 4px 50%;
+		/* border: 1px solid #ddd; */
+	}
+		.contextual-help-tab-title.toggle-title {cursor: pointer}
+		.contextual-help-tab-content.active {border-top: 1px solid #ccc}
+
+	.help-tab-content ol li {list-style: decimal}
+	.help-tab-content abbr[title] {
+		border-bottom: 1px dotted;
+		cursor: help;
+	}
+	.contextual-help-tab code,
+	.help-tab-content code {
+		font-weight: bold;
+		background: #eee;
+	}
+		code.example,
+		input.example {
+			display: block;
+			width: 100%;
+			padding: 8px 20px;
+			margin-top: 5px;
+			font-family: "Lucida Console", monospace;
+		}
+
+	div.shortcode-help {
+		padding: 0 0 20px;
+		border-top: 1px dashed #ccc;
+	}
+		div.shortcode-help:first-child {border: 0}
+		h3.small-toggle-title {
+			padding: 20px 0 0 24px;
+			margin: 0;
+			background: transparent url(../img/buttons/plus.png) no-repeat 0 20px;
+			cursor: pointer;
+		}
+			h3.small-toggle-title.active {background-image: url(../img/buttons/minus.png)}
+
+	table.attributes {
+		border: 1px solid #eee;
+		border-bottom: 0;
+	}
+		table.attributes th,
+		table.attributes td {
+			padding: 5px 10px;
+			border-bottom: 1px solid #eee;
+			vertical-align: top;
+		}
+		table.attributes th {
+			text-align: left;
+			background: #eee;
+		}
+		table.attributes .parameter-type {white-space: nowrap}
+		table.attributes td.no-bg {background: none}
+		table.attributes sup {
+			position: relative;
+			top: -.5em;
+			font-size: 75%;
+			line-height: 0;
+			vertical-align: baseline;
+			cursor: help;
+		}
+
+		table i[class^="icon-"] {
+			font-size: 18px;
+			color: #111;
+		}
+
+		.stick-button {
+			display: inline-block;
+			padding: 2px 5px;
+			font-size: .9em;
+			background: #82ab3a;
+			color: #fff;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			   -moz-border-radius: 3px;
+			        border-radius: 3px;
+		}
+		.sticky-content.active {
+			position: fixed;
+			top: 10%;
+			right: -270px;
+			width: 30em;
+			height: 70%;
+			padding: 50px 15px 15px 15px;
+			background: #fff;
+			color: #666;
+			-webkit-border-radius: 5px;
+			   -moz-border-radius: 5px;
+			        border-radius: 5px;
+			-webkit-box-shadow: 0 1px 10px 0 rgba(0,0,0, .25);
+			   -moz-box-shadow: 0 1px 10px 0 rgba(0,0,0, .25);
+			        box-shadow: 0 1px 10px 0 rgba(0,0,0, .25);
+			z-index: 9999;
+		}
+			.sticky-content.active .stick-button {background: #ff4a4a}
+			.sticky-content.active h4 {
+				position: absolute;
+				left: 15px;
+				top: 0;
+				margin-bottom: 0;
+			}
+			.sticky-content > div {
+				position: relative;
+				width: 29em;
+				height: 27em;
+				padding: 1em;
+				border: 1px dashed #eee;
+				overflow-y: scroll;
+			}
+			.sticky-content table i,
+			.sticky-content.active table i {color: 000}
+			.sticky-content.active > div {
+				height: 100% !important;
+				-webkit-box-sizing: border-box;
+				   -moz-box-sizing: border-box;
+				        box-sizing: border-box;
+			}
+
+
+
+/*********************************************/
+/* forms                                     */
+/*********************************************/
+
+	select.widefat {background-color: #fff}
+	select[multiple] {height: 80px !important}
+
+
+
+/*********************************************/
+/* admin posts/pages/custom post             */
+/*********************************************/
+
+	.fixed .column-wm-template {
+		width: 8em;
+		text-align: center;
+	}
+	.fixed .column-wm-template {width: 14em}
+	.fixed .column-wm_modules-thumb,
+	.fixed .column-wm_modules-thumb img {
+		padding-bottom: 3px;
+		vertical-align: middle;
+	}
+	.fixed .column-wm-thumb,
+	.fixed .column-wm_slides-thumb,
+	.fixed .column-wm_projects-thumb,
+	.fixed .column-wm_staff-thumb,
+	.fixed .column-wm_logos-thumb {
+		width: 80px;
+		text-align: center;
+	}
+
+		.fixed .wm-image-container,
+		.fixed .wm-image-container .overlay {
+			display: block;
+			position: relative;
+			width: 60px;
+			height: 60px;
+			padding: 2px;
+			margin: 0 auto;
+			margin: -3px auto 0;
+			line-height: 58px;
+			background: #fff;
+			border: 1px solid #d3d3d3;
+			-webkit-border-radius: 3px;
+			   -moz-border-radius: 3px;
+			        border-radius: 3px;
+		}
+		.wm_modules .wm-image-container {background: #ddd}
+		.wm-image-container.no-thumb {
+			background: #f3f3f3;
+			-webkit-box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+			   -moz-box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+			        box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+		}
+			.fixed .wm-image-container img,
+			.fixed .column-icon img {
+				max-width: 100%;
+				max-height: 100%;
+				vertical-align: middle;
+			}
+			.fixed .wm-image-container .icon {
+				position: absolute;
+				display: block;
+				width: 16px;
+				height: 16px;
+				left: -24px;
+				bottom: 24px;
+				padding: 0;
+				line-height: 16px;
+				text-align: center;
+				font-size: 16px;
+				color: #fff;
+			}
+			.fixed .wm-image-container .overlay {
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				margin: 0;
+				border: none;
+				opacity: 0.5;
+				filter: alpha(opacity=50); /* For IE8 and earlier */
+			}
+
+		.fixed .post-title .post-state-format {display: none}
+
+		/* thumbs in media library */
+			.fixed .column-icon a,
+			.A1B1 a,
+			div.media-item > img {
+				display: block;
+				-webkit-box-sizing: border-box;
+				   -moz-box-sizing: border-box;
+				        box-sizing: border-box;
+				position: relative;
+				width: 100%;
+				padding: 2px;
+				margin: -3px auto 0;
+				line-height: 60px;
+				text-align: center;
+				background: #48e url(../img/gradient-top.png) repeat-x top;
+				border: 1px solid #939393;
+				overflow: hidden;
+				-webkit-border-radius: 3px;
+				   -moz-border-radius: 3px;
+				        border-radius: 3px;
+				-webkit-box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+				   -moz-box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+				        box-shadow: inset 0 1px 5px 0 rgba(0,0,0, .1);
+			}
+			.A1B1 a {
+				display: inline-block;
+				width: auto;
+				height: auto;
+				padding: 10px;
+				line-height: 100%;
+			}
+			div.media-item > img {
+				display: inline-block;
+				width: auto;
+				padding: 1px;
+				line-height: auto;
+			}
+
+	.fixed .column-wm_modules-thumb {
+		width: 100px;
+		text-align: center;
+	}
+		.fixed .column-wm_modules-thumb small {display: block}
+
+	.shortcode-in-list-table {
+		width: 200px;
+		font-weight: normal;
+	}
+
+	.fixed .color-display {
+		display: block;
+		position: relative;
+		width: 28px;
+		height: 28px;
+		background: url(../img/buttons/select-alt.png) center;
+	}
+
+	.icon32-posts-wm_logos,
+	.icon32-posts-wmlogos {background: transparent url(../img/icons/ico-clients-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_testimonials,
+	.icon32-posts-wmtestimonials {background: transparent url(../img/icons/ico-testimonials-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_projects,
+	.icon32-posts-wmprojects {background: transparent url(../img/icons/ico-portfolio-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_slides,
+	.icon32-posts-wmslides {background: transparent url(../img/icons/ico-slides-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_staff,
+	.icon32-posts-wmstaff {background: transparent url(../img/icons/ico-team-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_modules,
+	.icon32-posts-wmmodules {background: transparent url(../img/icons/ico-modules-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_price,
+	.icon32-posts-wmprice {background: transparent url(../img/icons/ico-price-32x32.png) no-repeat 50% 50% !important}
+	.icon32-posts-wm_faq,
+	.icon32-posts-wmfaq {background: transparent url(../img/icons/ico-faq-32x32.png) no-repeat 50% 50% !important}
+
+
+
+/*********************************************/
+/* colorize posts                            */
+/*********************************************/
+
+	/* by post status */
+		.status-draft,
+		.status-pending {background: #f6f6f6 url(../img/dark_stripes-10.png)}
+
+	/* post formats colors */
+		.fixed.posts .column-wm-thumb,
+		.fixed.posts .column-wm_projects-thumb {
+			width: 63px;
+			padding-left: 30px;
+		}
+			.fixed.posts .column-wm-thumb .wm-image-container,
+			.fixed.posts .column-wm_projects-thumb .wm-image-container {margin-top: 0}
+		.posts .hentry .column-wm-thumb,
+		.posts .hentry .column-wm_projects-thumb {
+			position: relative;
+			padding-left: 30px;
+			padding-bottom: 4px;
+			background: #ccc url(../img/icons/formats/icon-standard.png) no-repeat 7px 50%;
+			-webkit-border-radius: 5px;
+			   -moz-border-radius: 5px;
+			        border-radius: 5px;
+		}
+			.posts .hentry .column-wm_projects-thumb {background: #ccc}
+			.posts .format-audio .column-wm-thumb {background-image: url(../img/icons/formats/icon-audio.png)}
+			.posts .format-gallery .column-wm-thumb {background-image: url(../img/icons/formats/icon-gallery.png)}
+			.posts .format-link .column-wm-thumb {background-image: url(../img/icons/formats/icon-link.png)}
+			.posts .format-quote .column-wm-thumb {background-image: url(../img/icons/formats/icon-quote.png)}
+			.posts .format-status .column-wm-thumb {background-image: url(../img/icons/formats/icon-status.png)}
+			.posts .format-video .column-wm-thumb {background-image: url(../img/icons/formats/icon-video.png)}
+
+
+
+/*********************************************/
+/* meta boxes                                */
+/*********************************************/
+
+	#postexcerpt textarea {height: 100px}
+
+	#wm-pagemeta .inside,
+	#wm-postmeta .inside {min-height: 380px} /* WP class */
+
+	#wm-metabox-wm_excerpt_meta-meta .hndle {cursor: default}
+
+
+
+/*********************************************/
+/* visual editor styles                      */
+/*********************************************/
+
+	div.mceMenu.mceListBoxMenu {
+		width: 200px !important;
+		height: 200px !important;
+	}
+		div.mceMenu.mceListBoxMenu table {width: 100% !important}
+		td.mceMenuItemTitle a {
+			background: #c4c4c4 url(../img/gradient-top.png) repeat-x center !important;
+			border-bottom: 0 !important;
+			border-top: 1px solid #aaa !important;
+		}
+		td.mceMenuItemTitle .mceText {
+			padding-left: 10px !important;
+			font-size: .75em !important;
+			text-transform: uppercase !important;
+			color: #444 !important;
+		}
+
+	a[id*="_styleselect_text"] {width: 40px !important}
+	#menu_content_content_styleselect_menu td span.inline-help {
+		position: absolute;
+		width: 100% !important;
+		height: 100% !important;
+		left: 0;
+		top: 0;
+		padding: 0 !important;
+		background: url(../img/icons/ico-help-inline.png) no-repeat 160px 50% !important;
+	}
+
+	#menu_content_content_styleselect_menu td span {
+		text-decoration: none !important;
+		text-transform: none !important;
+		font-family: Arial, Helvetica, sans-serif !important;
+		font-weight: normal !important;
+		font-size: 1em !important;
+		background: transparent !important;
+		color: #333 !important;
+	}
+		#menu_content_content_styleselect_menu td.mceMenuItemTitle span {
+			font-size: .85em !important;
+			font-weight: bold !important;
+			letter-spacing: 1px;
+		}
+
+	/* TinyMCE on excerpt field */
+		#postexcerpt.has-tinymce .inside {
+			padding: 0;
+			margin: 0;
+			background: #fff;
+		}
+		#postexcerpt.has-tinymce .inside p {padding:0px 0px 5px 10px}
+		#postexcerpt.has-tinymce #excerpteditorcontainer {
+			padding: 0;
+			border-style: solid;
+		}
+
+	/* WP3.9+ */
+		.mce-stack-layout-item .mce-text {
+			font-family: sans-serif !important;
+			font-size: 1em !important;
+			font-weight: 400 !important;
+			font-style: normal !important;
+			text-transform: none !important;
+			color: #333 !important;
+			background: none !important;
+		}
+
+
+
+/*********************************************/
+/* widgets admin area styles                 */
+/*********************************************/
+
+	.wm-desc,
+	.wm-desc-separator {
+		font-family: Georgia, Times, serif;
+		font-size: 11px;
+		font-style: italic;
+		line-height: 1.25em;
+		color: #666;
+		padding-bottom: .65em !important;
+		border-bottom: 1px solid #ddd;
+	}
+	.wm-desc-separator {
+		margin: .65em 0;
+		padding: .65em 0 0 !important;
+		border-top: 1px solid #ddd;
+		border-bottom: 0;
+	}
+
+	div[id*="wm-"] .widget-top {
+		margin-top: 0 !important;
+		background: #111 url(../img/gradient-top.png) repeat-x 50% !important;
+		color: #fff !important;
+		text-shadow: 0 -1px #000 !important;
+		-webkit-box-shadow: none !important;
+		   -moz-box-shadow: none !important;
+		        box-shadow: none !important;
+		border: 1px solid #000 !important;
+	}
+		div[id*="wm-"] .widget-top h4 {
+			height: 16px;
+			margin: -2px 0;
+			line-height: 16px;
+		}
+		div[id*="wm-"] .widget-top h4:before {
+			content: '';
+			display: inline-block;
+			width: 12px;
+			height: 12px;
+			margin: 2px 5px 2px 0;
+			background: url(../img/logos/admin-logo-white-small.png) no-repeat;
+			vertical-align: top;
+		}
+		div[id*="wm-"] .in-widget-title {color: #ddd !important}
+		div[id*="wm-contact-info"] textarea {width: 100%}
+
+	.custom-sidebar-name {
+		color: #f3f3f3 !important;
+		text-shadow: 0 -1px rgba(0,0,0, .33) !important;
+		background: #369 url(../img/gradient-top.png) repeat-x 50% !important;
+		box-shadow: none !important;
+	}
+		.custom-sidebar-name:hover h3 {color: #fff !important}
+
+
+
+/*********************************************/
+/* update notifier                           */
+/*********************************************/
+
+	.update-notifier {}
+	.update-notifier #instructions {
+		max-width: 640px;
+		margin-right: 40px;
+		float: left;
+	}
+	.update-notifier .theme-img {
+		float: left;
+		width: 140px;
+		margin: 10px 20px 20px 0;
+	}
+	.update-notifier ol {clear: both}
+	.update-notifier .note {
+		padding: 10px 20px;
+		font-size: .9em;
+		background: #f3f3f3;
+		border: 1px solid #ccc;
+	}
+	.update-notifier #changelog {
+		float: left;
+		max-width: 400px;
+		margin-top: 30px;
+		padding: 20px;
+	}
+
+
+
+/*********************************************/
+/* fancybox styles                           */
+/*********************************************/
+
+	#fancybox-outer {background: transparent !important}
+	#fancybox-content {border-color: transparent !important}
+	#fancybox-content.bg-on {border-color: #fff !important}
+
+	a.fancybox {position: relative}
+	a.fancybox:after {
+		content: '';
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		margin-left: 3px;
+		background: url(../img/zoom-in.png) no-repeat 50% 50%;
+		vertical-align: top;
+	}
+	.image-container a.fancybox:after {display: none}
+
+
+
+/*********************************************/
+/* Slider Revolution! addons / fixes         */
+/*********************************************/
+
+	/* stretches slide background image across the whole slide visual editor (like it is on frontend) */
+		.edit_slide_wrapper #divLayers {
+			-webkit-background-size: 100% 100%;
+			   -moz-background-size: 100% 100%;
+			        background-size: 100% 100%;
+		}
+
+
+
+/*********************************************/
+/* WordPress 3.6 changes                     */
+/*********************************************/
+
+	.post-format-options a[data-wp-format="image"],
+	.post-format-options a[data-wp-format="chat"],
+	.post-format-options a[data-wp-format="aside"] {display: none}
+
+	.wp-format-audio #wp_format_audio,
+	.wp-format-video #wp_format_video {
+		width: 100%;
+		max-width: 100%;
+		height: 2em;
+		min-height: auto;
+	}
+	.wp-format-audio .wp-format-media-holder,
+	.wp-format-video .wp-format-media-holder {display: none}
+
+/* End of file */

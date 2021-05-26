@@ -1,0 +1,6271 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-cpmodules.php:112
+msgid " (tags: %s)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid " last in row"
+msgstr ""
+
+#. Text in function
+#: library/updater/update-notifier.php:1
+msgid "%s Theme Updates"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "&mdash; All users (logged in)"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "&mdash; Select user or user group &mdash;"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "&uarr; Top of the page"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "- None -"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:91
+msgid "- Select Content Module -"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "- Select area -"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "- Select page -"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "- no slider -"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "- select icon -"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "...or choose a page"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "1/2 excerpt - 1/2 media, content below"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "1/2 media - 1/2 excerpt, content below"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "1/3 excerpt - 2/3 media, content below"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "1/4 excerpt - 3/4 media, content below"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "2 columns"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "2/3 media - 1/3 excerpt, content below"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "3/4 media - 1/4 excerpt, content below"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "4 columns"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "5 columns"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "6 columns"
+msgstr ""
+
+#. Text in function
+#: library/updater/update-notifier.php:140
+msgid "<strong>%s</strong> Theme Updates"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "<strong>Another feature</strong> on separate list item"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:172
+msgid "<strong>Note:</strong> <em>If you didn't make any changes to the theme files, you are free to overwrite files with the new ones without the risk of loosing theme settings, pages, posts, etc, and backwards compatibility is guaranteed. In case you have made changes to the theme files, make sure you have a backup copy of your changes before you overwrite theme files.</em>"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "<strong>Your feature</strong> goes here"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "A gallery of images will be displayed in slideshow."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "A quotation. Please place the actual quote directly into post content (use just simple stylings, do not use blockquotes as those will be applied automatically) and do not forget to fill in quoted author name above (you can use simple HTML tags in the field). This post format will populate the Testimonials shortcode. If featured image set, it will be used as quoted person photo in Testimonials shortcode (please upload square images only)."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "A short status update, similar to a Twitter status update. Please place the actual status text directly into post content area. Status posts can be displayed in various areas of the website (as shortcode or widget)."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "A single video. Please insert a video URL or upload an MP4 video file. Video player will be automatically added to the post. You can place video description into post content. For self-hosted videos set also featured image that will be used as video cover/preview."
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Above Footer Widgets"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Above footer widgets area"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:153
+msgid "Access token secret:"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:148
+msgid "Access token:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Accordion title"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Accordion wrapper"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Add Cancel icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Add Check icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Add Info icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Add Question icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Add Warning icon"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1892
+msgid "Add an item"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Add images to gallery"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Add images to page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Add images to post"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Add images to project"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "Add new"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Add new Slides custom post"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "Add new answer"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new department"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "Add new member"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Add new module"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Add new post"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Add new price"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new price table"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/meta/a-meta-page.php:1
+msgid "Add new project"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Add new slide"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Add new tag"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Additional note displayed below price cost"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Additional resource: <a%s>Theme user manual</a>."
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:86
+msgid "Address:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Adjust Roundabout slider height"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Adjust Roundabout slider tilt"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Adjust Roundabout slider width"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Administrators"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Align"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All FAQ categories"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "All FAQs"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "All Slides"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All categories"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All departments"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All groups"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "All levels"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "All logos"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "All posts"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All price tables"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-cpprojects.php:203
+msgid "All projects"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "All projects (in category)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "All staff"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "All tags"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Alphabetically"
+msgstr ""
+
+#. Text in function
+#: library/options/a-design.php:1
+msgid "Also please check <a href=\"%s/website-layers.png\" class=\"fancybox\">the website layers layout</a> for better understanding how different elements of the design are layed out."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Also, please note that once the theme is removed from distribution, we will no longer provide premium plugins bundled with the theme for security and licensing reasons. We apologize for inconvenience caused."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Alternate font"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Always center map on location"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Animated filtering"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "Answer"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Applies only for font icons"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Apply changes"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Apply directly in projects list (on portfolio pages)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Area color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Area to display"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Artwork or album cover"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Assign a menu to"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Asterisk list"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "Attribute"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Attributes"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Attributes table title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Audio post format"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Authors"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Automatic accordion"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Background image attachment"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Background image position"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Background image repeat"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Background pattern"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Basic dropcap"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Below timer widgets area"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Big text"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Black (white text)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Black background (white text)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Blog posts"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Blue"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Blue box"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/admin.php:412
+msgid "Blue button"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Blue marker"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Book list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Border"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Border bottom"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Bottom, full width"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Box"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Boxed - website sections will be contained in a centered box"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Boxed layout"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Boxes"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Bullet image"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:91
+msgid "Business hours:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button URL"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button color"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Button link"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button link URL address"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Button set up"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button size"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Button text"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-subpages.php:86
+msgid "By date"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "By default the pagination on projects list is disabled. You can enable it with this setting."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "By menu order"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-subpages.php:86
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "By name"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "By title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "CSS class"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Call to action"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Call to action background pattern"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Cancel icon"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Caption"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Caption background"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Caption background opacity"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Caption color"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Caption opacity"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Caption padding"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Caption position"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/ct-taxonomies.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Category (required)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Center horizontally, bottom"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Center horizontally, top"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Center, full width"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Centered"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Check icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Check list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Checker"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Choose a sidebar"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Choose a sidebar and its position on the post/page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Choose a sidebar position on the post/page (set the first one to use the theme default settings)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose an icon for this box"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose box color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose button color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose call to action area color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose filter color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose how many columns should the projects list be split to"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose how projects should be ordered"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Choose how to display/apply the link set above"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose layout for this page"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose marker color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose pullquote alignment"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Choose slider images"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Choose style of the button"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose what slider to display on this page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Choose what to do with the above images"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose whether above categories should be excluded or used (does not apply on \"All posts\")"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose which Slides custom post group should be displayed"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose which content type will populate the slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Choose which layout to use"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Choose which slides group will populate the slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Class"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "Click the pattern for preview"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Client info"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Clients Area Access Denied"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Cloud list"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/2"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/2 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/3"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/3 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/4"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/4 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/5"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/5 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/6"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 1/6 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 2/3"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 2/3 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 2/5"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 2/5 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 3/4"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 3/4 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 3/5"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 3/5 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 4/5"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 4/5 last"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 5/6"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Column 5/6 last"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Column size"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Column style"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:138
+msgid "Consumer key:"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:143
+msgid "Consumer secret:"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+#: library/widgets/w-contact.php:1
+msgid "Contact"
+msgstr ""
+
+#. Text in function
+#: library/classes/meta-box-generator.php:1
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-cpmodules.php:1
+msgid "Content Module"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:89
+msgid "Content Module to display:"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Content Modules"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Content module"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Content module settings"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Contributors"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Correct Roundabout slider bottom position"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Cost"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Countdown timer"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Countdown timer will be displayed on this page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Create a gallery in slider area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Create a new gallery at the bottom"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Create new widget areas"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Created by"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Credits / copyright text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Custom CSS class"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-default-widgets.php:124
+msgid "Custom Menu"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Custom Styles"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Custom background color. Use hexadecimal color code without \"#\"."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Custom background image"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Custom column color"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Custom contacts"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Custom field deleted."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Custom field updated."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Custom icon background"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Custom icon color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Custom image URL address"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/meta/m-cp-modules.php:1
+#: library/meta/m-cp-slides.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-modules.php:1
+msgid "Custom link"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+#: library/core.php:1713
+msgid "Custom link URL"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Custom link relation"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Custom slider"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Custom slider shortcode"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Custom text color. Use hexadecimal color code without \"#\"."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Custom tracking code"
+msgstr ""
+
+#. Text in function
+#: library/options/a-widgets.php:1
+msgid "Custom widget area"
+msgstr ""
+
+#. Text in function
+#: library/sidebars.php:1
+msgid "Custom widget area created in %s admin panel. Flexible layout, maximum 5 widgets (when displayed horizontally)."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Dark stripes"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Dashed border"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Dashed border divider"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/meta/a-meta-page.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Date format"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Default Sidebar"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Default project page layout"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Default theme settings"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:1996
+#: library/form-generator.php:679
+#: library/form-generator.php:1460
+#: library/form-generator.php:1643
+#: library/form-generator.php:1931
+msgid "Default value"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: inc/loop/loop-staff.php:39
+msgid "Department"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Departments"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Description align"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Description text alignement (when used - it will disable the filter)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Description text on the left"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Description text on the right"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-subpages.php:80
+msgid "Direct parent and children only"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:121
+msgid "Disable Content Module title"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disable author details"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:126
+msgid "Disable featured image"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disable featured image for this post"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Disable main heading"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:156
+msgid "Disable publish date"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Disable related projects"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Disable rich staff profile"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Disable share buttons"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Disable sharing for this project"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Disable top bar"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Disable widgets above footer"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disables author information below the post content"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Disables breadcrumbs navigation on this page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disables breadcrumbs navigation on this post"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disables featured image on single post view"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Disables rich staff profile page for this staff member only (use theme admin panel to disable this globally).<br />Only excerpt content will be displayed in staff members list."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Disables sharing buttons for this post only"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Disables top bar widget area on this page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Disables top bar widget area on this post"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:124
+msgid "Display Twitter user info"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display date"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:80
+msgid "Display date:"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Display duration of single slide (in seconds)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Display filter"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display frame around images"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Display link on project page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Display pagination"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display parents?"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Display post attachments list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display private posts?"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display related posts?"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:129
+msgid "Display reply tweets"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Display top link"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-contact.php:1
+msgid "Displays a contact information"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-subpages.php:70
+msgid "Displays a hierarchical list of subpages and siblings pages for the current page (page submenu)."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-cpprojects.php:1
+msgid "Displays a list of portfolio projects"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:1
+msgid "Displays a list of recent, popular, random or upcoming posts with thumbnail images"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-subpages.php:1
+msgid "Displays a list of subpages (submenu)"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:78
+msgid "Displays advanced posts list. You can set multiple post categories, just press [CTRL] key and click the category names."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Displays audio player to play the predefined audio file. Could be used for Podcasting. You can place audio description into post content. Featured image will be used as artwork or album cover art."
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:72
+msgid "Displays content of the specific Content Module custom post. Please choose the Content Module and set other options."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-cpmodules.php:1
+msgid "Displays content of the specific Content Module post"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Displays links to download all post attachments except images"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpprojects.php:76
+msgid "Displays list of projects from all or specific categories."
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:105
+msgid "Displays recent tweets from specific Twitter account. Also displays Twitter account details. Tweets are being cached to reduce the page load."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Displays related posts to the current post upon its category and tags settings."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Displays slideshow from gallery images in single post view (so you do not have to include gallery in the post content)"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:73
+msgid "Displays specially styled contact information. JavaScript anti-spam protection will be applied on the email address (also, email will not be displayed when JavaScript is turned off)."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-status.php:1
+msgid "Displays status posts"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:72
+msgid "Displays status posts."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Displays the date when most recent blog post or project was added."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Displays useful URL link. Please insert a link URL address into the field above. You can place link description into post content area."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-twitter.php:1
+msgid "Displays your recent tweets"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Divider"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Dividers"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "Do not index"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Do not repeat"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Documentation in Help"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Does not display Quote and Status posts. You can include a description of the list created with the shortcode. Just place the text between opening and closing shortcode tag."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Dots"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Dotted border"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Dotted border divider"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Download list"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Draft updated."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Dropcap type"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Dropcaps"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "E-mail (spam protection will be applied)"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "EXEs"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:169
+msgid "Easier, but might take longer time"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit Slide groups"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit Slides posts"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "Edit answer"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit department"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "Edit member"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Edit module"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit post categories"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit post tags"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit posts"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Edit price"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit price table"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Edit project"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit project categories"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Edit projects"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Edit slide"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Edit tag"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Editors"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-staff.php:39
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:102
+msgid "Email address:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Enable slider"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Enter a link URL address"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Enter full video URL (<a%s>supported video portals</a> and Screenr videos only)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Enter full video URL (supports YouTube, Vimeo and Screenr - does not support self-hosted videos)"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Enter question here"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Enter quoted author name"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Envelope list"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Excerpt - see the <em title=\"On General and Layout tab of Project Settigns metabox\">Project page layout</em> option for how excerpt is displayed"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Excerpt - short description displayed in staff list"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Excerpt first"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Excerpt length"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:105
+msgid "Excerpt length in:"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Exclamation list"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Exclude / use categories"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Exclude posts from these categories"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:120
+msgid "Exclude:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Extra large"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Extra large blockquote"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+#: library/custom-posts/cp-faq.php:1
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "FAQ categories"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Featured image will be used in projects list so please set this always. Please save/update the project after you upload an image to be able to select it in options below."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Featured price column"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Feed URL"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Fifths"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:186
+msgid "Files changed:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Filter above the FAQ list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Filter color"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Filter left from FAQ list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Filter right from FAQ list"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Fit browser window width"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Fit website width"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Fixed position"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Flex Slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Flexibile layout"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Flexible layout, maximum 2 widgets. Recommended widgets are Custom menu, Text or Search."
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Flexible layout, maximum 5 widgets."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Following section sets the image caption options when the image is displayed in image gallery slider only (<strong>page slider must be set to display image gallery</strong>)."
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Footer Widgets Row 1"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Footer Widgets Row 2"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Footer bottom row widgets area"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Footer navigation"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Footer top row widgets area"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "For more info please <a%s>read the <strong><em>IMPORTANT: 3rd party plugin licence keys</em></strong> section in user manual</a>."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "For simple data tables use the shortcode below."
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Four columns"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Four columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Framed"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Framed image"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Full width - website sections will spread across the whole browser window width"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Full width layout"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Full width tabs"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Fullwidth"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "GZIPs"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Gallery background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Gallery columns"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Gallery post format"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "General and layout"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Go to homepage"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Google Analytics custom tracking code (the default one will be replaced) - include <code>&lt;script&gt;</code> HTML tag"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Gray"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Gray box"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/admin.php:412
+msgid "Gray button"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Gray marker"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Green"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Green box"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/admin.php:412
+msgid "Green button"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Green marker"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Group shortcode"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Halfs"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Header text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Heading column"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Heading row"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Heart list"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Height corrections"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Height of empty space after divider (in pixels). If border is visible, there will be also 30px top margin applied."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Hero box"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Hides post/page main heading - the title"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Hides related projects list"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Hides social sharing buttons for the project"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Hides widget area above footer"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Hierarchy levels"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:146
+#: library/widgets/w-cpprojects.php:123
+msgid "Hold down [CTRL] key for multiselection"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Horizontal"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "However, if you require more control over your table you can use sub-shortcodes for table row (<code>[trow][/trow]</code> or <code>[trow_alt][/trow_alt]</code> for alternatively styled table row), table cell (<code>[tcell][/tcell]</code>) and table heading cell (<code>[tcell_heading][/tcell_heading]</code>). All wrapped in <code>[table][/table]</code> parent shortcode."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Huge text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Icon box"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Icon image"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Icon size"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Icon type"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/core.php:1713
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "If defined, the specially styled subtitle will be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "If image URLs set, you can set also links that will be applied on those images. Keep the structure (number) the same as for Image URLs, separate each link (even empty) with comma."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "If set, statuses will be animated. This sets the time to display one status in seconds"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "If set, the link will be applied on featured image and module title"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-subpages.php:75
+msgid "If you leave blank, the main parent page title will be displayed."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "If you wish to display a whole column of the table as a heading, set its order number here"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/custom-posts/cp-slides.php:1
+#: library/admin.php:412
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Image <small>[type]</small>"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Image URLs"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:1563
+msgid "Image does not exist"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Image fits the full website width"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1549
+msgid "Image full size preview"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Image gallery"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Image links"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Image order numbers separated with commas (like \"1,2,5\" will remove first, second and fifth image from gallery)"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1548
+#: library/form-generator.php:1565
+msgid "Image preview"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Image slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "In words"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Individual table cell data separator used in previous input fields"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Info bubble text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Info icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Inline code"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert MP3 file URL address"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert YouTube, Vimeo, Screenr or self-hosted video URL address"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Insert gallery or add images"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert image URL addresses separated with commas or type in \"gallery\" to display post image gallery in slideshow"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert into editor"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert optional custom CSS class"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Insert the place geographic coordinates (latitude and longitude separated with comma, such as \"40.78414, -73.96614\"). "
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Insert the time in \"YYYY-MM-DD HH:mm\" format (Y = year, M = month, D = day, H = hours, m = minutes)"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "It seems something went wrong..."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Items to watch"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:104
+msgid "JavaScript anti-spam protection applied"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "Keywords"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Landing page"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:114
+msgid "Large and centered"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Large preview and item description"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Last update"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:111
+msgid "Layout:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Leaf dropcap"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Leave empty to display default text. Use (C) to display &copy; sign, (R) for &reg;, (TM) for &trade; or YEAR for current year."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Leave empty to use default (accent) color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Left pullquote"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Left, 1/2 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Left, 1/3 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Left, 1/4 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Left, 2/3 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Left, 3/4 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Left, bottom"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Left, center vertically"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Left, top"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Legend"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Light stripes"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Link \"rel\" attribute"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Link URL"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Link action"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Link color button (default)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Link post format"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1409
+msgid "Link to the image"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+#: inc/loop/loop-staff.php:39
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "LinkedIn account URL"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "List items"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-subpages.php:84
+msgid "List order:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "List ordering"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:86
+#: library/widgets/w-cpprojects.php:84
+msgid "List type:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Lists"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Login form"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+#: library/custom-posts/cp-logos.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Logo count"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Logo image URL. Keep the logo images constant aspect ratio to display correctly in Logos shortcode."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Logo info"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Logos"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Logos category"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "MP3 file URL"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "MS Excel spreadsheets"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "MS Powerpoint presentations"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "MS Word documents"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Main heading alignment"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Main heading icon"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Main navigation"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make automatic accordion"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make button extra large"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make button large"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make button small"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make fullwidth tabs"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make hero box"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Make the gallery spread the full width of the website"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make tour tabs"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Make vertical tabs"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Makes the image to scale to browser window width. Note that background image position and repeat options does not apply when this is checked."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage EXEs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage GZIPs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage MS Excel spreadsheets"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage MS Powerpoint presentations"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage MS Word documents"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage ODP presentations"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage ODS spreadsheets"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage ODT documents"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage PDFs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage RARs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage RTFs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage SWFs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage ZIPs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "Manage icons"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Manage widget areas"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map beneath header"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map height"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map location GPS"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Map pin list"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map will return to the location even after dragged out"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map zoom"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Map zoom on location"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 0px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 10px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 20px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 30px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 40px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 50px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margin top 60px"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Margins, borders"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Marker"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Markers"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Maximum number of slides (items) to be displayed in the slider"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Media"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Media first"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-subpages.php:86
+msgid "Menu order"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Module settings"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Modules"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:175
+msgid "More advanced"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Most of custom slider plugins let you display the slider using shortcode. Please, insert such slider shortcode into this text field. The slider will then be displayed in main slider area of the website."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Move on scrolling"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: inc/loop/loop-staff.php:39
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Name / title"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:81
+msgid "Name:"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New FAQ category title"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New category title"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New department title"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New group title"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New price table title"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "New tag title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "New window"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Newest first"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Nivo Slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-status.php:82
+#: library/core.php:1713
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "No filter"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "No icon"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "No image"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "No item found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "No item found in trash"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "No member found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "No members found in trash"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-default-widgets.php:124
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "No module found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "No module found in trash"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "No padding on caption"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "No page content will be displayed. The page will be automatically redirected to URL set below."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "No price found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "No price found in trash"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "No project found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "No project found in trash"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "No question found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "No question found in trash"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "No sidebar is displayed, the page content takes the full width of the website"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "No sidebar, full width"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "No slide found"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "No slides found in trash"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-status.php:113
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Normal box"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Normal dropcap"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Normal tabs"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Note text"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:165
+msgid "Now use one of these options to update the theme:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Number of gallery columns"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Number of items to display"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Number of posts to display"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Number of projects"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Number of slides"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:118
+msgid "Number of tweets to display:"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "ODP presentations"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "ODS spreadsheets"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "ODT documents"
+msgstr ""
+
+#. Text in function
+#: library/classes/meta-box-generator.php:1
+#: library/form-generator.php:1
+msgid "OK, leave without saving..."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Oldest first"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "One column"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Only predefined icons of Font Awesome can be displayed with this shortcode."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Opacity"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Opaque"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Open URL address in new window when button clicked"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Open by default?"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1409
+msgid "Open image in another window"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Open in new tab/window"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Open in new window / tab"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Open in new window/tab"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Open in popup window (videos and images only)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Open in same window"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Open in the same window"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional CSS class name"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Optional artwork or album cover image (does not apply for SoundCloud audios)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional box title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional call to action subtitle"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional call to action title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional custom css class applied on the table HTML tag"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional link relation"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional list description alignement"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional projects filter"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional subtitle"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Optional time"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Optional title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Or copy and paste in this shortcode:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Or randomize from"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Or you can set the <a href=\"http://codex.wordpress.org/Audio_Shortcode\" target=\"_blank\"><code>[audio]</code> shortcode</a> here."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Or you can set the <a href=\"http://codex.wordpress.org/Video_Shortcode\" target=\"_blank\"><code>[video]</code> shortcode</a> here."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Orange"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Orange box"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/admin.php:412
+msgid "Orange button"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Orange marker"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Order"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "PDFs"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:116
+msgid "Page ID"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:122
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-excerpt.php:1
+msgid "Page excerpt"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Page layout"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:115
+msgid "Page order"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-page.php:1
+msgid "Page settings"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Page template"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:114
+msgid "Page title"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Page with %s slider"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-default-widgets.php:1
+#: library/admin.php:412
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Parent FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Parent category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Parent department"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Parent group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Parent price table"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "Pattern preview"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Pencil list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Percentual value of shadow opacity - 0 = transparent, 100 = opaque"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Permanent redirect (301)"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Person's name"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+#: inc/loop/loop-staff.php:39
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Phone number"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:97
+msgid "Phone number:"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "Photo"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Plain post (large media area, content)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Please note that a new navigation menu area was created for this page. This allows you to display diferent menu on this page opposite to the rest of the website. If no menu assigned, only logo and header text area (set below) will be displayed in header."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Please upload images for the post/page gallery via \"Add Media\" button above visual editor."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Please, copy the <code>[accordion_item title=\"\"][/accordion_item]</code> sub-shortcode as many times as you need. But keep them wrapped in <code>[accordion][/accordion]</code> parent shortcode."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Please, copy the <code>[tab title=\"\"][/tab]</code> sub-shortcode as many times as you need. But keep them wrapped in <code>[tabs][/tabs]</code> parent shortcode."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Plus list"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Pointer list"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:235
+msgid "Popular posts"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+#: library/meta/m-cp-staff.php:1
+#: inc/loop/loop-staff.php:39
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Post"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Post layout"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-post.php:1
+msgid "Post settings"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Posts category"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Posts count"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:150
+msgid "Posts count:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Posts just from these categories"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Posts source"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-postslist.php:129
+msgid "Posts source (category):"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Predefined font icon"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "Premium plugins"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Preserves images aspect ratio and uses masonry display"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Press [+] button to add an attribute, then type in the attribute name and value (you can use <code>[project_attributes title=\"Project info\" /]</code> shortcode to display attributes anywhere in project content or excerpt - by default they will be displayed as first thing above project excerpt - you can set the layout on \"General and layout\" tab)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Press [+] button to add new custom contact info"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "Prevents search engines to index this page or post"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:747
+msgid "Preview"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Price Table"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price button URL link"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price button text"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price column order"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Price column title"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price cost (including currency)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price set up"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Price settings"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+#: library/custom-posts/cp-price.php:1
+msgid "Price table"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Price tables"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+#: library/admin.php:412
+msgid "Prices"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Project URL link"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Project attributes"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Project categories"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Project category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Project main image"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Project media type"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Project page"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Project page layout"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project saved."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview project</a>"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project updated."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-cpprojects.php:1
+#: library/admin.php:412
+msgid "Projects"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Projects category"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Projects count"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpprojects.php:127
+msgid "Projects count:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Projects filter"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Projects main category"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Projects settings"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpprojects.php:101
+msgid "Projects source (category):"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Published."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Pullquote"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Quarters"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "Question"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Question icon"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Quote post format"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Quote source"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Quote with left border"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Quotes"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "RARs"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "RTFs"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-cpprojects.php:203
+msgid "Random items"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:235
+msgid "Random posts"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Random selection"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Randomly"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Raw preformated text"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-cpprojects.php:203
+msgid "Recent items"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:235
+msgid "Recent posts"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Red"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Red box"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+#: library/admin.php:412
+msgid "Red button"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Red marker"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Redirect"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Redirect link"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Redirect status"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Redirection"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Reference title (will not be displayed)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2112
+msgid "Remove item"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Remove padding on slide caption"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Remove them from post gallery"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Remove them from post gallery and create a new one at the bottom"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Removes margins around images"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Repeat"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Repeat horizontally"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Repeat vertically"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Restrict access"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Restricts access to certain users or user groups"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Rich staff member info goes here, place the short description into excerpt field below..."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Right pullquote"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Right, 1/2 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Right, 1/3 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Right, 1/4 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Right, 2/3 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Right, 3/4 column"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Right, bottom"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Right, center vertically"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Right, top"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Roundabout Slider"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Rounded dropcap"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "SEO keywords (comma separated)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "SEO meta description"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-seo.php:1
+msgid "SEO settings"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "SWFs"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Sardine"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Saved."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Scheduled for: <strong>%s</strong>."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search categories"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search departments"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search groups"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "Search members"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Search modules"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "Search price"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search price table"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "Search projects"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "Search question"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Search slides"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Search tags"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Section"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select Content Module to display"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:191
+msgid "Select Menu:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select a category from where the list will be populated"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select a department from where the list will be populated"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Select a font icon to display with this icon module. This icon will be prioritized over the featured image."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Select a page to redirect to"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select a shortcode:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Select a slider type from the dropdown list below"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select a tag from where random content module will be chosen"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Select a type of project featured media"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select a widget area from dropdown menu"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Select a widget area used as a sidebar for this post/page (if not set, the dafault theme settings will apply)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Select an icon to display in main heading area"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select column size"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select group of slides"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select icon size"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select icon to be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select list bullet image"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select number of columns to lay out the list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select one of predefined icons"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select optional button icon image"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select order in which items will be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select prefered dropcap styling"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select price table"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select price table to display"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Select slide caption background color (will affect also text color, so choose accordingly)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select table"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select tabs styling"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select tag"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select the depth of page hierarchy to display"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select timer size"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select whether the accordion should automatically animate. You can also set the automatic animation speed in miliseconds if you set a number greater than 1000 for this attribute."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Select whether to display all projects or just the ones from specific main category (only first level categories can be chosen)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select whether you want the module title to be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select whether you want the thumbnail image to be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Select whether you want to display or hide the border. Only for spacers."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Select which images should be processed with action set below. If there are no images displayed, save/update the post/page first."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Select which images will be displayed in the slider (you may need to save/update the post to see the images)"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Select which redirect method to use"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Select, how this column should be styles"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Selected images action"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Selected images from gallery"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Separator character"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Set a number to order price columns in price table. Higher number will move the column further to the right in the price table.<br />Leave empty or set to 0 (zero) to keep the default ordering (by date created)."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Set background image attachment"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Set background image position"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Set background image repeating"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+#: library/meta/m-cp-slides.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Set featured image"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Set featured image and/or type in slide video URL. If both the video URL and featured image are set, the image is used as video preview and when clicked, video will play back. You can group slides into a slide groups and then display specific slides group in page slider."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Set map location info bubble text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Set the \"font-size\" CSS rule compatible values"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Set the <a href=\"http://www.soundcloud.com\" target=\"_blank\">SoundCloud.com</a> audio clip URL address"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Set the custom link action"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Set the date when the website will be ready"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Set the exact hour when the website will be ready"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Set the number of columns for this gallery"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Set the text alignment in main heading area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Set this page as homepage"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets above footer widgets area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets default Google Map styling"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets footer bottom row widgets area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets footer top row widgets area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets map height in pixels"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Sets slide caption background color opacity (set 0 to remove the color)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "Sets the \"rel\" HTML attribute"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "Sets the custom gallery background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Sets the custom link relationship attribute. No \"rel\" attribute will be added if left blank."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Sets the custom price column background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Sets the custom slide background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets the custom slider background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Sets the custom website background color"
+msgstr ""
+
+#. Text in function
+#: library/options/a-general.php:1
+msgid "Sets the default layout for project pages"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Sets the layout for this project page"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets the number of posts listed on this page only. Other archives will display posts according to WordPress settings. <br />Value of \"-1\" will display all posts. When you set the value of \"0\", WordPress settings are applied."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Sets the position and size of the caption text on the slide"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Sets the widget area below countdown timer"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Shadow bottom"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Shadow opacity"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Shadow top"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "Shortcode"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Sidebar is aligned left from the page/post content"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Sidebar is aligned right from the page/post content"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/styles/a-layouts.php:1
+msgid "Sidebar left"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "Sidebar position"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/styles/a-layouts.php:1
+msgid "Sidebar right"
+msgstr ""
+
+#. Text in function
+#: library/setup.php:1
+msgid "Sitemap links"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Sixths"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Size"
+msgstr ""
+
+#. Text in function
+#: inc/loop/loop-staff.php:39
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Skype username"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Slide"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Slide background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Slide caption layout"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Slide display time"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Slide group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Slide groups"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "Slide settings"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "Slide title"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/core.php:1713
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slider background color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slider beneath header"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slider content"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slider tilting"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/admin.php:412
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slides bottom position correction"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Slides custom posts"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Slides group"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Slideshow on post page"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Small text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Social icon link URL address"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Solid border divider"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:112
+msgid "Sort by:"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "SoundCloud audio URL or <code>[audio]</code> shortcode"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Space height"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Spacer"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Specially styled hero box"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Speed in seconds"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Square dropcap"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Squared dropcap"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Squares"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Staff count"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Staff info"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "Staff member"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Staff member info goes here..."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-staff.php:1
+msgid "Staff member position"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Star list"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Static featured image"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Static image"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-status.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Status post format"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Status text: "
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Statuses count"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:88
+msgid "Statuses count:"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-status.php:99
+msgid "Statuses speed:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Stay here"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Stretch (fit) the image"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Stretches the slider full website width"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Style"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "Style this module as icon box (please upload the icon as featured image) or select one below."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-subpages.php:1
+msgid "Submenu"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Submitted."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Subpages"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Subscribers"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Tab title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Table"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Table cells data separated with separator character. Will be automatically aligned into columns (depending on \"Heading row\" setting)."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Table data"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Tabs type"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Tabs wrapper"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Tag"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Tag list"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+#: library/custom-posts/cp-modules.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Temporary redirect (302)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Testimonials count"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Text color"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Text in area right from logo in website header. You can use (C) to display &copy; sign, (R) for &reg;, (TM) for &trade;, YEAR for current year or SEARCH to display a search form."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "The actual content of the page will be displayed above blog posts list. You can set blog posts list options below."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "The actual content of the page will be displayed above projects list. You can set projects list options below."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-price.php:1
+msgid "The actual price cost displayed including currency"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "The default sidebar widget area."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-modules.php:1
+msgid "The featured image icon dimensions should be 32&times;32 px in default layout, or 64&times;64 px in centered icon box display layout. Layout can be set in shortcode or in widget parameters when displaying the Content Module."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "The page displays information of when your website is about to be lounched. You can set the date, when it is planned to go live and the countdown timer will be displayed."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "The premium plugins included within the theme for free are provided as courtesy and while there are no issues with them whatsoever, it is not possible to provide the theme updates as often as the plugins are updated. Unfortunately, there is no way to enable automatic plugin updates when they are bundled with the theme and <a%s>you need to update them manually</a>."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "The theme extends WordPress contextual help, making it convenient resource of information. Please, check this first if you get stuck or need more info on a topic."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "The whole shortcode documentation can be found here, but you surely can use a Shortcode Generator, which is much more easier."
+msgstr ""
+
+#. Text in function
+#: library/updater/update-notifier.php:1
+msgid "Theme Updates"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:112
+msgid "There are no Content Modules to choose from. Please add a new Content Module first."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+msgid "These settings will help you tweak the gallery inserted directly into post/page content (you can easily remove images from it) and create additional gallery at the bottom of the post/page or in slider area."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Thirds"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "This is a special landing page layout"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "This page will display a map"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "This page will display blog posts"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "This page will display portfolio of your projects"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "This shortcode has no settings."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "This shortcode will display Quote posts. If featured image of the post set, it will be used as quoted person photo (please upload square images only)."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "This text will be displayed when mouse hovers over the icon"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "This will affect the number of projects listed on the page. Set \"-1\" to display all items, set \"0\" to use default WordPress settings."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "This will set up the link \"rel\" HTML attribute"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Three columns"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Three columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Thumb"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Thumbnail image"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Thumbs up list"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Time <small>YYYY-MM-DD HH:mm</small>"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Time in seconds"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Time to display one slide in seconds"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Time to display one testimonial in seconds"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Timer size"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Title text"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-default-widgets.php:110
+#: library/widgets/w-default-widgets.php:187
+#: library/widgets/w-subpages.php:73
+#: library/widgets/w-twitter.php:108
+#: library/widgets/w-postslist.php:81
+#: library/widgets/w-cpmodules.php:75
+#: library/widgets/w-cpprojects.php:79
+#: library/widgets/w-status.php:75
+#: library/widgets/w-contact.php:76
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Titles of columns, separated with separator character. This is required to determine the number of columns for the table."
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:163
+msgid "To install the new updated theme unzipp the zipped theme package file obtained from ThemeForest on your computer. Open the theme package folder and head over to <code>install</code> subfolder where you will find a theme installation ZIP file."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:1
+msgid "To prevent any security issues related to the plugins, it is strongly suggested to consider buying your own premium plugins licenses (only the ones you use) to enable immediate automatic plugin updates."
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:134
+msgid "To set the fields below you need to <a href=\"https://dev.twitter.com/apps\" target=\"_blank\">create a Twitter Application</a>. See theme user manual for more info."
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:161
+msgid "To update the theme, login to <a href=\"http://www.themeforest.net/\" target=\"_blank\">ThemeForest</a>, head over to <strong>downloads section</strong> and re-download the theme like you did when you bought it. Feel free to leave any feedback and rating :)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/meta/a-meta-page.php:1
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+#: library/meta/m-cp-staff.php:1
+msgid "To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Toggle"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/admin.php:412
+msgid "Toggle title"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Toggle wrapper"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Toggles"
+msgstr ""
+
+#. Text in function
+#: library/widgets/a-areas.php:1
+msgid "Top Bar Widgets"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+#: library/core.php:1713
+msgid "Top, full width"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Transparent"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-twitter.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:133
+msgid "Twitter API settings"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-twitter.php:113
+msgid "Twitter username:"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Two columns"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Two columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: library/options/a-social.php:1
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Type of divider"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "URL where the page will be automatically redirected to"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Under construction"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Unordered list goes here"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:170
+msgid "Unzip the theme installation ZIP file on your computer. Upload the unzipped theme folder using FTP client to your server (into <code>YOUR_WORDPRESS_INSTALLATION/wp-content/themes/</code>) overwriting all the current theme files."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-postslist.php:235
+msgid "Upcoming posts"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:183
+msgid "Update Changes"
+msgstr ""
+
+#. Text in echo
+#: library/updater/update-notifier.php:159
+msgid "Update Download and Instructions"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update FAQ category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update category"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update department"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update group"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update price table"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/ct-taxonomies.php:1
+msgid "Update tag"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+#: library/custom-posts/cp-staff.php:1
+#: library/custom-posts/cp-logos.php:1
+#: library/custom-posts/cp-price.php:1
+#: library/custom-posts/cp-modules.php:1
+#: library/custom-posts/cp-faq.php:1
+msgid "Updated."
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1530
+msgid "Upload an image"
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1604
+msgid "Upload audio file"
+msgstr ""
+
+#. Text in function
+#: library/updater/update-notifier.php:176
+msgid "Upload the theme installation ZIP file using FTP client to your server (into <code>YOUR_WORDPRESS_INSTALLATION/wp-content/themes/</code>). Using your FTP client, rename the old theme folder (for example from %1s to %2s). When the old theme folder is renamed, unzip the theme installation zip file on the server. After checking if the theme works fine, delete the renamed old theme folder from server (or keep it as a backup, but it will take space on your server unnecessarily...)."
+msgstr ""
+
+#. Text in echo
+#: library/form-generator.php:1648
+msgid "Upload video file"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Uppercase"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Uppercase text"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Use animated filtering on the projects list"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-cpmodules.php:131
+msgid "Use centered text layout"
+msgstr ""
+
+#. Text in echo
+#: library/widgets/w-contact.php:93
+msgid "Use comma to separate days and times<br />(such as \"Friday, 9:00 - 16:00\")"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Use default map styling"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Use default theme portfolio layout"
+msgstr ""
+
+#. Text in function
+#: library/styles/a-layouts.php:1
+msgid "Use default theme position of the sidebar"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:1996
+#: library/form-generator.php:679
+#: library/form-generator.php:1460
+#: library/form-generator.php:1643
+#: library/form-generator.php:1931
+msgid "Use default value"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Use on \"Sections\" page template only! This will split the page into sections. You can set a custom CSS class and then style the sections individually. You can use \"alt\" class for alternative section styling."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Use on project page only. Displays table of project attributes."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/help/a-help.php:1
+msgid "Use syntax of <a href=\"http://codex.wordpress.org/Audio_Shortcode\" target=\"_blank\">WordPress Audio shortcode</a>."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/help/a-help.php:1
+msgid "Use syntax of <a href=\"http://codex.wordpress.org/Video_Shortcode\" target=\"_blank\">WordPress Video shortcode</a>."
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:1479
+msgid "Use theme styles"
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-default-widgets.php:124
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "Used as main project preview image. To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post."
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "User groups"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1
+msgid "Users"
+msgstr ""
+
+#. Text in function
+#: library/form-generator.php:2188
+msgid "Value"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Vertical tabs"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Vertical tabs - tour"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+#: library/meta/m-cp-projects.php:1
+msgid "Video URL or <code>[video]</code> shortcode"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-post.php:1
+msgid "Video post format"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-logos.php:1
+msgid "View"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-faq.php:1
+msgid "View answer"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View blog page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View default page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View landing page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View map page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-staff.php:1
+msgid "View member"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "View module"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View portfolio page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-price.php:1
+msgid "View price"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-projects.php:1
+msgid "View project"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View sections page <a %1s>layout structure</a>. Please note that you have to use the %2s shortcode to display content inside website content box dimensions."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View sitemap page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-slides.php:1
+msgid "View slide"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "View under construction page <a %s>layout structure</a>."
+msgstr ""
+
+#. Text in function
+#: library/classes/meta-box-generator.php:1
+#: library/form-generator.php:1
+msgid "Wait, I need to save my changes first!"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Warning icon"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "What item group will be watched for last update date"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-logos.php:1
+msgid "When left blank, no link will be applied"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "When left blank, no link will be applied (will not be applied also when video URL is set)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-projects.php:1
+msgid "When left blank, no link will be displayed"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Where the user will be redirected to after successful log in"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Whether box background is colored or not"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Whether to display filter and where to place it"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "White (black text)"
+msgstr ""
+
+#. Text in function
+#: library/meta/m-cp-slides.php:1
+msgid "White background (black text)"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Widget area"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "Widgets layout of the widget area"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "Width corrections"
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Will be automatically centered"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+#: library/widgets/w-status.php:83
+#: library/core.php:1713
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "You can choose to display all posts or posts from specific categories. <br />Press [+] button to add a category and select the category name from dropdown list."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "You can display \"Slides\" custom posts or page image gallery in the slider (it is possible to choose, what images will be displayed in slider)."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "You can include a description of the list created with the shortcode. Just place the text between opening and closing shortcode tag."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "You can include a description of the list created with the shortcode. Just place the text between opening and closing shortcode tag. Can not be on the same page with the FAQ shortcode when animation (filter) used."
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "You can include a description of the list created with the shortcode. Just place the text between opening and closing shortcode tag. However, note that this will disable the filter. FAQ shortcode can not be on the same page with the Projects shortcode when animation (filter) used."
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "You can move map beneath the website header just by selecting the option below"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "You can move slider beneath the website header just by selecting the option below"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "You can use external app to find geographic coordinates."
+msgstr ""
+
+#. Text in function
+#: library/wm-options-panel.php:1
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Text in function
+#: library/updater/update-notifier.php:147
+msgid "You have version %1$s installed. Update to version %2$s."
+msgstr ""
+
+#. Text in function
+#: library/admin.php:412
+msgid "Your answer goes here..."
+msgstr ""
+
+#. Text in function
+#: library/widgets/w-default-widgets.php:1
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#. Text in function
+#: library/core.php:1713
+msgid "ZIPs"
+msgstr ""
+
+#. Text in function
+#: library/custom-posts/cp-modules.php:1
+msgid "[Icon module]"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+msgid "do not forget to <strong>save/update the page first</strong>"
+msgstr ""
+
+#. Text in function
+#: library/meta/a-meta-page.php:1
+#: library/setup.php:1
+msgid "page navigation"
+msgstr ""
+
+#. Text in function
+#: library/shortcodes/shortcodes-generator.php:1
+msgid "shortcode"
+msgstr ""

@@ -1,0 +1,59 @@
+/*
+*****************************************************
+*      ROUNDABOUT SLIDER CSS STYLES
+*****************************************************
+*/
+
+.roundabout-slider {
+	position: relative;
+	width: 100%;
+	height: 400px;
+	padding: 0;
+	margin-top: 50px; /* 30 + cca 20 as Roundabout moves its slides up a bit */
+	list-style: none;
+}
+	.roundabout-slider article {
+		position: relative;
+		width: auto;
+		padding: 0;
+		list-style: none;
+		cursor: pointer;
+		overflow: hidden;
+	}
+		.roundabout-slider.size-portfolio article {width: 400px}
+		.roundabout-slider article.roundabout-in-focus {cursor: auto}
+		.roundabout-slider article img {
+			position: relative;
+			max-width: 100%;
+			z-index: 0;
+		}
+
+	/* no javascript */
+	.no-js .roundabout-slider {
+		height: auto;
+		padding: 4% 0;
+	}
+	.no-js .roundabout-slider article {display: none}
+	.no-js article#roundabout-1 {
+		display: block;
+		width: 66%;
+		height: auto;
+		margin: 0 auto;
+		z-index: 1;
+	}
+	.no-js article#roundabout-2,
+	.no-js article#roundabout-3 {
+		display: block;
+		position: absolute;
+		width: 50%;
+		height: auto;
+		left: 0;
+		bottom: 20%;
+		z-index: 0;
+	}
+	.no-js article#roundabout-3 {
+		left: auto;
+		right: 0;
+	}
+
+/* End of file */

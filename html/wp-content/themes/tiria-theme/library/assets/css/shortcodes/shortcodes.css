@@ -1,0 +1,205 @@
+/*
+*****************************************************
+* TIRIA'S WORDPRESS THEME FRAMEWORK
+* Created by Tiria - www.tiria.fr
+* Based on Clifden by Webman - www.webmandesign.eu
+*
+* WebMan Shortcodes Generator CSS styles
+*****************************************************
+*/
+
+
+
+/*********************************************/
+/* general classes                           */
+/*********************************************/
+
+	/* main container */
+		#wm-shortcode-generator {
+			display: none;
+			position: relative;
+			padding: 60px 20px 20px;
+			-webkit-box-sizing: border-box;
+			   -moz-box-sizing: border-box;
+			        box-sizing: border-box;
+		}
+			#wm-shortcode-generator * {
+				-webkit-box-sizing: border-box;
+				   -moz-box-sizing: border-box;
+				        box-sizing: border-box;
+			}
+			#wm-shortcode-generator p {
+				padding: 10px 0;
+				margin: 0;
+			}
+
+		#ui-dialog-title-wm-shortcode-generator {line-height: 28px}
+		#ui-dialog-title-wm-shortcode-generator + a {margin-top: 6px}
+
+		#wm-shortcode-generator .shortcode-title {font-size: 1.4em}
+		#wm-shortcode-generator .shortcode-desc {
+			min-height: 16px;
+			padding: 5px 0 15px 24px;
+			font-style: italic;
+			font-size: 0.9em;
+			background: url(../../img/shortcodes/about.png) no-repeat 0 5px;
+			color: #777;
+		}
+		#wm-shortcode-generator code {font-style: normal}
+
+	/* credits text */
+		#wm-shortcode-generator .credits {
+			display: none; /* debranded */
+			text-align: right;
+		}
+
+
+
+/*********************************************/
+/* tabs and select                           */
+/*********************************************/
+
+	/* tabs */
+		ul.wm-tabs {
+			position: relative;
+			float: left;
+			width: 20%;
+			padding: 0;
+			margin: 0 -1px 0 0;
+			font-size: 11px;
+			z-index: 20;
+		}
+			ul.wm-tabs li {
+				height: 24px;
+				line-height: 24px;
+				margin: -1px 0 0;
+			}
+				ul.wm-tabs li:first-child {margin-top: 0}
+				ul.wm-tabs li a {
+					display: block;
+					height: 100%;
+					padding: 0 10px;
+					text-decoration: none;
+					border: 1px solid #ccc;
+					background: #eee;
+					color: #666;
+					z-index: 20;
+				}
+					ul.wm-tabs li.active a,
+					ul.wm-tabs li a:hover {
+						background: #fff;
+						color: #000;
+						border-right-color: #fff;
+					}
+
+	/* tab content */
+		.wm-tabs-content {
+			float: left;
+			width: 80%;
+			min-height: 200px;
+			padding: 6px 20px 20px 20px;
+			border: 1px solid #ccc;
+			background: #fff;
+		}
+		.selectable .wm-tabs-content {
+			margin-top: 10px;
+			width: 100%;
+		}
+
+	/* select */
+		.wm-select-wrap {
+			position: absolute;
+			width: 100%;
+			padding: 5px 20px 10px;
+			left: 0;
+			top: 0;
+			background: #444;
+		}
+		.wm-select-wrap label {
+			display: none;
+			padding: 0 0 5px;
+			color: #444;
+			font-style: italic;
+			font-size: 0.9em;
+		}
+		.wm-select {font-size: 1.1em}
+
+		.wm-select-wrap select {
+				height: auto;
+				padding: 5px 9px;
+				line-height: 20px;
+				background-color: rgba(255,255,255, 0.70); /* for Opera browser to force background image */
+				border-color: #333;
+				-webkit-border-radius: 4px;
+				   -moz-border-radius: 4px;
+				        border-radius: 4px;
+		}
+			/* hack to target WebKit browsers only */
+			@media screen and ( -webkit-min-device-pixel-ratio: 0 ) {
+				.wm-select-wrap select {
+					-webkit-appearance: none;
+					background-image: url(../../../../assets/img/icons/16x16/arrow-down.png);
+					background-position: 98% 50%;
+					background-repeat: no-repeat;
+				}
+			}
+
+
+
+/*********************************************/
+/* forms                                     */
+/*********************************************/
+
+	#wm-shortcode-form {overflow: hidden;}
+
+	#wm-shortcode-form table {
+		width: 100%;
+		padding-top: 10px;
+		border-top: 1px solid #eee;
+		border-bottom: 1px solid #eee;
+	}
+		#wm-shortcode-form td:first-child {width: 30%}
+	#wm-shortcode-form select {width: 100%}
+	#wm-shortcode-form select.shorter {width: 75%}
+	#wm-shortcode-form input[type="text"] {
+		width: 80%;
+		margin-right: 10px;
+	}
+
+	#wm-shortcode-form .image-before {
+		display: inline-block;
+		width: 24px;
+		height: 24px;
+		margin: 0 10px 0 0;
+		line-height: 22px;
+		font-size: 16px;
+		text-align: center;
+		background-color: #eee;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+		border: 1px solid #ccc;
+		-webkit-border-radius: 3px;
+		   -moz-border-radius: 3px;
+		        border-radius: 3px;
+		vertical-align: middle;
+	}
+
+	/* apply input changes button */
+		#wm-shortcode-form .ico-apply {
+			vertical-align: middle;
+			cursor: pointer;
+		}
+
+	/* output button */
+		.wm-shortcode-output {
+			width: 100%;
+			padding: 10px;
+			font-family: monospace;
+			background: #eee;
+			border: 1px dashed #ccc;
+			resize: none;
+		}
+
+
+
+/* END OF FILE */
