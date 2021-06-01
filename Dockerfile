@@ -1,3 +1,3 @@
 FROM wordpress:php8.0
 
-COPY html/wp-content/. /var/www/html/wp-content/
+COPY --chown=www-data:www-data html/wp-content/. /usr/src/wordpress/wp-content/
