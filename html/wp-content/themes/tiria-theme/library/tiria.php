@@ -45,6 +45,14 @@ function woocommerce_support(){
 } 
 add_action('after_setup_theme','woocommerce_support');
 
+//mailpoet admin style fix
+function tiria_mailpoet_conflict($styles){
+	$styles[] = 'admin-addon.css';
+	$styles[] = 'admin-addon-38.css';
+	return $styles;
+}
+add_filter('mailpoet_conflict_resolver_whitelist_style', 'tiria_mailpoet_conflict');
+
 //print customised script
 /*** exemple ***
  *function active_scrollbar() { ?>
