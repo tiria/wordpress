@@ -53,6 +53,14 @@ function tiria_mailpoet_conflict($styles){
 }
 add_filter('mailpoet_conflict_resolver_whitelist_style', 'tiria_mailpoet_conflict');
 
+//remove revslider metabox
+function remove_revslider_metabox($post_type){
+	add_action('do_meta_boxes', function() use($post_type){
+		remove_meta_box('slider_revolution_metabox', $post_type, 'side');
+	});
+}
+add_action('registered_post_type', 'remove_revslider_metabox');
+
 //print customised script
 /*** exemple ***
  *function active_scrollbar() { ?>
