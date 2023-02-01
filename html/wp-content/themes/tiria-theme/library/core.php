@@ -250,7 +250,7 @@
 				} else {
 					$readable = ( in_array( $args['allCountPost'], array( 'post', 'page' ) ) ) ? ( 'readable' ) : ( null );
 					$allCount = wp_count_posts( $args['allCountPost'], $readable );
-					$allCount = ' (' . absint( $allCount->publish ) . ')';
+					$allCount = ( isset( $allCount->publish ) ) ? ' (' . absint( $allCount->publish ) . ')' : '';
 				}
 				$outArray[''] = '- ' . $args['allText'] . $allCount . ' -';
 			}
