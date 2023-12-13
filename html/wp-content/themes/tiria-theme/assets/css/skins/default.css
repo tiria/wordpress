@@ -73,9 +73,7 @@ NOTES:
 	pre {
 		border-color: #d9d9d9;
 		border-bottom-color: #f9f9f9;
-		-webkit-box-shadow: inset 0 2px 5px 0 rgba(0,0,0, 0.10);
-		   -moz-box-shadow: inset 0 2px 5px 0 rgba(0,0,0, 0.10);
-		        box-shadow: inset 0 2px 5px 0 rgba(0,0,0, 0.10);
+		box-shadow: inset 0 2px 5px 0 rgba(0,0,0, 0.10);
 	}
 
 	/* headings */
@@ -102,7 +100,6 @@ NOTES:
 				font-size: 200px;
 				color: #000;
 				opacity: 0.05;
-				filter: alpha(opacity=5); /* For IE8 and earlier */
 			}
 			.main-heading.has-subtitle i[class^="icon-"] {
 				font-size: 280px;
@@ -118,9 +115,7 @@ NOTES:
 			border-bottom: 1px solid #f2f2f2;
 		}
 			.breadcrumbs-stick .breadcrumbs {
-				-webkit-box-shadow: 0 0 8px 0 rgba(0,0,0, 0.2);
-				   -moz-box-shadow: 0 0 8px 0 rgba(0,0,0, 0.2);
-				        box-shadow: 0 0 8px 0 rgba(0,0,0, 0.2);
+				box-shadow: 0 0 8px 0 rgba(0,0,0, 0.2);
 			}
 			.breadcrumbs span {
 				text-transform: none;
@@ -278,7 +273,6 @@ NOTES:
 			height: 0.7em;
 			overflow: hidden;
 			opacity: 0.15;
-			filter: alpha(opacity=15); /* For IE8 and earlier */
 		}
 
 	/* page excerpt */
@@ -336,7 +330,6 @@ NOTES:
 		.text-element.project-category {
 			padding-top: 0;
 			opacity: 0.66;
-			filter: alpha(opacity=66); /* For IE8 and earlier */
 		}
 		.wrap-posts-shortcode h3,
 		.wrap-projects-shortcode h3,
@@ -379,7 +372,6 @@ NOTES:
 		/* posts list widget */
 			.wm-post-list .date {
 				opacity: 0.66;
-				filter: alpha(opacity=66); /* For IE8 and earlier */
 			}
 			.wm-post-list .image-container .icon-format {
 				background: #f2f2f2;
@@ -405,11 +397,9 @@ NOTES:
 	/* website footer */
 		.footer {
 			top: -1px; /* for sections page section */
-			background: #fff url(../img/patterns/dark_stripes-10.png);
+			background: #fff;
 			color: #828282;
-			-webkit-box-shadow: 0 -8px 8px -8px rgba(0,0,0, 0.2);
-			   -moz-box-shadow: 0 -8px 8px -8px rgba(0,0,0, 0.2);
-			        box-shadow: 0 -8px 8px -8px rgba(0,0,0, 0.2);
+			box-shadow: 0 -8px 8px -8px rgba(0,0,0, 0.2);
 		}
 			.breadcrumbs-stick .footer {
 				padding-bottom: 54px;
@@ -441,8 +431,7 @@ NOTES:
 
 	/* credits area */
 		.bottom-wrap {
-			background: url(../img/transparent/black/5.png);
-			background: rgba(0,0,0, .05);
+			background: rgba(0,0,0,.05);
 			border-top: 1px solid #e2e2e2;
 		}
 			.bottom-wrap .twelve {

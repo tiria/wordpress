@@ -207,7 +207,7 @@
 				wp_register_script( 'isotope', WM_ASSETS_THEME . 'js/isotope/jquery.isotope.min.js', array( 'jquery' ), WM_SCRIPTS_VERSION, true );
 				wp_register_script( 'lwtCountdown', WM_ASSETS_THEME . 'js/lwtCountdown/jquery.lwtCountdown-1.0.js', array( 'jquery' ), WM_SCRIPTS_VERSION, true );
 				wp_register_script( 'quovolver', WM_ASSETS_THEME . 'js/quovolver/jquery.quovolver.js', array( 'jquery' ), WM_SCRIPTS_VERSION, true );
-				wp_register_script( 'gmapapi', $protocol . '://maps.googleapis.com/maps/api/js?key=' . wm_option( 'general-map-api-key' ), false, '', true );
+				wp_register_script( 'gmapapi', $protocol . '://maps.googleapis.com/maps/api/js?callback=initializeMap&libraries=marker&key=' . wm_option( 'general-map-api-key' ), false, '', true );
 				wp_register_script( 'gmap-infobox', WM_ASSETS_THEME . 'js/infobox.js', array( 'gmapapi' ), WM_SCRIPTS_VERSION, true );
 				wp_register_script( 'gmap', WM_ASSETS_THEME . 'js/maps.js', array( 'gmapapi' ), WM_SCRIPTS_VERSION, true );
 				wp_register_script( 'mgmap', WM_ASSETS_THEME . 'js/mgmaps.js', array( 'gmapapi' ), WM_SCRIPTS_VERSION, true );

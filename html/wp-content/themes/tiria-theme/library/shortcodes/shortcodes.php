@@ -4536,7 +4536,7 @@
 				
 				$out = '<div id="mgmap" class="map" style="height:' . $height . '; width:' . $width . ';"></div>';
 				$out .= '<script>var mapName="' . __( 'Custom', 'clifden_domain' ) . '", mapStyle="' . $style . '", mapZoom=' . intval( 2 + $zoom ) . ', mapLat=' . $lat . ', mapLong=' . $long . ', mapMarker="' . $marker . '", mapInfo="' . str_replace( '"', '\"',$info) . '", mapCenter=0, mapInvert=' . $invert . ', mapSat=' . $saturation . ', themeImgs="' . WM_ASSETS_THEME . 'img/";</script>';
-				wp_enqueue_script('gmap-infobox');
+				// wp_enqueue_script('gmap-infobox');
 				wp_enqueue_script('mgmap');
 				
 				return $out;

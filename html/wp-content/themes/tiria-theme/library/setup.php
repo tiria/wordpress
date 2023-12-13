@@ -271,9 +271,9 @@
 				if ( is_page_template( 'tpl-map.php' ) ) {
 					wp_enqueue_script( 'gmapapi' );
 					wp_enqueue_script( 'gmap' );
-					if ( wm_meta_option( 'map-info' ) ) {
-						wp_enqueue_script( 'gmap-infobox' );
-					}
+					// if ( wm_meta_option( 'map-info' ) ) {
+						// wp_enqueue_script( 'gmap-infobox' );
+					// }
 				}
 
 				wp_localize_script( 'wm-theme-scripts', 'wmLocalization', array(

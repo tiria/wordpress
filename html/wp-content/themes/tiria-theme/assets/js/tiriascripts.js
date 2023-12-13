@@ -8,6 +8,6 @@
 * General scripts
 *****************************************************
 */
-jQuery(document).ready(function(){
+jQuery(function(){
 	// custom js
 });

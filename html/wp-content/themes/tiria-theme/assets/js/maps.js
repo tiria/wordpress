@@ -146,14 +146,14 @@ function initializeMap() {
 			content                : mapInfo,
 			disableAutoPan         : false,
 			maxWidth               : 0,
-			pixelOffset            : new google.maps.Size( -60, 17 ),
+			pixelOffset            : new google.maps.Size( 0, 0 ),
 			zIndex                 : null,
 			infoBoxClearance       : new google.maps.Size( 1, 1 ),
 			isHidden               : false,
 			pane                   : 'floatPane',
 			enableEventPropagation : false
 		};
-	var infowindow = new InfoBox( infoBoxOptions );
+	var infowindow = new google.maps.InfoWindow( infoBoxOptions );
 	infowindow.open( map, marker );
 
 	//Center map on location
@@ -167,4 +167,4 @@ function initializeMap() {
 
 } // /initializeMap
 
-google.maps.event.addDomListener( window, 'load', initializeMap );
+// google.maps.event.addDomListener( window, 'load', initializeMap );
