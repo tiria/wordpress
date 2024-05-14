@@ -4600,7 +4600,7 @@
 		* class 	= STRING/NONE additionnal class to add
 		*/
 		if ( ! function_exists( 'wm_shortcode_mailprotect' ) ) {
-			function wm_shortcode_mailprotect( $atts, $content = null, $shortcode) {
+			function wm_shortcode_mailprotect( $atts, $content = null, $shortcode = null) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'mail'      => '',
 						'link'		=> true,

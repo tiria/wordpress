@@ -126,7 +126,7 @@ jQuery( function() {
 *      5) APPLY SELECT AND INPUT CHANGES
 *****************************************************
 */
-	jQuery( 'select, input[type="text"]' ).change( function () {
+	jQuery( '#wm-shortcode-generator select, #wm-shortcode-generator input[type="text"]' ).change( function () {
 		var $this  = jQuery( this ),
 		    target = ( generator.hasClass( 'tabbed' ) ) ? ( jQuery( '#wm-shortcode-generator .wm-tabs li:first a' ).attr( 'href' ) ) : ( jQuery( '#wm-shortcode-generator .wm-select' ).val() );
 
