@@ -183,7 +183,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_administrator' ) ) {
-			function wm_shortcode_administrator( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_administrator( $atts, $content = null, $shortcode = null ) {
 				if ( current_user_can( 'edit_dashboard' ) ) {
 					return do_shortcode( $content );
 				}
@@ -203,7 +203,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_author' ) ) {
-			function wm_shortcode_author( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_author( $atts, $content = null, $shortcode = null ) {
 				if ( current_user_can( 'edit_published_posts' ) && ! current_user_can( 'read_private_pages' ) ) {
 					return do_shortcode( $content );
 				}
@@ -223,7 +223,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_contributor' ) ) {
-			function wm_shortcode_contributor( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_contributor( $atts, $content = null, $shortcode = null ) {
 				if ( current_user_can( 'edit_posts' ) && ! current_user_can( 'delete_published_posts' ) ) {
 					return do_shortcode( $content );
 				}
@@ -243,7 +243,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_editor' ) ) {
-			function wm_shortcode_editor( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_editor( $atts, $content = null, $shortcode = null ) {
 				if ( current_user_can( 'moderate_comments' ) && ! current_user_can( 'edit_dashboard' ) ) {
 					return do_shortcode( $content );
 				}
@@ -263,7 +263,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_subscriber' ) ) {
-			function wm_shortcode_subscriber( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_subscriber( $atts, $content = null, $shortcode = null ) {
 				if ( current_user_can('moderate_comments') && ! current_user_can( 'delete_posts' ) ) {
 					return do_shortcode( $content );
 				}
@@ -291,7 +291,7 @@
 		 * @param auto [BOOLEAN/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_accordion' ) ) {
-			function wm_shortcode_accordion( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_accordion( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_efaults', array(
 						'auto' => '',
 					), $shortcode );
@@ -327,7 +327,7 @@
 		 * @param title [TEXT]
 		 */
 		if ( ! function_exists( 'wm_shortcode_accordion_item' ) ) {
-			function wm_shortcode_accordion_item( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_accordion_item( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'title'       => '',
 						'heading_tag' => 'h3',
@@ -371,7 +371,7 @@
 		 * @return [embed]
 		 */
 		if ( ! function_exists( 'wm_shortcode_audio' ) ) {
-			function wm_shortcode_audio( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_audio( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'class'     => '',
 						'album_art' => '',
@@ -479,7 +479,7 @@
 		 * @return [embed] video + Screenr video
 		 */
 		if ( ! function_exists( 'wm_shortcode_video' ) ) {
-			function wm_shortcode_video( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_video( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'class'          => '',
 						'player'         => false,
@@ -609,7 +609,7 @@
 		 * @param transparent [BOOLEAN/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_box' ) ) {
-			function wm_shortcode_box( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_box( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'color'       => 'gray',
 						'icon'        => '',
@@ -673,7 +673,7 @@
 		 * @param url              [URL/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_button' ) ) {
-			function wm_shortcode_button( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_button( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'            => '',
 						'background_color' => '',
@@ -753,7 +753,7 @@
 		 * @param title              [TEXT]
 		 */
 		if ( ! function_exists( 'wm_shortcode_call_to_action' ) ) {
-			function wm_shortcode_call_to_action( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_call_to_action( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'background_color'   => '',
 						'background_pattern' => '',
@@ -824,7 +824,7 @@
 		 * @param size  [predefined,NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_column' ) ) {
-			function wm_shortcode_column( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_column( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'class' => '',
 						'last'  => false,
@@ -889,7 +889,7 @@
 		 * @param time [DATE: Y-m-d H:i]
 		 */
 		if ( ! function_exists( 'wm_shortcode_countdown' ) ) {
-			function wm_shortcode_countdown( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_countdown( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'size' => 'xl',
 						'time' => '',
@@ -1001,7 +1001,7 @@
 		 * @param unit      [px/em/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_divider' ) ) {
-			function wm_shortcode_divider( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_divider( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'height'    => '',
 						'no_border' => false,
@@ -1056,7 +1056,7 @@
 		 * @param type [round/square/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_dropcap' ) ) {
-			function wm_shortcode_dropcap( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_dropcap( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'type' => '',
 					), $shortcode );
@@ -1094,7 +1094,7 @@
 		 * @param type [predefined/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_icon' ) ) {
-			function wm_shortcode_icon( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_icon( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'size' => '',
 						'type' => '',
@@ -1131,7 +1131,7 @@
 		 * @param icon [legacy - the same as bullet]
 		 */
 		if ( ! function_exists( 'wm_shortcode_list' ) ) {
-			function wm_shortcode_list( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_list( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'icon' => '',
 					), $shortcode );
@@ -1166,7 +1166,7 @@
 		 * @param stay [BOOLEAN/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_login' ) ) {
-			function wm_shortcode_login( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_login( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'stay' => false,
 					), $shortcode );
@@ -1235,7 +1235,7 @@
 		 * @param text_color       [#HEX/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_marker' ) ) {
-			function wm_shortcode_marker( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_marker( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'background_color' => '',
 						'color'            => 'gray',
@@ -1287,7 +1287,7 @@
 		 * @param widget    [BOOLEAN]
 		 */
 		if ( ! function_exists( 'wm_shortcode_content_module' ) ) {
-			function wm_shortcode_content_module( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_content_module( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'id'        => null,
 						'layout'    => '',
@@ -1452,7 +1452,7 @@
 		 * @param order        [new/old/name/random/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_faq' ) ) {
-			function wm_shortcode_faq( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_faq( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'        => 'left',
 						'category'     => null,
@@ -1666,7 +1666,7 @@
 		 * @param format [text/NONE (PHP date format)]
 		 */
 		if ( ! function_exists( 'wm_shortcode_posts_update' ) ) {
-			function wm_shortcode_posts_update( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_posts_update( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'item'   => 'posts',
 						'format' => get_option( 'date_format' ),
@@ -1718,7 +1718,7 @@
 		 * @param order     [new/old/name/random/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_logos' ) ) {
-			function wm_shortcode_logos( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_logos( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'     => 'left',
 						'category'  => null,
@@ -1883,7 +1883,7 @@
 		 *
 		 */
 		if ( ! function_exists( 'wm_shortcode_posts' ) ) {
-			function wm_shortcode_posts( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_posts( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'          => 'left',
 						'category'       => null,
@@ -2145,7 +2145,7 @@
 		 *
 		 */
 		if ( ! function_exists( 'wm_shortcode_posts_slideshow' ) ) {
-			function wm_shortcode_posts_slideshow( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_posts_slideshow( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'category'       => null,
 						'columns'        => 1,
@@ -2341,7 +2341,7 @@
 		 * @param table [PRICE TABLE ID OR SLUG]
 		 */
 		if ( ! function_exists( 'wm_shortcode_prices' ) ) {
-			function wm_shortcode_prices( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_prices( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'table' => null,
 					), $shortcode );
@@ -2474,7 +2474,7 @@
 		 * @param thumb          [BOOLEAN]
 		 */
 		if ( ! function_exists( 'wm_shortcode_projects' ) ) {
-			function wm_shortcode_projects( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_projects( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'          => 'left',
 						'category'       => '',
@@ -2766,7 +2766,7 @@
 		 * @param title [text/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_project_attributes' ) ) {
-			function wm_shortcode_project_attributes( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_project_attributes( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'title' => '',
 					), $shortcode );
@@ -2825,7 +2825,7 @@
 		 * @param margin     [BOOLEAN]
 		 */
 		if ( ! function_exists( 'wm_shortcode_staff' ) ) {
-			function wm_shortcode_staff( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_staff( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align'      => 'left',
 						'columns'    => 4,
@@ -3086,7 +3086,7 @@
 		 * @param margin     [BOOLEAN]
 		 */
 		if ( ! function_exists( 'wm_shortcode_staffdetails' ) ) {
-			function wm_shortcode_staffdetails( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_staffdetails( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'columns'    => 3,
 						'count'      => 6,
@@ -3339,7 +3339,7 @@
 		 * @param speed  [#]
 		 */
 		if ( ! function_exists( 'wm_shortcode_status' ) ) {
-			function wm_shortcode_status( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_status( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'count'  => 1,
 						'date'   => false,
@@ -3428,7 +3428,7 @@
 		 * @param parents [BOOLEAN]
 		 */
 		if ( ! function_exists( 'wm_shortcode_subpages' ) ) {
-			function wm_shortcode_subpages( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_subpages( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'depth'   => 0,
 						'order'   => 'menu',
@@ -3494,7 +3494,7 @@
 		 * @param speed    [# [time to display one testimonial in seconds]]
 		 */
 		if ( ! function_exists( 'wm_shortcode_testimonials' ) ) {
-			function wm_shortcode_testimonials( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_testimonials( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'category' => null,
 						'count'    => 5,
@@ -3633,7 +3633,7 @@
 		 * @param align [left/right/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_pullquote' ) ) {
-			function wm_shortcode_pullquote( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_pullquote( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'align' => 'left',
 					), $shortcode );
@@ -3668,7 +3668,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_raw' ) ) {
-			function wm_shortcode_raw( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_raw( $atts, $content = null, $shortcode = null ) {
 				//Validation
 					$content = str_replace( '[', '&#91;', $content );
 					$content = str_replace( array( '<p>', '</p>', '<br />', '<span class="br"></span>' ), '', $content );
@@ -3700,7 +3700,7 @@
 		 * @param time   [#/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_slideshow' ) ) {
-			function wm_shortcode_slideshow( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_slideshow( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'category' => null,
 						'group'    => null, //just a synonym for "category"
@@ -3884,7 +3884,7 @@
 		 * @param url   [URL]
 		 */
 		if ( ! function_exists( 'wm_shortcode_social' ) ) {
-			function wm_shortcode_social( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_social( $atts, $content = null, $shortcode = null ) {
 				global $socialIconsArray;
 
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
@@ -3961,7 +3961,7 @@
 		 * @param style [TEXT]
 		 */
 		if ( ! function_exists( 'wm_shortcode_section' ) ) {
-			function wm_shortcode_section( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_section( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'class' => '',
 						'style' => '',
@@ -4004,7 +4004,7 @@
 		 * @param separator   [TEXT (separator character)]
 		 */
 		if ( ! function_exists( 'wm_shortcode_table' ) ) {
-			function wm_shortcode_table( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_table( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'class'       => '',
 						'cols'        => '',
@@ -4109,7 +4109,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_table_row' ) ) {
-			function wm_shortcode_table_row( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_table_row( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', '<tr>' . do_shortcode( $content ) . '</tr>', $atts );
 			}
@@ -4128,7 +4128,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_table_row_alt' ) ) {
-			function wm_shortcode_table_row_alt( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_table_row_alt( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', '<tr class="alt">' . do_shortcode( $content ) . '</tr>', $atts );
 			}
@@ -4147,7 +4147,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_table_cell' ) ) {
-			function wm_shortcode_table_cell( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_table_cell( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', '<td>' . do_shortcode( $content ) . '</td>', $atts );
 			}
@@ -4166,7 +4166,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_table_cell_heading' ) ) {
-			function wm_shortcode_table_cell_heading( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_table_cell_heading( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', '<th>' . do_shortcode( $content ) . '</th>', $atts );
 			}
@@ -4193,7 +4193,7 @@
 		 * @param type [vertical/fullwidth/vertical tour/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_tabs' ) ) {
-			function wm_shortcode_tabs( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_tabs( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'type' => '',
 					), $shortcode );
@@ -4226,7 +4226,7 @@
 		 * @param title [TEXT]
 		 */
 		if ( ! function_exists( 'wm_shortcode_tab' ) ) {
-			function wm_shortcode_tab( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_tab( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'title' => '',
 					), $shortcode );
@@ -4265,7 +4265,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_big_text' ) ) {
-			function wm_shortcode_big_text( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_big_text( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', do_shortcode( '<span class="size-big">' . $content . '</span>' ), $atts );
 			}
@@ -4284,7 +4284,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_huge_text' ) ) {
-			function wm_shortcode_huge_text( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_huge_text( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', do_shortcode( '<span class="size-huge">' . $content . '</span>' ), $atts );
 			}
@@ -4303,7 +4303,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_small_text' ) ) {
-			function wm_shortcode_small_text( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_small_text( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', do_shortcode( '<small>' . $content . '</small>' ), $atts );
 			}
@@ -4322,7 +4322,7 @@
 		 * @version  3.0
 		 */
 		if ( ! function_exists( 'wm_shortcode_uppercase' ) ) {
-			function wm_shortcode_uppercase( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_uppercase( $atts, $content = null, $shortcode = null ) {
 				//Output
 					return apply_filters( 'wmhook_shortcode_' . $shortcode . '_output', do_shortcode( '<span class="uppercase">' . $content . '</span>' ), $atts );
 			}
@@ -4343,7 +4343,7 @@
 		 * @param color [black/white/green/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_yes' ) ) {
-			function wm_shortcode_yes( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_yes( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'color' => '',
 					), $shortcode );
@@ -4379,7 +4379,7 @@
 		 * @param color [black/white/green/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_no' ) ) {
-			function wm_shortcode_no( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_no( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'color' => '',
 					), $shortcode );
@@ -4420,7 +4420,7 @@
 		 * @param title [TEXT, required]
 		 */
 		if ( ! function_exists( 'wm_shortcode_toggle' ) ) {
-			function wm_shortcode_toggle( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_toggle( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'open'  => false,
 						'title' => '',
@@ -4463,7 +4463,7 @@
 		 * @param style [vertical/horizontal/sidebar-left/sidebar-right/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_widget_area' ) ) {
-			function wm_shortcode_widget_area( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_widget_area( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'area'  => '',
 						'style' => 'horizontal',
@@ -4515,7 +4515,7 @@
 		 */
 		 
 		if ( ! function_exists( 'wm_shortcode_mgmap' ) ) {
-			function wm_shortcode_mgmap( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_mgmap( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'height'  => '300px',
 						'width' => '100%',
@@ -4559,7 +4559,7 @@
 		 * @param type   	[p/h1/h2/h3/h4/h5/h6/span/div/section/NONE]
 		 */
 		if ( ! function_exists( 'wm_shortcode_styles' ) ) {
-			function wm_shortcode_styles( $atts, $content = null, $shortcode ) {
+			function wm_shortcode_styles( $atts, $content = null, $shortcode = null ) {
 				$defaults = apply_filters( 'wmhook_shortcode_defaults', array(
 						'color' 	=> '',
 						'background'=> '',
