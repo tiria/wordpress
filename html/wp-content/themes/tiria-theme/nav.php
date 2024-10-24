@@ -1,10 +1,10 @@
-<div class="navigation-wrap <?php echo wm_option( 'design-navigation-icons' ); ?>">
+<div class="navigation-wrap <?php echo wm_option( 'design-navigation-icons' ); ?> <?php if(wm_option( 'design-new-mobile-menu' )) echo 'new-mobile-menu'; ?>">
 	<?php
 	if ( ' nav-right' !== wm_option( 'layout-navigation-position' ) )
 		echo '<div class="wrap-inner"><div class="twelve pane clearfix">';
 	?>
-
-		<nav id="nav-main" class="nav-main" role="navigation"><!-- NAVIGATION -->
+		
+		<nav id="nav-main" class="nav-main " role="navigation"><!-- NAVIGATION -->
 			<?php echo apply_filters( 'wmhook_skip_link_content_html', '<a class="invisible" href="#main-title" title="' . __( 'Skip to content', 'clifden_domain' ) . '">' . __( 'Skip to content', 'clifden_domain' ) . '</a>' ); ?>
 
 			<?php
@@ -45,4 +45,7 @@
 	if ( ' nav-right' !== wm_option( 'layout-navigation-position' ) )
 		echo '</div></div>';
 	?>
+	<?php if(wm_option( 'design-new-mobile-menu' )){ ?>
+		<button id="mobile-close-menu"></button>
+	<?php } ?>
 </div> <!-- /wrap-inner -->

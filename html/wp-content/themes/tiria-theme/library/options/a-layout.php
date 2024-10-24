@@ -125,6 +125,12 @@ array(
 			"class" => "first"
 		),
 			array(
+				"type" => "checkbox",
+				"id" => "design-new-mobile-menu", //no prefix here to keep compatibility after moving from Design section to Layout
+				"label" => __( 'Nouveau menu mobile', 'clifden_domain_panel' ),
+				"desc" => __( 'Active le nouveau menu responsive pour mobile', 'clifden_domain_panel' )
+			),
+			array(
 				"type" => "slider",
 				"id" => "design-header-height", //no prefix here to keep compatibility after moving from Design section to Layout
 				"label" => __( 'Header height', 'clifden_domain_panel' ),

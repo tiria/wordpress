@@ -246,6 +246,49 @@ NOTES:
 				padding-bottom: 0;
 			}
 
+/* menu responsive */
+#mobile-open-menu{
+	position:relative;
+	width:40px;
+	height:40px;
+	border:none;
+	cursor:pointer;
+	display:none;
+	background:#fff;
+}
+#mobile-open-menu:before{
+	content:'';
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	background:url(/wp-content/themes/tiria-theme/assets/img/menu/menu_responsive.png) center center no-repeat;
+	background-size:contain;
+	margin:5px;
+}
+#mobile-close-menu{
+	display:none;
+	position:absolute;
+	top:5%;
+	left:calc( 50% - 20px );
+	width:40px;
+	height:40px;
+	border:none;
+	cursor:pointer;
+	z-index: 99;
+	background:#fff;
+}
+#mobile-close-menu:before{
+	content:'';
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	background:url(/wp-content/themes/tiria-theme/assets/img/menu/menu_close.png) center center no-repeat;
+	background-size:contain;
+}
 
 
 /*********************************************/

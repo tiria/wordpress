@@ -177,6 +177,9 @@ if ( ! is_page_template( 'tpl-construction.php' ) && ' nav-top' === wm_option( '
 	}
 	?>
 
+		<?php if(wm_option( 'design-new-mobile-menu' )){ ?>
+			<button id="mobile-open-menu"></button>
+		<?php } ?>
 	</div>
 </div> <!-- /wrap-inner -->
 
